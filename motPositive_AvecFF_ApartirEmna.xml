@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<motPositive>
+  <SimpleWordOpinon>
+   <noun>
+    <mot num="1">برافو</mot>
+    <mot num="2">
+	<head Gender="FEM_SG">طايرة</head>
+	<motFF num="2-1" Gender="MASC_SG">طاير</motFF>
+    <motFF num="2-2" Gender="MASC_PL">طايرين</motFF>
+    <motFF num="2-3" Gender="FEM_PL">طايرات</motFF>
+	</mot>
+	<mot num="3">روعة</mot>
+    <mot num="4">
+	<head Gender="MASC_SG">محلاك</head>
+	<motFF num="4-1" Gender="FEM/MASC_SG">محلاك</motFF>
+    <motFF num="4-2" Gender="FEM/MASC_PL">محلاكم</motFF>
+	</mot>
+	<mot num="5">
+	<head Gender="FEM_SG">باهية</head>
+    <motFF num="5-1" Gender="MASC_SG">باهي</motFF>
+    <motFF num="5-2" Gender="MASC_PL">باهين</motFF>
+    <motFF num="5-3" Gender="FEM_PL">باهيات</motFF>
+	</mot>
+    <mot num="6">
+	<head Gender="FEM_SG">تحفونة</head>
+    <motFF num="6-1" Gender="MASC_SG">تحفون</motFF>
+    <motFF num="6-2" Gender="MASC_PL">تحفونين</motFF>
+	<motFF num="6-3" Gender="FEM_PL">تحفونات</motFF>	
+	</mot>
+	<mot num="7">هبال</mot>
+    <mot num="8">شكرا</mot>
+    <mot num="9">
+    <head Gender="MASC_SG">عسل</head>
+	<motFF num="9-1" Gender="FEM_SG">عسلة</motFF>	
+    <motFF num="9-2" Gender="FEM_PL">عسلات</motFF>	
+	</mot>
+    <mot num="10">تحية</mot>
+	<mot num="11">
+	<head Gender="FEM_SG">حلوة</head>
+	<motFF num="11-1" Gender="MASC_SG">حلو</motFF>
+    <motFF num="11-2" Gender="MASC_PL">حلوين</motFF>	
+	</mot>
+    <mot num="12">
+	<head Gender="FEM_SG">رايعة</head>
+    <motFF num="12-1" Gender="MASC_SG">رايع</motFF>
+    <motFF num="12-2" Gender="MASC_PL">رايعين</motFF>
+	<motFF num="12-3" Gender="FEM_PL">رايعات</motFF>
+	</mot>
+	<mot num="13">
+	<head Gender="FEM_SG">الناجحة</head>
+    <motFF num="13-1" Gender="MASC_SG">الناجح</motFF>
+    <motFF num="13-2" Gender="MASC_PL">الناجحين</motFF>
+	<motFF num="13-3" Gender="FEM_PL">الناجحات</motFF>
+	</mot>
+    <mot num="14">
+	<head Gender="MASC_PL">مشكورين</head>
+    <motFF num="15-1" Gender="MASC_SG">مشكور</motFF>
+	<motFF num="15-2" Gender="FEM_SG">مشكورة</motFF>
+    <motFF num="15-3" Gender="FEM_PL">مشكورات</motFF>
+	</mot>
+    <mot num="15">
+    <head Gender="MASC_SG">صريح</head>
+	<motFF num="15-1" Gender="FEM_SG">صريحة</motFF>
+	<motFF num="15-2" Gender="MASC_PL">صريحين</motFF>
+    <motFF num="15-3" Gender="FEM_PL">صريحات</motFF>
+	</mot>
+    <mot num="16">
+	<head Gender="FEM_SG">هايلة</head>
+    <motFF num="16-1" Gender="MASC_SG">هايل</motFF>
+	<motFF num="16-2" Gender="MASC_PL">هايلين</motFF>
+	</mot>
+    <mot num="17">
+	<head Gender="MASC_SG">ابداع</head>
+	<motFF num="17-1" Gender="MASC_PL">ابداعات</motFF>
+	</mot>
+	<mot num="18" Gender="FEM_SG">طيارة</mot>
+    <mot num="19">بتوفيق</mot>
+	<mot num="20">
+	<head Gender="FEM_SG">شبايبا</head>
+	<motFF num="20-1" Gender="MASC_SG">شبايب</motFF>
+	</mot>
+	<mot num="21">
+	<head Gender="FEM_SG">محلاها</head>
+	<motFF num="21-1" Gender="MASC_SG">محلاه</motFF>
+	<motFF num="21-2" Gender="FEM/MASC_PL">محلاهم</motFF>
+	</mot>
+	<mot num="22">
+	<head Gender="FEM_SG">متوسطة</head>
+	<motFF num="22-1" Gender="MASC_SG">متوسط</motFF>
+    <motFF num="22-2" Gender="FEM_SG">متوسطين</motFF>
+	</mot>
+    <mot num="23">
+	<head Gender="MASC_SG">معلم</head>
+	<motFF num="23-1" Gender="FEM_SG">معلمة</motFF>
+	</mot>
+	<mot num="24">
+	<head Gender="FEM_SG">ممتازة</head>
+	<motFF num="24-1" Gender="MASC_SG">ممتاز</motFF>
+    <motFF num="24-2" Gender="FEM_SG">ممتازين</motFF>
+	</mot>
+   </noun> 
+   <foreignWord>
+    <mot num="1">Bravo</mot>
+    <mot num="2">Bien</mot>
+	<mot num="3">toop</mot>
+	<mot num="4">bravo</mot>
+    <mot num="5">Merci</mot>
+    <mot num="6">Roi</mot>
+    <mot num="7">Top</mot>
+    <mot num="8">Parfaite</mot>
+   </foreignWord>
+   <Verbs>
+	<verb num="1">
+	<head Gender="2S">تنجح</head>
+	<verbFF num="1-1" Gender="1S">ننجح</verbFF>
+    <verbFF num="1-2" Gender="1P">ننجحوا</verbFF>
+    <verbFF num="1-3" Gender="2P">تنجحوا</verbFF>
+    <verbFF num="1-4" Gender="3MS">ينجح</verbFF>
+    <verbFF num="1-5" Gender="3P">ينجحوا</verbFF>  
+	</verb>
+    <verb num="2">
+	<head Gender="2S">عجبتني</head>
+	<verbFF num="2-1" Gender="1S">نعجب</verbFF>
+    <verbFF num="2-2" Gender="1P">نعجبوا</verbFF>
+    <verbFF num="2-3" Gender="2P">عجبتوني</verbFF>
+    <verbFF num="2-4" Gender="3MS">يعجبني</verbFF>
+    <verbFF num="2-5" Gender="3P">يعجبوني</verbFF> 	
+	</verb>
+    <verb num="3">
+	<head Gender="3MS">ابدع</head>
+    <verbFF num="3-1" Gender="1S">نبدع</verbFF>
+    <verbFF num="3-2" Gender="1P">نبدعوا</verbFF>
+    <verbFF num="2-3" Gender="2S">تبدع</verbFF>
+	<verbFF num="3-4" Gender="2P">تبدعو</verbFF>
+    <verbFF num="3-5" Gender="3P">ابدعوا</verbFF> 
+	</verb>
+	<verb num="4">
+    <head Gender="3MS">اتهبل</head>
+    <verbFF num="4-1" Gender="1S">نهبل</verbFF>
+    <verbFF num="4-2" Gender="1P">نهبلوا</verbFF>
+    <verbFF num="4-3" Gender="2S">تهبل</verbFF>
+	<verbFF num="4-4" Gender="2P">تهبلوا</verbFF>
+    <verbFF num="4-5" Gender="3P">اتهبلوا</verbFF> 
+	</verb>
+    <verb num="5">
+	<head Gender="2S">شدتني</head>
+    <verbFF num="5-1" Gender="1S">نشد</verbFF>
+    <verbFF num="5-2" Gender="1P">نشدوا</verbFF>
+    <verbFF num="5-3" Gender="2P">شدتوني</verbFF>
+    <verbFF num="5-4" Gender="3MS">يشدني</verbFF>
+    <verbFF num="5-5" Gender="3P">يشدوني</verbFF> 	
+	</verb>
+   </Verbs>
+  </SimpleWordOpinon>
+  <PhrasalOpinion> 
+   <VerbalPhrasalOpinion>
+    <phrase num="1">
+	<head Gender="3MS" Weight="1">تعجبني برشة</head>
+	<phraseFF num="1-1" Gender="2S">تعجب برشة</phraseFF>
+    <phraseFF num="1-2" Gender="2P">تعجبوا برشة</phraseFF>
+    <phraseFF num="1-3" Gender="3P">تعجبوني برشة</phraseFF> 	
+	</phrase>
+    <phrase num="2">
+	<head Gender="2P">تنوروا فالحقلة</head>
+    <phraseFF num="2-1" Gender="2S">تنور فالحقلة</phraseFF>
+	</phrase>
+    <phrase num="3">
+	<head Gender="2P">يعطيكم صحة</head>
+	<phraseFF num="3-1" Gender="2S">يعطيك صحة</phraseFF>
+	</phrase>
+	<phrase num="4">
+	<head Gender="2S">راك تهبل</head>
+	<phraseFF num="4-1" Gender="2P">راكم تهبلوا</phraseFF>
+	</phrase>
+	<phrase num="5">
+	<head Gender="3MS">يعطيه الصحة</head>
+	<phraseFF num="5-1" Gender="3P">يعطيهم الصحة</phraseFF>
+	</phrase>
+    <phrase num="6">
+	<head Gender="3MS">يستحق احترام و حب</head>
+	<phraseFF num="6-1" Gender="3P">يستحقوا احترام و حب</phraseFF>
+	</phrase>
+    <phrase num="7">
+	<head Gender="3MS">يعجبني برشة</head>
+    <phraseFF num="7-1" Gender="3P">يعجبوني برشة</phraseFF> 	
+	</phrase>
+	<phrase num="8">
+	<head Gender="2P">يعطيكم الصحة</head>
+	<phraseFF num="8-1" Gender="2S">يعطيك الصحة</phraseFF>
+	</phrase>
+	<phrase num="9" Weight="1">اشكر كثيرا</phrase>
+	<phrase num="10">عجبتني الحلقة برشة</phrase>
+	<phrase num="11">
+	<head Gender="1S">نموت عليك</head>
+	<phraseFF num="11-1" Gender="1P">نموتوا عليك</phraseFF>
+	</phrase>
+	<phrase num="12">
+	<head Gender="1S">تقتل بضحك</head>
+	<phraseFF num="12-1" Gender="1P">تقتلوا بضحك</phraseFF>
+	<phraseFF num="12-2" Gender="3MS">يقتل بضحك</phraseFF>
+    <phraseFF num="12-3" Gender="3P">يقتلوا بضحك</phraseFF> 	
+	</phrase>
+	<phrase num="13">
+	<head Gender="1S">ثابر الى الامام</head>
+	<phraseFF num="13-1" Gender="1P">ثابروا الى الامام</phraseFF>
+	</phrase>
+   </VerbalPhrasalOpinion>
+   <foreignVerbalPhrasal>
+    <phrase num="1">c'est bon</phrase> 
+    <phrase num="2">I LOVE YOU</phrase>
+   </foreignVerbalPhrasal>  
+   <NominalPharasalOpinion>
+    <phrase num="1">
+	<head Gender="MASC_SG">برنامج رايع</head>
+    <phraseFF num="1-1" Gender="MASC_PL">برامج رايعين</phraseFF>
+	</phrase>
+    <phrase num="2">
+	<head Gender="MASC_PL">ربي معاكم</head>
+	<phraseFF num="2-1" Gender="MASC_SG">ربي معاك</phraseFF>
+	</phrase>
+    <phrase num="3">كل تشجيعاتي</phrase>
+    <phrase num="4">انا من عشاق</phrase>
+    <phrase num="5">
+	<head Gender="MASC_PL">ربي ينور طريقكم</head>
+	<phraseFF num="5-1" Gender="MASC_SG">ربي ينور طريقك</phraseFF>
+	</phrase>
+    <phrase num="6">
+	<head Gender="MASC_SG">احلى برنامج</head>
+	<phraseFF num="6-1" Gender="MASC_PL">احلى برامج</phraseFF>
+	</phrase>
+    <phrase num="7">
+	<head Gender="MASC_SG">برنامج ممتاز</head>
+	<phraseFF num="7-1" Gender="MASC_PL">برامج ممتازين</phraseFF>
+	</phrase>
+    <phrase num="8">
+	<head Gender="MASC_SG" Weight="1">برنامج جميل جدا</head>
+	<phraseFF num="8-1" Gender="MASC_PL">برامج جميلة جدا</phraseFF>
+	</phrase>
+    <phrase num="9">
+	<head Gender="FEM_SG">احسن قناة</head>
+	<phraseFF num="9-1" Gender="MASC_PL">احسن قنوات</phraseFF>
+	</phrase>
+    <phrase num="10">
+	<head Gender="FEM_SG">حلوة برشة</head>
+	<phraseFF num="10-1" Gender="MASC_SG">حلو برشة</phraseFF>
+    <phraseFF num="10-2" Gender="MASC_PL">حلوين برشة</phraseFF>	
+	</phrase>
+    <phrase num="11">
+	<head Gender="MASC_SG" Weight="1">منشط ناجح</head>
+	<phraseFF num="11-1" Gender="FEM_SG">منشطة ناجحة</phraseFF>
+	</phrase>
+    <phrase num="12">
+	<head Gender="FEM_SG">احلى حلقة</head>
+	<phraseFF num="12-1" Gender="FEM_PL">احلى حلقات</phraseFF>
+	</phrase>
+    <phrase num="13">
+	<head Gender="FEM_SG">حلقة طيارة</head>
+    <phraseFF num="13-1" Gender="FEM_PL">حلقات طايرين</phraseFF>
+	</phrase>
+    <phrase num="14">
+	<head Gender="FEM_SG">حلقة عالمية</head>
+	<phraseFF num="14-1" Gender="FEM_PL">حلقات عالمية</phraseFF>
+	</phrase>
+    <phrase num="15">
+	<head Gender="FEM_SG">حلقة ممتازة</head>
+	<phraseFF num="15-1" Gender="FEM_PL">حلقات ممتازين</phraseFF>
+	</phrase>
+    <phrase num="16">
+	<head Gender="MASC_PL">الله يعاونكم</head>
+	<phraseFF num="15-1" Gender="MASC_SG">الله يعاونك</phraseFF>
+	</phrase>
+    <phrase num="17">
+	<head Gender="MASC_SG">اعلامي كبير</head>
+	<phraseFF num="17-1" Gender="FEM_SG">اعلامية كبيرة</phraseFF>
+	</phrase>
+    <phrase num="18">
+	<head Gender="FEM_SG">حصة عسل</head>
+	<phraseFF num="18-1" Gender="FEM_PL">حصص عسل</phraseFF>
+	</phrase>
+    <phrase num="19">
+	<head Gender="MASC_SG">تبارك الله عليه</head>
+	<phraseFF num="19-1" Gender="MASC_PL">تبارك الله عليهم</phraseFF>
+	</phrase>
+    <phrase num="20">برشا جو</phrase>
+    <phrase num="21">ربي يكون في العون</phrase>
+    <phrase num="22">الله يكون في عون</phrase>
+    <phrase num="23">تحية طيبة</phrase>
+    <phrase num="24">
+	<head Gender="FEM_SG" Weight="1">حلقة قوية برشة</head>
+	<phraseFF num="24-1" Gender="FEM_PL">حلقات قويين برشة</phraseFF>
+	</phrase>
+    <phrase num="25">
+	<head Gender="MASC_SG">بطل الحلقة</head>
+	<phraseFF num="25-1" Gender="FEM_SG">بطلة الحلقة</phraseFF>
+	</phrase>
+    <phrase num="26">
+	<head Gender="MASC_SG">منورالحلقة</head>
+	<phraseFF num="26-2" Gender="FEM_SG">منورة الحلقة</phraseFF>
+	<phraseFF num="26-3" Gender="FEM/MASC_PL">منورين الحلقة</phraseFF>
+	</phrase>
+    <phrase num="27">
+	<head Gender="FEM_SG">حلقة قوية</head>
+	<phraseFF num="27-1" Gender="FEM/MASC_PL">حلقات قويين</phraseFF>
+	</phrase>
+    <phrase num="29">تعدات رايضة</phrase>
+    <phrase num="30">
+	<head Gender="MASC_SG">يرحم والديك</head>
+	<phraseFF num="30-1" Gender="MASC_PL">يرحم والديكم</phraseFF>
+	</phrase>
+    <phrase num="31">
+	<head Gender="FEM_SG">حلقة نظيفة</head>
+	<phraseFF num="31-1" Gender="MASC_PL">حلقات نظاف</phraseFF>
+	</phrase>
+    <phrase num="32">
+	<head Gender="MASC_SG">احسن برنامج</head>
+	<phraseFF num="32-1" Gender="MASC_PL">احسن برامج</phraseFF>
+	</phrase>
+    <phrase num="33">
+	<head Gender="FEM_SG" Weight="1">حلوة برشة</head>
+	<phraseFF num="33-1" Gender="MASC_SG">حلو برشة</phraseFF>
+	<phraseFF num="33-2" Gender="MASC_PL">حلوين برشة</phraseFF>
+	</phrase>
+    <phrase num="34">
+	<head Gender="MASC_SG">يا معلم</head>
+	<phraseFF num="34-1" Gender="FEM_SG">يا معلمة</phraseFF>
+	</phrase>
+    <phrase num="35">تحية طيبة</phrase>
+    <phrase num="36">
+	<head Gender="MASC_SG">دايما متالق</head>
+	<phraseFF num="36-1" Gender="FEM_SG">دايما متالقة</phraseFF>
+	<phraseFF num="36-2" Gender="FEM/MASC_PL">دايما متالقين</phraseFF>
+	</phrase>
+    <phrase num="37">
+	<head Gender="MASC_SG">سياسي بمتياز</head>
+	<phraseFF num="37-1" Gender="FEM_SG">سياسية بمتياز</phraseFF>
+	</phrase>
+    <phrase num="38">قمة الثقافة الشجاعة</phrase>
+    <phrase num="39">
+	<head Gender="FEM_SG">شخصية رايعة</head>
+	<phraseFF num="39-1" Gender="FEM/MASC_PL">شخصيات رايعين</phraseFF>
+	</phrase>
+    <phrase num="40">كالعادة في تالق</phrase>
+    <phrase num="41">له كل التقدير والاحترام</phrase>
+    <phrase num="42">عشرة على عشرة</phrase>
+    <phrase num="43">شي يمتع ويضيف للمشاهد</phrase>
+    <phrase num="44">لا يمل من الاستماع اليه</phrase>
+    <phrase num="45">دايما في قلب الحدث</phrase>
+    <phrase num="46">
+	<head Gender="MASC_SG">ربي يوفقه</head>
+	<phraseFF num="46-1" Gender="FEM_SG">ربي يوفقها</phraseFF>
+	<phraseFF num="46-2" Gender="FEM/MASC_PL">ربي يوفقهم</phraseFF>
+	</phrase>
+    <phrase num="47">
+	<head Gender="MASC_SG" Weight="1">ياسر ظامر</head>
+	<phraseFF num="47-1" Gender="FEM_SG">ياسر ظامرة</phraseFF>
+	<phraseFF num="47-2" Gender="FEM/MASC_PL">ياسر ظامرين</phraseFF>
+	</phrase>
+    <phrase num="48">
+	<head Gender="MASC_SG">برنامج حلو</head>
+	<phraseFF num="48-1" Gender="FEM/MASC_PL">برامج حلوة</phraseFF>
+	</phrase>
+    <phrase num="49">
+	<head Gender="MASC_SG" Weight="1">تحفون برشة</head>
+	<phraseFF num="49-1" Gender="FEM_SG">تحفونة برشة</phraseFF>
+	<phraseFF num="49-2" Gender="FEM/MASC_PL">تحفونين برشة</phraseFF>
+	</phrase>
+    <phrase num="50">
+	<head Gender="FEM_SG">حصة موثرة و مغذية</head>
+	<phraseFF num="50-1" Gender="FEM/MASC_PL">حصص موثرين و مغذين</phraseFF>
+	</phrase>
+    <phrase num="51">موش نورمال</phrase>
+    <phrase num="52">موش بطالة</phrase>
+    <phrase num="53">
+	<head Gender="MASC_SG">طاير بيكم</head>
+	<phraseFF num="53-1" Gender="FEM_SG">طايرة بيكم</phraseFF>
+	<phraseFF num="53-2" Gender="FEM/MASC_PL">طايرين بيكم</phraseFF>
+	</phrase>
+    <phrase num="54">
+	<head Gender="FEM_SG">احسن حلقة</head>
+	<phraseFF num="54-1" Gender="FEM/MASC_PL">احسن حلقات</phraseFF>
+	</phrase>
+    <phrase num="55">
+	<head Gender="MASC_SG">موضوع غاية في اهمية</head>
+	<phraseFF num="55-1" Gender="MASC_PL">مواضيع غاية في اهمية</phraseFF>
+	</phrase>
+    <phrase num="56">
+	<head Gender="MASC_SG">موضوع هايل</head>
+	<phraseFF num="56-1" Gender="MASC_PL">مواضيع هايلين</phraseFF>
+	</phrase>
+    <phrase num="57">
+	<head Gender="MASC_SG">ربي يوفقك</head>
+	<phraseFF num="57-1" Gender="MASC_PL">ربي يوفقكم</phraseFF>
+	</phrase>
+    <phrase num="58">
+	<head Gender="FEM_SG">حلقة هايلة</head>
+	<phraseFF num="58-1" Gender="FEM/MASC_PL">حلقات هايلين</phraseFF>
+	</phrase>
+    <phrase num="59">
+	<head Gender="MASC_SG">مشا الله عليك</head>
+	<phraseFF num="59-1" Gender="MASC_PL">مشا الله عليكم</phraseFF>
+	</phrase>
+    <phrase num="60">
+	<head Gender="MASC_SG">موضوع باهي</head>
+	<phraseFF num="60-1" Gender="MASC_PL">مواضيع باهين</phraseFF>
+	</phrase>
+	<phrase num="61">تحياتي لكم</phrase> 
+	<phrase num="62">تحياتي الخالصة</phrase>
+   </NominalPharasalOpinion> 
+   <foreignNominalPhrasal>
+    <phrase num="1">bonne continuation</phrase>
+    <phrase num="2">Émission réussie</phrase>
+    <phrase num="3">Bonne épisode</phrase>   
+    <phrase num="4">homme le plus serieux</phrase>   
+    <phrase num="5">le meilleur parmi les meilleurs</phrase>
+	<phrase num="6">Excellent comme toujours</phrase>
+	<phrase num="7">reste meilleur</phrase>
+    <phrase num="8" Weight="1">Trés bonne émission</phrase>
+    <phrase num="9">Good nice program</phrase>
+   </foreignNominalPhrasal>
+   </PhrasalOpinion> 
+</motPositive>
+
