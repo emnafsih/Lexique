@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Fsih"
+    given-names: "Emna"
+  - family-names: "Boujelbane"
+    given-names: "Rahma"
+  - family-names: "Hadrich Belguith"
+    given-names: "Lamia"
+  doi: "10.1007/s10579-023-09697-6"
+  journal: "Language Resources and Evaluation"
+  month: 12
+  title: "Resources building for sentiment analysis of content disseminated by Tunisian medias in social networks."
+  year: 2023
