@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<motNegative>
+ <SimpleWordOpinon>
+   <noun>
+    <mot num="1">
+	<head Gender="MASC_PL">شلايك</head>
+	<motFF num="1-1" Gender="FEM_SG">شلاكة</motFF>
+	</mot>
+    <mot num="2">
+	<head Gender="FEM_SG">ماسطة</head>
+	<motFF num="2-1" Gender="MASC_SG">ماسط</motFF>
+    <motFF num="2-2" Gender="FEM/MASC_PL">ماسطين</motFF>
+	</mot>
+	<mot num="3">
+	<head Gender="FEM_SG">تافهة</head>
+	<motFF num="3-1" Gender="MASC_SG">تافه</motFF>
+	<motFF num="3-2" Gender="MASC_PL">تافهين</motFF>
+    <motFF num="3-3" Gender="FEM_PL">تافهات</motFF>
+	</mot>
+    <mot num="4" Gender="MASC_SG">كركوز</mot>
+    <mot num="5">
+	<head Gender="MASC_SG">فاشل</head>
+	<motFF num="5-1" Gender="MASC_PL">فاشلين</motFF>
+	<motFF num="5-2" Gender="FEM_SG">فاشلة</motFF>
+    <motFF num="5-3" Gender="FEM_PL">فاشلات</motFF>
+	</mot>
+    <mot num="6" Gender="MASC_SG">صفر</mot>
+    <mot num="7">
+	<head Gender="MASC_PL">زبل</head>
+	<motFF num="7-1" Gender="FEM_SG">زبلة</motFF>
+    <motFF num="7-2" Gender="FEM_PL">زبالة</motFF>
+	</mot>
+	<mot num="8" Gender="MASC_SG">زفت</mot>
+    <mot num="9">
+	<head Gender="FEM_SG">فضايح</head>
+	<motFF num="9-1" Gender="FEM_SG">فضيحة</motFF>
+	</mot>
+	<mot num="10">لوووول</mot>
+    <mot num="11">
+	<head Gender="MASC_SG">ممسطو</head>
+	<motFF num="11-1" Gender="FEM_SG">ممسطها</motFF>
+    <motFF num="11-2" Gender="FEM/MASC_PL">ممسطهم</motFF>
+	</mot>
+    <mot num="12">
+	<head Gender="FEM_SG">سخافة</head>
+	<motFF num="12-1" Gender="FEM_PL">سخافات</motFF>
+	</mot>
+    <mot num="13" Gender="MASC_SG">كاركوز</mot>
+    <mot num="14">اخيت</mot>
+    <mot num="15">ديقاج</mot>
+    <mot num="16">
+	<head Gender="MASC_SG">منافق</head>
+	<motFF num="16-1" Gender="MASC_PL">منافقين</motFF>
+	<motFF num="16-2" Gender="FEM_SG">منافقة</motFF>
+    <motFF num="16-3" Gender="FEM_PL">منافقات</motFF>
+	</mot>
+    <mot num="17">
+	<head Gender="MASC_PL">متخلفين</head>
+	<motFF num="17-1" Gender="MASC_SG">متخلف</motFF>
+	<motFF num="17-2" Gender="FEM_SG">متخلفة</motFF>
+	</mot>
+	<mot num="18" Gender="MASC_SG">احمق</mot>
+    <mot num="19">امسط</mot>
+    <mot num="20">
+	<head Gender="MASC_SG">بيوع</head>
+	<motFF num="20-1" Gender="FEM_SG">بيوعة</motFF>
+	</mot>
+	<mot num="21">طحين</mot>
+    <mot num="22">
+	<head Gender="MASC_SG">طحان</head>
+	<motFF num="22-1" Gender="FEM_SG">طحانة</motFF>
+	<motFF num="22-2" Gender="MASC_PL">طحانين</motFF>
+	</mot>
+    <mot num="23">
+	<head Gender="MASC_SG">دجال</head>
+	<motFF num="23-1" Gender="MASC_PL">دجالين</motFF>
+	<motFF num="23-2" Gender="FEM_SG">دجالة</motFF>
+	</mot>
+	<mot num="24">تهريج</mot>
+    <mot num="25">
+	<head Gender="MASC_SG">ساقط</head>
+	<motFF num="25-1" Gender="FEM_SG">ساقطة</motFF>
+	<motFF num="25-2" Gender="MASC_PL">ساقطين</motFF>
+    <motFF num="25-3" Gender="FEM_PL">ساقطات</motFF>
+	</mot>
+    <mot num="26">
+	<head Gender="FEM_SG">تعيسة</head>
+	<motFF num="26-1" Gender="MASC_SG">تعيس</motFF>
+	<motFF num="26-2" Gender="MASC_PL">تعيسين</motFF>
+	</mot>
+	<mot num="27">
+	<head Gender="MASC_SG">الكلب</head>
+	<motFF num="27-1" Gender="FEM_SG">الكلبة</motFF>
+	<motFF num="27-2" Gender="MASC_PL">الكلاب</motFF>
+	</mot>
+	<mot num="28">
+	<head Gender="FEM_SG">مقحولة</head>
+	<motFF num="28-1" Gender="MASC_SG">مقحول</motFF>
+	<motFF num="28-2" Gender="MASC_PL">مقحولين</motFF>
+	</mot>
+	<mot num="29">
+	<head Gender="FEM_SG">سخيفة</head>
+	<motFF num="29-1" Gender="MASC_SG">سخيف</motFF>
+	<motFF num="29-2" Gender="MASC_PL">سخيفين</motFF>
+	</mot>
+	<mot num="30">اتفوه</mot>
+	<mot num="31">
+	<head Gender="MASC_SG">عالحيط</head>
+	<motFF num="31-1" Gender="MASC_PL">عالحيوط</motFF>
+	</mot>
+    <mot num="32">ابتذال</mot>
+    <mot num="33">
+	<head Gender="MASC_SG">بهيم</head>
+	<motFF num="33-1" Gender="FEM_SG">يهيمة</motFF>
+	<motFF num="33-2" Gender="MASC_PL">بهايم</motFF>
+	</mot>
+	<mot num="34">
+	<head Gender="MASC_SG">الرهط</head>
+	<motFF num="34-1" Gender="FEM_SG">الرهطة</motFF>
+	<motFF num="34-2" Gender="MASC_PL">الرهوط</motFF>
+	</mot>
+    <mot num="35">
+	<head Gender="MASC_SG">منحط</head>
+	<motFF num="35-1" Gender="FEM_SG">منحطة</motFF>
+	<motFF num="35-2" Gender="MASC_PL">منحطين</motFF>
+	</mot>
+    <mot num="36" Gender="MASC_SG">نفاق</mot>
+	<mot num="37">
+	<head Gender="MASC_SG">قذر</head>
+	<motFF num="37-1" Gender="FEM_SG">قذرة</motFF>
+	<motFF num="37-2" Gender="MASC_PL">قذرين</motFF>
+	</mot>
+	<mot num="38">
+    <head Gender="MASC_SG">الساقط</head>
+	<motFF num="38-1" Gender="FEM_SG">الساقطة</motFF>
+	<motFF num="38-2" Gender="MASC_PL">الساقطين</motFF>
+    <motFF num="38-3" Gender="FEM_PL">الساقطات</motFF>
+	</mot>
+    <mot num="39">
+	<head Gender="MASC_SG">متخلف</head>
+	<motFF num="39-1" Gender="FEM_SG">متخلفة</motFF>
+	<motFF num="39-2" Gender="MASC_PL">متخلفين</motFF>
+	</mot>
+    <mot num="40">تفوه</mot>
+	<mot num="41">
+	<head Gender="MASC_SG">غفاص</head>
+	<motFF num="41-1" Gender="MASC_PL">غفاصة</motFF>
+	</mot>
+	<mot num="42">
+	<head Gender="MASC_SG">مغرور</head>
+	<motFF num="42-1" Gender="FEM_SG">مغرورة</motFF>
+	<motFF num="42-2" Gender="MASC_PL">مغرورين</motFF>
+	</mot>
+    <mot num="43">
+	<head Gender="MASC_SG">ممسطك</head>
+	<motFF num="43-1" Gender="MASC_PL">ممسطكم</motFF>
+	</mot>
+	<mot num="44">بف</mot>
+	<mot num="45" Gender="MASC_SG">الديوث</mot>
+	<mot num="46">
+	<head Gender="MASC_SG">باسل</head>
+	<motFF num="46-1" Gender="FEM_SG">باسلة</motFF>
+	<motFF num="46-2" Gender="MASC_PL">باسلين</motFF>
+	</mot>
+	<mot num="47" Gender="FEM_SG">المسوطية</mot>
+   </noun> 
+   <foreignWord>
+    <mot num="1">Nul</mot>
+    <mot num="2">Zéro</mot>
+   </foreignWord>   
+   <Verbs>
+	<verb num="1">
+	<head Gender="2P">كرهتكم</head>
+	<verbFF num="1-1" Gender="2S">كرهتك</verbFF>
+    <verbFF num="1-2" Gender="3MS">نكرهك</verbFF>
+    <verbFF num="1-3" Gender="3P">نكرهكم</verbFF>  
+	</verb>
+	<verb num="2">
+	<head Gender="2S">فضحتنا</head>
+	<verbFF num="2-1" Gender="2P">فضحتونا</verbFF>
+	</verb>
+    <verb num="3">
+	<head Gender="2P">مسطوها</head>
+	<verbFF num="3-1" Gender="2S">مسطها</verbFF>
+	</verb>
+	<verb num="4">
+	<head Gender="2S">تعيف</head>
+	<verbFF num="4-1" Gender="2P">تعيفوا</verbFF>
+	</verb>
+   </Verbs>
+  </SimpleWordOpinon>
+  <PhrasalOpinion> 
+   <VerbalPhrasalOpinion>
+    <phrase num="1">
+	<head Gender="2S">راك كرهتنا</head>
+	<phraseFF num="1-1" Gender="2P">راكم كرهتونا</phraseFF>
+	</phrase>
+	<phrase num="2">
+	<head Gender="1S">ما تفرجتش</head>
+	<phraseFF num="2-1" Gender="1P">ما تفرجناش</phraseFF>
+	</phrase>
+	<phrase num="3">
+	<head Gender="2S">مايستحقش تعطف هذاك الكل</head>
+	<phraseFF num="3-1" Gender="2P">مايستحقش تعطفوا هذاك الكل</phraseFF>
+	</phrase>
+	<phrase num="4">
+	<head Gender="2S">راك كثرت مالمساطة</head>
+	<phraseFF num="4-1" Gender="2P">مايستحقش تعطفوا هذاك الكل</phraseFF>
+	</phrase>
+	<phrase num="5">
+	<head Gender="1S">انا نكره</head>
+	<phraseFF num="5-1" Gender="1P">نحنا نكرهوا</phraseFF>
+	</phrase>
+	<phrase num="6">
+	<head Gender="2S">يهتم بتفاهات</head>
+	<phraseFF num="6-1" Gender="2P">يهتموا بتفاهات</phraseFF>
+	</phrase>
+	<phrase num="7">
+	<head Gender="2P">تزيدو على الطين بالا</head>
+	<phraseFF num="7-1" Gender="2S">تزيد على الطين بالا</phraseFF>
+	</phrase>
+	<phrase num="8">اعمل اريحة</phrase>
+	<phrase num="9">
+	<head Gender="1S">ما عادش نتفرج فيه</head>
+	<phraseFF num="9-1" Gender="1P">ما عادش نتفرجوا فيه</phraseFF>
+	</phrase>
+	<phrase num="10">
+	<head Gender="2S">معادش تجيب</head>
+	<phraseFF num="10-1" Gender="2P">معادش تجيبوا</phraseFF>
+	</phrase>
+    <phrase num="11">
+	<head Gender="2S">معادش تجبلنا</head>
+	<phraseFF num="11-1" Gender="2P">معادش تجبولنا</phraseFF>
+	</phrase>
+	<phrase num="12">
+    <head Gender="1S">ما عادش نتفرج</head>
+	<phraseFF num="12-1" Gender="1P">ما عادش نتفرجوا</phraseFF>
+	</phrase>
+	<phrase num="13">
+    <head Gender="1S">لم اعد اشاهدها</head>
+	<phraseFF num="13-1" Gender="1P">لم نعد نشاهدها</phraseFF>
+	</phrase>
+	<phrase num="14">ضاربو في روحو</phrase>
+	<phrase num="15">
+	<head Gender="2S">يخي قداش من مرة تجيبه</head>
+	<phraseFF num="15-1" Gender="2P">يخي قداش من مرة تجيبوا</phraseFF>
+	</phrase>
+	<phrase num="16">
+	<head Gender="2S">قعد حصة كاملة يستفز فيه</head>
+	<phraseFF num="16-1" Gender="2P">قعدوا حصة كاملة يستفزوا فيه</phraseFF>
+	</phrase>
+	<phrase num="17">
+	<head Gender="2P">خافوا ربي</head>
+	<phraseFF num="17-1" Gender="2S">خاف ربي</phraseFF>
+	</phrase>
+	<phrase num="18">
+	<head Gender="2P">ايبيعوا في لكلام</head>
+	<phraseFF num="18-1" Gender="2S">ايبيع في لكلام</phraseFF>
+	</phrase>
+	<phrase num="19">
+	<head Gender="2S">علاش جايب الارهابي هذا</head>
+	<phraseFF num="19-1" Gender="2P">علاش جايبين الارهابي هذا</phraseFF>
+	</phrase>
+	<phrase num="20">بعث الفتنة و نشر الرذيلة</phrase>
+    <phrase num="21">البرنامج متوفقش</phrase>
+    <phrase num="22">
+	<head Gender="2S">يزي من هرج</head>
+	<phraseFF num="22-1" Gender="2P">يزيو من هرج</phraseFF>
+	</phrase>
+    <phrase num="23">
+	<head Gender="2P">لن تنجحوا</head>
+	<phraseFF num="23-1" Gender="2S">لن تنجح</phraseFF>
+	</phrase>
+    <phrase num="24">
+	<head Gender="2P">جايين ينشروا في صابونهم</head>
+	<phraseFF num="24-1" Gender="2S">جاي ينشر في صابونو</phraseFF>
+	</phrase>
+    <phrase num="25">
+	<head Gender="2S">جيب رجال تتكلم</head>
+	<phraseFF num="25-1" Gender="2P">جيبوا رجال تتكلم</phraseFF>
+	</phrase>
+    <phrase num="26">انكشف المستور</phrase>	
+	<phrase num="27">
+	<head Gender="3S" Weight="1">ما يضحكش جملة</head>
+	<phraseFF num="27-1" Gender="3P">ما يضحكوش جملة</phraseFF>
+	</phrase>
+    <phrase num="28">
+	<head Gender="2S">ما عجبنيش</head>
+	<phraseFF num="28-1" Gender="2P">ماعجبونيش</phraseFF>
+	</phrase>
+    <phrase num="29">
+	<head Gender="3S">راهو مسطها</head>
+	<phraseFF num="29-1" Gender="3P">راهم مسطوها</phraseFF>
+	</phrase>
+	<phrase num="30">
+	<head Gender="2S">خريت فيه</head>
+	<phraseFF num="30-1" Gender="2P">خريتوا فيه</phraseFF>
+	</phrase>
+	<phrase num="31">
+	<head Gender="1P">يزونا من السياسة كرهتونا فيها</head>
+	<phraseFF num="31-1" Gender="1S">يزينا من السياسة كرهتني فيها</phraseFF>
+	</phrase>
+	<phrase num="32">
+	<head Gender="3P">قداش تضحكوني</head>
+	<phraseFF num="32-1" Gender="3MS">قداش تضحكني</phraseFF>
+	</phrase>
+	<phrase num="33">ما يعرفش يقدم البرنامج</phrase>
+	<phrase num="34">
+	<head Gender="2S">يوترو فينا</head>
+	<phraseFF num="34-1" Gender="2P">يوتر فينا</phraseFF>
+	</phrase>
+	<phrase num="35">ما عادش تجيبوه</phrase>
+	<phrase num="36">علاش يجيبوا فيه</phrase>
+    <phrase num="37">اش مجيبك في</phrase>
+	<phrase num="38">اشكون ما زال ماجبتوش</phrase>
+	<phrase num="39">
+	<head Gender="2S">ماعجبتنيش</head>
+    <phraseFF num="39-1" Gender="2P">ماعجبتونيش</phraseFF>
+    <phraseFF num="39-2" Gender="3MS">مايعجبنيش</phraseFF>
+    <phraseFF num="39-3" Gender="3P">مايعجبونيش</phraseFF>  
+	</phrase>
+	<phrase num="40">
+	<head Gender="3S">يفضح روحه</head>
+	<phraseFF num="40-1" Gender="3P">يفضحوا رواحهم</phraseFF>
+	</phrase>
+	<phrase num="41">برنامجكم مايعجبنيش</phrase>
+	<phrase num="42">
+	<head Gender="2P">ترقصون على احزان و مصايب الناس</head>
+	<phraseFF num="42-1" Gender="2S">ترقص على احزان و مصايب الناس</phraseFF>
+	</phrase>
+	<phrase num="43">
+	<head Gender="2S">يستغل في عواطف</head>
+	<phraseFF num="43-1" Gender="2P">يستغلوا في عواطف</phraseFF>
+	</phrase>
+	<phrase num="44">
+	<head Gender="2S">موش محضر درسو</head>
+	<phraseFF num="44-1" Gender="2P">موش محضرين درسهم</phraseFF>
+	</phrase>
+	<phrase num="45">
+	<head Gender="2S">يجيب الجاير</head>
+	<phraseFF num="45-1" Gender="2P">يجيبوا الجاير</phraseFF>
+	</phrase>
+   </VerbalPhrasalOpinion>
+   <foreignVerbalPhrasal>
+    <verb num="1">n'est pas professionnel</verb>
+   </foreignVerbalPhrasal>  
+   <NominalPharasalOpinion>  
+    <phrase num="1">
+	<head Gender="FEM_SG">مثيرة للجدل</head>
+	<phraseFF num="1-1" Gender="MASC_SG">مثير للجدل</phraseFF>
+    <phraseFF num="1-2" Gender="MASC_PL">مثرين للجدل</phraseFF>	
+	</phrase>
+    <phrase num="2">
+	<head Gender="MASC_Pl">وجوه اللوح</head>
+	<phraseFF num="2-1" Gender="MASC_SG">وجه اللوح</phraseFF>
+	</phrase>
+    <phrase num="3">نشر الغسيل</phrase>
+    <phrase num="4">على حيط</phrase>
+    <phrase num="5">
+	<head Gender="FEM_SG">زبلة كلعادة</head>
+	<phraseFF num="5-1" Gender="MASC_SG">زبل كلعادة</phraseFF>
+    <phraseFF num="5-2" Gender="FEM_PL">زبالة كلعادة</phraseFF>
+	</phrase>
+    <phrase num="6">
+	<head Gender="MASC_SG">كيف وجهك</head>
+	<phraseFF num="6-1" Gender="MASC_PL">كيف وجهكم</phraseFF>	
+	</phrase>
+    <phrase num="7">تنبير اكهو</phrase>
+    <phrase num="8">
+	<head Gender="FEM_PL">ملا فضايح</head>
+	<phraseFF num="8-1" Gender="FEM_SG">ملا فضيحة</phraseFF>
+	</phrase>
+    <phrase num="9">
+	<head Gender="MASC_SG">مقدم فاشل</head>
+	<phraseFF num="9-1" Gender="FEM_SG">مقدمة فاشلة</phraseFF>
+	<phraseFF num="9-2" Gender="MASC_PL">مقدمين فاشلين</phraseFF>	
+	</phrase>
+    <phrase num="10">قناة الحمار</phrase>
+    <phrase num="11">يا فارطاس</phrase>
+    <phrase num="12">قناة العار</phrase>
+    <phrase num="13">راس بصل</phrase>
+    <phrase num="14">اعلام العار</phrase>
+    <phrase num="15">
+	<head Gender="MASC_SG" Weight="1">خايبا ياسر</head>
+	<phraseFF num="15-1" Gender="MASC_SG">خايب ياسر</phraseFF>
+    <phraseFF num="15-2" Gender="MASC_PL">خايبين ياسر</phraseFF>	
+	</phrase>
+    <phrase num="16">
+	<head Gender="FEM_SG">مارقة كالعادة</head>
+	<phraseFF num="16-1" Gender="MASC_SG">مارق كلعادة</phraseFF>
+    <phraseFF num="16-2" Gender="MASC_PL">مارقين كلعادة</phraseFF>	
+	</phrase>
+    <phrase num="17">
+	<head Gender="FEM_SG">حلقة عادية</head>
+    <phraseFF num="17-1" Gender="MASC_PL">حلقات عاديين</phraseFF>	
+	</phrase>
+    <phrase num="18">مش حاجة</phrase>
+    <phrase num="19">برنامج تافه</phrase>
+    <phrase num="20">
+	<head Gender="MASC_SG">امسط منشط</head>
+	<phraseFF num="20-1" Gender="FEM_SG">امسط منشطة</phraseFF>
+	</phrase>
+    <phrase num="21">
+	<head Gender="FEM_SG">ماسطة لاسطة</head>
+	<phraseFF num="21-1" Gender="MASC_SG">ماسط لاسط</phraseFF>
+    <phraseFF num="21-2" Gender="MASC_PL">ماسطين لاسطين</phraseFF>	
+	</phrase>
+    <phrase num="22">على الجدار</phrase>
+    <phrase num="23">
+	<head Gender="FEM_SG">ماسطة لحقيقة</head>
+	<phraseFF num="23-1" Gender="MASC_SG">ماسط لحقيقة</phraseFF>
+    <phraseFF num="23-2" Gender="MASC_PL">ماسطين لحقيقة</phraseFF>	
+	</phrase>
+    <phrase num="24">مساط ياسر</phrase>
+    <phrase num="25">برشة نيفاق</phrase>
+    <phrase num="26">
+	<head Gender="MASC_SG" Weight="1">ركيك جدا</head>
+	<phraseFF num="26-1" Gender="FEM_SG">ركيكة جدا</phraseFF>
+    <phraseFF num="26-2" Gender="MASC_PL">ركيكين جدا</phraseFF>
+	</phrase>
+    <phrase num="27">برنامج تلفزيوني تافه</phrase>
+    <phrase num="28">
+	<head Gender="MASC_PL">يا بهايم</head>
+	<phraseFF num="28-1" Gender="MASC_SG">يا بهيم</phraseFF>
+    <phraseFF num="28-2" Gender="FEM_SG">يا بهيمة</phraseFF>
+	</phrase>
+    <phrase num="29">برنامج الى الورا سر</phrase>
+    <phrase num="30">ياسر طحين</phrase>
+    <phrase num="31">ماجات شي</phrase>
+    <phrase num="36">حرام عليك</phrase>
+    <phrase num="37">العيب موش فيك</phrase>
+    <phrase num="38">
+	<head Gender="MASC_SG" Weight="1">اكبر طحان</head>
+	<phraseFF num="38-1" Gender="FEM_SG">اكبر طحانة</phraseFF>
+    <phraseFF num="38-2" Gender="MASC_PL">اكبر طحانين</phraseFF>
+	</phrase>
+    <phrase num="39">ملا حالة</phrase>
+    <phrase num="40">قناة دعارة</phrase>
+    <phrase num="41">والله عيب عليكم</phrase>
+    <phrase num="42">بدون تعليق</phrase>
+    <phrase num="43">تفوه عليك</phrase>
+    <phrase num="44">كلب و بيوع</phrase>
+    <phrase num="45">حمام نسا</phrase>
+    <phrase num="46">تفوه علا هالشكال</phrase>
+    <phrase num="47">عفاط كبير</phrase>
+    <phrase num="48">الاعلام المسخ</phrase>
+    <phrase num="49">برنامج مسود</phrase>
+    <phrase num="50">ثرثرة وميوعة</phrase>
+    <phrase num="51">
+	<head Gender="MASC_SG">برنامج ممل</head>
+    <phraseFF num="51-1" Gender="MASC_PL">برامج مملة</phraseFF>	
+	</phrase>
+    <phrase num="52">
+	<head Gender="MASC_SG">برنامج حقير</head>
+	<phraseFF num="52-1" Gender="MASC_PL">برامج حقيرة</phraseFF>	
+	</phrase>
+    <phrase num="53">دزان بيداق</phrase>
+    <phrase num="54">عركة متاع عزايز</phrase>
+    <phrase num="55">برنامج كيما الكاغط</phrase>
+    <phrase num="56">حلقة هابطة</phrase>
+    <phrase num="57">تراجع كبير</phrase>
+    <phrase num="58">
+	<head Gender="FEM_SG" Weight="1">مستفزة جدا</head>
+	<phraseFF num="58-1" Gender="MASC_SG">مستفز جدا</phraseFF>
+    <phraseFF num="58-2" Gender="MASC_PL">مستفزين جدا</phraseFF>
+	</phrase>
+    <phrase num="59">ملا مناظر</phrase>
+    <phrase num="60">
+	<head Gender="FEM_SG">مذرحة علخر</head>
+	<phraseFF num="60-1" Gender="MASC_SG">مذرح علخر</phraseFF>
+    <phraseFF num="60-2" Gender="MASC_PL">مذرحين علخر</phraseFF>
+	</phrase>
+    <phrase num="61">حلقة مملة</phrase>
+    <phrase num="62">
+	<head Gender="MASC_SG">مذيع فاجر</head>
+    <phraseFF num="62-1" Gender="FEM_SG">مذيعة فاجرة</phraseFF>
+	</phrase>
+    <phrase num="63" Gender="FEM_SG">حلقة فاشلة</phrase>
+    <phrase num="64">
+	<head Gender="MASC_SG">متخلف و حقير و حيوان</head>
+	<phraseFF num="64-1" Gender="FEM_SG">متخلفة و حقيرة و حيوانة</phraseFF>
+    <phraseFF num="64-2" Gender="MASC_PL">متخلفين و حقيرين و حيوانات</phraseFF>
+	</phrase>
+    <phrase num="65">الطحين والنفاق</phrase>
+    <phrase num="66">
+	<head Gender="MASC_SG">موش متربي</head>
+	<phraseFF num="66-1" Gender="FEM_SG">موش متربية</phraseFF>
+	</phrase>
+    <phrase num="67">ملهى تلفزيوني</phrase>
+    <phrase num="68">شكارة والبحر</phrase>
+    <phrase num="69">بلادة و مساطة</phrase>
+    <phrase num="70">
+	<head Gender="FEM_PL">كوارث اعلامية</head>
+	<phraseFF num="70-1" Gender="FEM_SG">كارثة اعلامية</phraseFF>
+	</phrase>
+    <phrase num="71">مستواه منحط</phrase>
+    <phrase num="72">مستوى النقاش منحدر</phrase>
+    <phrase num="73">هذا البرنامج اشهر افلاسه</phrase>
+    <phrase num="74">مستوى ردي</phrase>
+    <phrase num="75">حلقه افرغ من الفراغ</phrase>
+    <phrase num="76">كمونك سوس</phrase>
+    <phrase num="77">ياسر على الحيط</phrase>
+    <phrase num="78">حلقاته فخار مكسر</phrase>
+    <phrase num="79">قلة حيا</phrase>
+    <phrase num="80">نشاز في برنامجك</phrase>
+    <phrase num="81">النفاق والتبلعيط</phrase>
+    <phrase num="82">البرنامج اصبح ممل</phrase>
+    <phrase num="83">حلقة كوجهك</phrase>
+    <phrase num="84">نفس الوجوه</phrase>
+    <phrase num="85">عيب عليكم</phrase>
+    <phrase num="86">
+	<head Gender="MASC_SG" Weight="1">متخلف ياسر</head>
+	<phraseFF num="86-1" Gender="FEM_SG">متخلفة ياسر</phraseFF>
+    <phraseFF num="86-2" Gender="MASC_PL">متخلفين ياسر</phraseFF>
+	</phrase>
+    <phrase num="87">بدون تعليق</phrase> 
+    <phrase num="88">تفوه عليك</phrase>
+    <phrase num="98">ملا حالة</phrase>
+    <phrase num="90">حلقة بايسة وتعيسة</phrase>
+    <phrase num="91">خرج على الموضوع للاسف</phrase>
+    <phrase num="92">جعبة في بلاد كثرت فيها الجعب</phrase>
+    <phrase num="93">هاك الوزغة</phrase>
+    <phrase num="94">الشلاكة وخوه</phrase>
+    <phrase num="95">حلقة غير صافية وغير سعيدة</phrase>
+    <phrase num="96">الحلقة تقولش عليها حريم السلطان</phrase>
+    <phrase num="97">يا قرش يا ولد الشعب</phrase>
+    <phrase num="98">
+	<head Gender="MASC_PL">ملا مهازل</head>
+    <phraseFF num="98-1" Gender="FEM_SG">ملا مهزلة</phraseFF>
+	</phrase>
+    <phrase num="99">لغتكم العربيه تندب</phrase>
+    <phrase num="100">
+	<head Gender="MASC_PL">يا سراق</head>
+	<phraseFF num="100-1" Gender="MASC_SG">يا سارق</phraseFF>
+	<phraseFF num="100-2" Gender="FEM_SG">يا سارقة</phraseFF>
+	</phrase>
+    <phrase num="101">كمشة خماج</phrase>
+    <phrase num="102">توى هذا كلام يتقال</phrase>
+    <phrase num="103">يا بغل يا مسخ</phrase>
+    <phrase num="104">حمام نسي</phrase>
+    <phrase num="105">بنت البايد</phrase>
+    <phrase num="106">الخلايق العادمه</phrase>
+    <phrase num="107">الوطنية متاع الاعلام مشات</phrase>
+    <phrase num="108">هالعيرود اللي جيبينوا</phrase>
+    <phrase num="19">كان مشى داوي روحه خير له</phrase>
+    <phrase num="110">المارك الفاسدة</phrase>
+    <phrase num="111">ربي يديه</phrase>
+    <phrase num="112">علاه هل منظر جايبينو</phrase>
+    <phrase num="113">كوراث و هموم</phrase>
+    <phrase num="114">تفو عليه</phrase>
+    <phrase num="115">كلامو معقول برشة</phrase>
+    <phrase num="116">جرذ افغاني داعشي</phrase>
+    <phrase num="117">العيب فلي جابوا</phrase>
+    <phrase num="118">اكبر ارهابين في سلطة</phrase>
+    <phrase num="119">برنامج ليس عالي</phrase>
+    <phrase num="120">فيه كثير من القذف والشتم والنميمة</phrase>
+    <phrase num="121">
+	<head Gender="MASC_SG">مخالف للاخلاق الحميدة</head>
+	<phraseFF num="121-1" Gender="FEM_SG">مخالفة للاخلاق الحميدة</phraseFF>
+    <phraseFF num="121-2" Gender="MASC_PL">مخالف للاخلاق الحميدة</phraseFF>
+	</phrase>
+    <phrase num="122">ولاهي كثر الهم يضحك</phrase>
+    <phrase num="123">
+	<head Gender="MASC_SG">لحاس و ماسط</head>
+    <phraseFF num="123-1" Gender="FEM_SG">لحاسة و ماسطة</phraseFF>
+    <phraseFF num="123-2" Gender="MASC_PL">لحاسين و ماسطين</phraseFF>
+	</phrase>
+    <phrase num="124">عار كبير</phrase>
+    <phrase num="125">من ذالك الابله</phrase>
+    <phrase num="126">ياسر كوبي ولات</phrase>
+    <phrase num="127">ملا تطاول</phrase>
+    <phrase num="128">كي وجوهكم</phrase>
+    <phrase num="129">اوف من</phrase>
+    <phrase num="130">ولات حالة</phrase>
+    <phrase num="131">بف حكايات فارغة</phrase>
+    <phrase num="132">اكبر ارهابي</phrase>
+    <phrase num="133">
+	<head Gender="MASC_PL">ضيوف من نفس الفصيلة</head>
+	<phraseFF num="133-1" Gender="MASC_SG">ضيف من نفس الفصيلة</phraseFF>
+    <phraseFF num="133-2" Gender="FEM_SG">ضيفة من نفس الفصيلة</phraseFF>
+	</phrase>
+    <phrase num="134">هذا موضوع ماينكتوش</phrase>
+    <phrase num="135">ملا برامج</phrase>
+    <phrase num="136">ملا مساطة</phrase>
+    <phrase num="137">كان لكوبي</phrase>
+    <phrase num="138">صادمة برشة الحلقة</phrase>
+    <phrase num="139">اللطف يا ربي عجايب و غرايب</phrase>
+    <phrase num="140">حكايات ماتفيدنا بشي</phrase>
+    <phrase num="141">كي وجهم</phrase>
+    <phrase num="142">كذب وتضليل</phrase>
+    <phrase num="143">مرزن ملايكتو</phrase>
+    <phrase num="144">
+	<head Gender="MASC_SG">ملا جبري</head>
+	<phraseFF num="144-1" Gender="MASC_PL">ملا جبورر</phraseFF>
+    <phraseFF num="144-2" Gender="FEM_SG">ملا جبرية</phraseFF>
+	</phrase>
+    <phrase num="145">حكاية فارغة</phrase>
+    <phrase num="146">تافهين مساكين</phrase>
+    <phrase num="147">برى روح لغة قديمة</phrase>
+    <phrase num="148">لا يتهضم</phrase>
+    <phrase num="149">ممسطهم الكل</phrase>
+    <phrase num="150">
+	<head Gender="MASC_PL">قعر ماجا شي</head>
+	<phraseFF num="150-1" Gender="FEM_SG">قعرة ماجات شي</phraseFF>
+    <phraseFF num="150-2" Gender="MASC_PL">قعار ماجاو شي</phraseFF>
+	</phrase>
+    <phrase num="151">اوه علي اوه</phrase>
+    <phrase num="152">رفست فيها كيف ما حبيت</phrase>
+    <phrase num="153">من انتم</phrase>
+    <phrase num="154">راك كعبة لا</phrase>
+    <phrase num="155">السماح في شعب يتفرج عليكم</phrase>
+    <phrase num="156">الحلقة غالطة</phrase>
+    <phrase num="157">كي وجوهكم</phrase>
+    <phrase num="158">ترهات وكلام فارغ</phrase>
+    <phrase num="159">
+	<head Gender="MASC_PL">همال متاع شوارع</head>
+	<phraseFF num="159-1" Gender="MASC_SG">هامل متاع شوارع</phraseFF>
+    <phraseFF num="159-2" Gender="FEM_SG">هاملة متاع شوارع</phraseFF>
+	</phrase>
+    <phrase num="160">حشوات و كذب</phrase>
+    <phrase num="161">يا فرطاس</phrase>
+    <phrase num="162">قناة الماخور</phrase>
+    <phrase num="163">برشا مساطة</phrase>
+    <phrase num="164">ملا مستويات</phrase>
+    <phrase num="165">فبركة اعلامية</phrase>
+    <phrase num="166">تبندير صافي</phrase>
+    <phrase num="167">مثقل دمهم</phrase>
+    <phrase num="168">برنامج ماشي ويمساط</phrase>
+    <phrase num="169">برشة مبالغة</phrase>
+    <phrase num="170">ملا برنامج</phrase>
+    <phrase num="171">
+	<head Gender="MASC_SG">يا سارق يا عميل</head>
+	<phraseFF num="171-1" Gender="MASC_PL">يا سراق يا عملا</phraseFF>
+    <phraseFF num="171-2" Gender="FEM_SG">يا سارقة يا عميلة</phraseFF>
+	</phrase>
+    <phrase num="172">هداري فارغة</phrase>
+    <phrase num="173">حلقة جافة</phrase>
+   </NominalPharasalOpinion> 
+   <foreignNominalPhrasal>
+    <phrase num="1">une vraie catastrophe</phrase>
+    <phrase num="2" Weight="1">trop nul</phrase>
+    <phrase num="3">bizarre vraiment</phrase>   
+    <phrase num="4" Weight="1">tres GRAVE</phrase>
+    <phrase num="5">Nul la vérité</phrase>	
+    <phrase num="6">Merrd la Tunisie</phrase>
+    <phrase num="7">niveau bas</phrase>
+    <phrase num="8" Weight="1">niveau trés dégradé</phrase>
+   </foreignNominalPhrasal>  
+   </PhrasalOpinion> 
+</motNegative>
+
