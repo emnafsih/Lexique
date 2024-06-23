@@ -1,0 +1,6901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MotLexique>
+<mot num="1">
+<FormN>اتفوه</FormN>
+<FormA num="1">etfouh</FormA>
+<FormA num="2">itfouh</FormA>
+<FormA num="3">tfouh</FormA>
+<FormA num="4">تفوه</FormA>
+</mot>
+<mot num="2">
+<FormN>احمق</FormN>
+<FormA num="1">ahma9</FormA>
+<FormA num="2">ahmak</FormA>
+</mot>
+<mot num="3">
+<FormN>اخيت</FormN>
+<FormA num="1">ikit</FormA>
+<FormA num="2">ikyt</FormA>  
+<FormA num="3">i5it</FormA>
+<FormA num="4">i5yt</FormA>  
+<FormA num="5">i5iiit</FormA>
+<FormA num="6">i5yyyt</FormA>  
+<FormA num="7">خيت</FormA>
+<FormA num="8">5it</FormA>  
+<FormA num="9">5yt</FormA>    
+</mot>
+<mot num="4">
+<FormN>الديوث</FormN>
+<FormA num="1">eldayouth</FormA>
+<FormA num="2">dayouth</FormA>
+<FormA num="3">ديوث</FormA>
+</mot>
+<mot num="5">
+<FormN>الرهطة</FormN>
+<FormA num="1">elraheta</FormA>
+<FormA num="2">raheta</FormA>
+<FormA num="3">رهطة</FormA>
+<FormA num="4">rahta</FormA>
+<FormA num="5">رهطه</FormA>
+</mot>
+<mot num="6">
+<FormN>الرهط</FormN>
+<FormA num="1">elrahet</FormA>
+<FormA num="2">erhat</FormA>
+<FormA num="3">رهط</FormA>
+<FormA num="4">raht</FormA>
+</mot>
+<mot num="7">
+<FormN>الرهوط</FormN>
+<FormA num="1">erhoute</FormA>
+<FormA num="2">irhout</FormA>
+<FormA num="3">رهوط</FormA>
+</mot>
+<mot num="8">
+<FormN>الساقطات</FormN>
+<FormA num="1">elsaktat</FormA>
+<FormA num="2">elsa9tat</FormA>
+<FormA num="3">ساقطات</FormA>
+<FormA num="4">saktat</FormA>
+<FormA num="5">sa9tat</FormA>
+<FormA num="6">ساقطاة</FormA>
+<FormA num="7">الساقطاة</FormA>
+</mot>
+<mot num="9">
+<FormN>الساقطة</FormN>
+<FormA num="1">elsaketa</FormA>
+<FormA num="2">elsa9eta</FormA>
+<FormA num="3">ساقطة</FormA>
+<FormA num="4">saketa</FormA>
+<FormA num="5">sa9eta</FormA>
+<FormA num="6">ساقطه</FormA>
+<FormA num="7">الساقطه</FormA>
+</mot>
+<mot num="10">
+<FormN>الساقطين</FormN>
+<FormA num="1">elsaktin</FormA>
+<FormA num="2">elsa9tin</FormA>
+<FormA num="3">ساقطين</FormA>
+<FormA num="4">saktin</FormA>
+<FormA num="5">sa9tin</FormA>
+</mot>
+<mot num="11">
+<FormN>الساقط</FormN>
+<FormA num="1">elsakit</FormA>
+<FormA num="2">elsa9it</FormA>
+<FormA num="3">ساقط</FormA>
+<FormA num="4">sakit</FormA>
+<FormA num="5">sa9it</FormA>
+</mot>
+<mot num="12">
+<FormN>الكلاب</FormN>
+<FormA num="1">elkalab</FormA>
+<FormA num="2">ilkalab</FormA>
+<FormA num="3">كلاب</FormA>
+<FormA num="4">kalab</FormA>
+</mot>
+<mot num="13">
+<FormN>الكلبة</FormN>
+<FormA num="1">elkalba</FormA>
+<FormA num="2">ilkalba</FormA>
+<FormA num="3">كلبة</FormA>
+<FormA num="4">kalba</FormA>
+<FormA num="5">kaleba</FormA>
+<FormA num="6">كلبه</FormA>
+<FormA num="7">الكلبه</FormA>
+</mot>
+<mot num="14">
+<FormN>الكلب</FormN>
+<FormA num="1">elkalb</FormA>
+<FormA num="2">ilkalb</FormA>
+<FormA num="3">كلب</FormA>
+<FormA num="4">kalb</FormA>
+<FormA num="5">kalib</FormA>
+<FormA num="6">kaleb</FormA>
+</mot>
+<mot num="15">
+<FormN>الماسطة</FormN>
+<FormA num="1">elmasta</FormA>
+<FormA num="2">ilmasta</FormA>
+<FormA num="3">ماسطة</FormA>
+<FormA num="4">masta</FormA>
+<FormA num="5">ماسطه</FormA>
+<FormA num="6">الماسطه</FormA>
+</mot>
+<mot num="16">
+<FormN>الماسطين</FormN>
+<FormA num="1">elmastin</FormA>
+<FormA num="2">ilmastin</FormA>
+<FormA num="3">ماسطين</FormA>
+<FormA num="4">mastin</FormA>
+</mot>
+<mot num="17">
+<FormN>الماسط</FormN>
+<FormA num="1">elmasit</FormA>
+<FormA num="2">ilmasit</FormA>
+<FormA num="3">ماسط</FormA>
+<FormA num="4">masit</FormA>
+<FormA num="5">maset</FormA>
+</mot>
+<mot num="18">
+<FormN>المسوطية</FormN>
+<FormA num="1">elmosotiya</FormA>
+<FormA num="1">ilmosotiya</FormA>
+<FormA num="3">مسوطية</FormA>
+<FormA num="4">mosotiya</FormA>
+<FormA num="5">مسوطيه</FormA>
+<FormA num="6">المسوطيه</FormA>
+</mot>
+<mot num="19">
+<FormN>امسط</FormN>
+<FormA num="1">amsat</FormA>
+</mot>
+<mot num="20">
+<FormN>اوف</FormN>
+<FormA num="1">ouf</FormA>
+<FormA num="2">euf</FormA>
+<FormA num="3">ouffff</FormA>
+</mot>
+<mot num="21">
+<FormN>باسلة</FormN>
+<FormA num="1">basela</FormA>
+<FormA num="2">basila</FormA>
+<FormA num="3">bassla</FormA>
+<FormA num="4">باسله</FormA>
+</mot>
+<mot num="22">
+<FormN>باسلين</FormN>
+<FormA num="1">baslin</FormA>
+<FormA num="2">baselin</FormA>
+</mot>
+<mot num="23">
+<FormN>باسل</FormN>
+<FormA num="1">basel</FormA>
+<FormA num="2">basil</FormA>
+<FormA num="3">bassil</FormA>
+</mot>
+<mot num="24">
+<FormN>بف</FormN>
+<FormA num="1">pif</FormA>
+<FormA num="2">bif</FormA>
+</mot>
+<mot num="25">
+<FormN>بلعوط</FormN>
+<FormA num="1">bal3out</FormA>
+</mot>
+<mot num="26">
+<FormN>بهايم</FormN>
+<FormA num="1">bhayem</FormA>
+<FormA num="2">behayem</FormA>
+<FormA num="3">bihayem</FormA>
+<FormA num="4">bhayim</FormA>
+</mot>
+<mot num="27">
+<FormN>بهيمة</FormN>
+<FormA num="1">behima</FormA>
+<FormA num="2">bihima</FormA>
+<FormA num="3">بهيمه</FormA>
+<FormA num="4">behyma</FormA>
+<FormA num="5">bihyma</FormA>
+</mot>
+<mot num="28">
+<FormN>بهيم</FormN>
+<FormA num="1">bhim</FormA>
+<FormA num="2">behim</FormA>
+<FormA num="3">bhym</FormA>
+<FormA num="4">behym</FormA>
+</mot>
+<mot num="29">
+<FormN>بيوعة</FormN>
+<FormA num="1">bayou3a</FormA>
+<FormA num="2">بيوعه</FormA>
+</mot>
+<mot num="30">
+<FormN>بيوع</FormN>
+<FormA num="1">bayou3</FormA>
+</mot>
+<mot num="31">
+<FormN>تافهات</FormN>
+<FormA num="1">tafehat</FormA>
+<FormA num="2">tafhat</FormA>
+<FormA num="3">تافهاة</FormA>
+</mot>
+<mot num="32">
+<FormN>تافهة</FormN>
+<FormA num="1">tafeha</FormA>
+</mot>
+<mot num="33">
+<FormN>تافهين</FormN>
+<FormA num="1">tafehin</FormA>
+<FormA num="2">tafehyn</FormA>
+</mot>
+<mot num="34">
+<FormN>تافه</FormN>
+<FormA num="1">tafeh</FormA>
+<FormA num="2">tafih</FormA>
+</mot>
+<mot num="35">
+<FormN>تعيسة</FormN>
+<FormA num="1">ta3isa</FormA>
+<FormA num="2">تعيسه</FormA>
+<FormA num="3">ta3ysa</FormA>
+</mot>
+<mot num="36">
+<FormN>تعيسين</FormN>
+<FormA num="1">ta3sin</FormA>
+<FormA num="2">ta3sine</FormA>
+<FormA num="3">ta3syn</FormA>
+<FormA num="4">ta3syne</FormA>
+</mot>
+<mot num="37">
+<FormN>تعيس</FormN>
+<FormA num="1">ta3ise</FormA>
+<FormA num="2">ta3is</FormA>
+<FormA num="3">ta3yse</FormA>
+<FormA num="4">ta3ys</FormA>
+</mot>
+<mot num="38">
+<FormN>تعيفوا</FormN>
+<FormA num="1">t3ayfo</FormA>
+<FormA num="2">t3ayfou</FormA>
+<FormA num="3">t3ayfwo</FormA>  
+<FormA num="4">t3ayfwou</FormA>  
+<FormA num="5">t3aifw</FormA>    
+<FormA num="6">t3aifo</FormA>
+<FormA num="7">t3aifou</FormA>
+<FormA num="8">تعيفو</FormA>
+</mot>
+<mot num="39">
+<FormN>تعيف</FormN>
+<FormA num="1">t3ayef</FormA>
+<FormA num="2">t3aif</FormA>
+</mot>
+<mot num="40">
+<FormN>تفاهة</FormN>
+<FormA num="1">tafaha</FormA>
+</mot>
+<mot num="41">
+<FormN>تقززوا</FormN>
+<FormA num="1">tkazazou</FormA>
+<FormA num="2">t9azazou</FormA>
+<FormA num="3">tkazezou</FormA>
+<FormA num="4">t9azezou</FormA>
+<FormA num="5">tkazazo</FormA>
+<FormA num="6">t9azazo</FormA>
+<FormA num="7">tkazezo</FormA>
+<FormA num="8">t9azezo</FormA>
+<FormA num="8">تقززو</FormA>
+</mot>
+<mot num="42">
+<FormN>تقزز</FormN>
+<FormA num="1">tkazaz</FormA>
+<FormA num="2">t9azaz</FormA>
+<FormA num="3">tkazez</FormA>
+<FormA num="4">t9azez</FormA>
+</mot>
+<mot num="43">
+<FormN>تهريج</FormN>
+<FormA num="1">tahrij</FormA>
+<FormA num="2">thrij</FormA>
+</mot>
+<mot num="44">
+<FormN>توتروا</FormN>
+<FormA num="1">tewatro</FormA>
+<FormA num="2">tawatro</FormA>
+<FormA num="3">twatro</FormA>
+<FormA num="4">tewatrou</FormA>
+<FormA num="5">tawatrou</FormA>
+<FormA num="6">توترو</FormA>
+</mot>
+<mot num="45">
+<FormN>توتر</FormN>
+<FormA num="1">tewatir</FormA>
+<FormA num="2">tawatir</FormA>
+<FormA num="3">twatir</FormA>
+<FormA num="4">tewater</FormA>
+<FormA num="5">tawater</FormA>
+<FormA num="6">twater</FormA>
+</mot>
+<mot num="46">
+<FormN>جاهلة</FormN>
+<FormA num="1">jahela</FormA>
+<FormA num="2">jhela</FormA>
+<FormA num="3">jahala</FormA>
+<FormA num="4">jhala</FormA>
+<FormA num="5">جاهله</FormA>
+</mot>
+<mot num="47">
+<FormN>جاهلين</FormN>
+<FormA num="1">jahelin</FormA>
+<FormA num="2">jhelin</FormA>
+<FormA num="3">jahalin</FormA>
+<FormA num="4">jhalin</FormA>
+<FormA num="5">jahelyn</FormA>
+<FormA num="6">jhelyn</FormA>
+<FormA num="7">jahalyn</FormA>
+<FormA num="8">jhalyn</FormA>
+</mot>
+<mot num="48">
+<FormN>جاهل</FormN>
+<FormA num="1">jahel</FormA>
+<FormA num="2">jhel</FormA>
+<FormA num="3">jahal</FormA>
+<FormA num="4">jhal</FormA>
+</mot>
+<mot num="49">
+<FormN>جبرية</FormN>
+<FormA num="1">jabereya</FormA>
+<FormA num="2">jbereya</FormA>
+<FormA num="3">gabereya</FormA>
+<FormA num="4">gbereya</FormA>
+<FormA num="5">جبريه</FormA>
+</mot>
+<mot num="50">
+<FormN>جبري</FormN>
+<FormA num="1">jaberi</FormA>
+<FormA num="2">jberi</FormA>
+<FormA num="3">gaberi</FormA>
+<FormA num="4">gberi</FormA>
+<FormA num="5">جبرى</FormA>
+<FormA num="6">jabery</FormA>
+<FormA num="7">jbery</FormA>
+<FormA num="8">gabery</FormA>
+<FormA num="9">gbery</FormA>
+</mot>
+<mot num="51">
+<FormN>جهال</FormN>
+<FormA num="1">johale</FormA>
+<FormA num="2">jouhale</FormA>
+</mot>
+<mot num="52">
+<FormN>خامجة</FormN>
+<FormA num="1">5ameja</FormA>
+<FormA num="2">khameja</FormA>
+<FormA num="3">5amija</FormA>
+<FormA num="4">khamija</FormA>
+<FormA num="5">خامجه</FormA>
+</mot>
+<mot num="53">
+<FormN>خامج</FormN>
+<FormA num="1">5amej</FormA>
+<FormA num="2">khamej</FormA>
+<FormA num="3">5amij</FormA>
+<FormA num="4">khamij</FormA>
+</mot>
+<mot num="54">
+<FormN>خايبة</FormN>
+<FormA num="1">5ayeba</FormA>
+<FormA num="2">khayeba</FormA>
+<FormA num="3">5ayiba</FormA>
+<FormA num="4">khayiba</FormA>
+<FormA num="5">خايبه</FormA>
+</mot>
+<mot num="55">
+<FormN>خايب</FormN>
+<FormA num="1">5ayeb</FormA>
+<FormA num="2">khayeb</FormA>
+<FormA num="3">5ayib</FormA>
+<FormA num="4">khayib</FormA>
+</mot>
+<mot num="56">
+<FormN>خماج</FormN>
+<FormA num="1">5omej</FormA>
+<FormA num="2">khomej</FormA>
+<FormA num="3">5omaj</FormA>
+<FormA num="4">khomaj</FormA>
+<FormA num="5">5oumaj</FormA>
+<FormA num="6">khoumaj</FormA>
+</mot>
+<mot num="57">
+<FormN>ديقاج</FormN>
+<FormA num="1">degage</FormA>
+</mot>
+<mot num="58">
+<FormN>دجالة</FormN>
+<FormA num="1">dajala</FormA>
+<FormA num="2">djala</FormA>
+<FormA num="3">دجاله</FormA>
+</mot>
+<mot num="59">
+<FormN>دجالين</FormN>
+<FormA num="1">dajalin</FormA>
+<FormA num="2">djalin</FormA>
+<FormA num="3">dajaline</FormA>
+<FormA num="4">djaline</FormA>
+<FormA num="5">dajalyn</FormA>
+<FormA num="6">djalyn</FormA>
+<FormA num="7">dajalyne</FormA>
+<FormA num="8">djalyne</FormA>
+</mot>
+<mot num="60">
+<FormN>دجال</FormN>
+<FormA num="1">dajal</FormA>
+<FormA num="2">djal</FormA>
+</mot>
+<mot num="61">
+<FormN>رهدانة</FormN>
+<FormA num="1">rahdana</FormA>
+<FormA num="2">rahidana</FormA>
+</mot>
+<mot num="62">
+<FormN>رهدانين</FormN>
+<FormA num="1">rahdanine</FormA>
+<FormA num="2">rahidanine</FormA>
+<FormA num="3">rahdanin</FormA>
+<FormA num="4">rahidanin</FormA>
+<FormA num="5">rahdanyne</FormA>
+<FormA num="6">rahidanyne</FormA>
+<FormA num="7">rahdanyn</FormA>
+<FormA num="8">rahidanyn</FormA>
+</mot>
+<mot num="63">
+<FormN>رهدان</FormN>
+<FormA num="1">rahdan</FormA>
+<FormA num="2">rahidan</FormA>
+<FormA num="3">rahdane</FormA>
+<FormA num="4">rahidane</FormA>
+</mot>
+<mot num="64">
+<FormN>زبالة</FormN>
+<FormA num="1">zebela</FormA>
+<FormA num="2">zibela</FormA>
+<FormA num="3">زباله</FormA>
+</mot>
+<mot num="65">
+<FormN>زبلة</FormN>
+<FormA num="1">zebila</FormA>
+<FormA num="2">zibila</FormA>
+<FormA num="3">زبله</FormA>
+</mot>
+<mot num="66">
+<FormN>زبل</FormN>
+<FormA num="1">zebel</FormA>
+<FormA num="2">zibel</FormA>
+</mot>
+<mot num="67">
+<FormN>زفت</FormN>
+<FormA num="1">zefet</FormA>
+<FormA num="2">zifit</FormA>
+<FormA num="3">zfet</FormA>
+<FormA num="4">zfit</FormA>
+</mot>
+<mot num="68">
+<FormN>سخافة</FormN>
+<FormA num="1">sa5afa</FormA>
+<FormA num="2">sakhafa</FormA>
+<FormA num="3">سخافه</FormA>
+</mot>
+<mot num="69">
+<FormN>سخيفة</FormN>
+<FormA num="1">sa5ifa</FormA>
+<FormA num="2">sakhifa</FormA>
+<FormA num="3">sa5efa</FormA>
+<FormA num="4">sakhefa</FormA>
+<FormA num="5">سخيفه</FormA>
+<FormA num="6">sa5yfa</FormA>
+<FormA num="7">sakhyfa</FormA>
+</mot>
+<mot num="70">
+<FormN>سخيفين</FormN>
+<FormA num="1">sa5ifin</FormA>
+<FormA num="2">sakhifin</FormA>
+<FormA num="3">sa5efin</FormA>
+<FormA num="4">sakhefin</FormA>
+<FormA num="5">sa5ifine</FormA>
+<FormA num="6">sakhifine</FormA>
+<FormA num="7">sa5efine</FormA>
+<FormA num="8">sakhefine</FormA>
+</mot>
+<mot num="71">
+<FormN>سخيف</FormN>
+<FormA num="1">sa5if</FormA>
+<FormA num="2">sakhif</FormA>
+<FormA num="3">sa5efi</FormA>
+<FormA num="4">sakhef</FormA>
+</mot>
+<mot num="72">
+<FormN>سقاط</FormN>
+<FormA num="1">sokat</FormA>
+<FormA num="2">sa9at</FormA>
+</mot>
+<mot num="73">
+<FormN>سلعة</FormN>
+<FormA num="1">sle3a</FormA>
+<FormA num="2">sli3a</FormA>
+</mot>
+<mot num="74">
+<FormN>سلع</FormN>
+<FormA num="1">sle3</FormA>
+<FormA num="2">sli3</FormA>
+</mot>
+<mot num="75">
+<FormN>شلاكة</FormN>
+<FormA num="1">cheleka</FormA>
+<FormA num="2">chele9a</FormA>
+<FormA num="3">chelaka</FormA>
+<FormA num="4">chela9a</FormA>
+<FormA num="5">شلاكه</FormA>
+</mot>
+<mot num="76">
+<FormN>شلايك</FormN>
+<FormA num="1">cheleyik</FormA>
+<FormA num="2">cheleyi9</FormA>
+<FormA num="3">chelayek</FormA>
+<FormA num="4">chelaye9</FormA>
+</mot>
+<mot num="77">
+<FormN>صفر</FormN>
+<FormA num="1">sfir</FormA>
+<FormA num="2">sofer</FormA>
+</mot>
+<mot num="78">
+<FormN>طحانة</FormN>
+<FormA num="1">tahana</FormA>
+<FormA num="2">thana</FormA>
+</mot>
+<mot num="79">
+<FormN>طحانين</FormN>
+<FormA num="1">tahanin</FormA>
+<FormA num="2">thanin</FormA>
+<FormA num="3">tahanyn</FormA>
+<FormA num="4">thanyn</FormA>
+</mot>
+<mot num="80">
+<FormN>طحان</FormN>
+<FormA num="1">tahane</FormA>
+<FormA num="2">thane</FormA>
+</mot>
+<mot num="81">
+<FormN>طحين</FormN>
+<FormA num="1">tehin</FormA>
+<FormA num="2">thine</FormA>
+<FormA num="3">tehyn</FormA>
+<FormA num="4">thyne</FormA>
+</mot>
+<mot num="82">
+<FormN>طز</FormN>
+<FormA num="1">touz</FormA>
+<FormA num="2">toz</FormA>
+</mot>
+<mot num="83">
+<FormN>عالحيط</FormN>
+<FormA num="1">3alhit</FormA>
+<FormA num="2">alhit</FormA>
+<FormA num="3">3al hit</FormA>
+</mot>
+<mot num="84">
+<FormN>غفاصة</FormN>
+<FormA num="1">ghafasa</FormA>
+<FormA num="2">ghfasa</FormA>
+<FormA num="3">غفاصه</FormA>
+</mot>
+<mot num="85">
+<FormN>غفاص</FormN>
+<FormA num="1">ghafase</FormA>
+<FormA num="2">ghfase</FormA>
+</mot>
+<mot num="86">
+<FormN>فارغة</FormN>
+<FormA num="1">feregha</FormA>
+<FormA num="2">fregha</FormA>
+<FormA num="3">ferigha</FormA>
+<FormA num="4">frigha</FormA>
+<FormA num="5">فارغه</FormA>
+</mot>
+<mot num="87">
+<FormN>فارغ</FormN>
+<FormA num="1">feregh</FormA>
+<FormA num="2">fregh</FormA>
+<FormA num="3">ferigh</FormA>
+<FormA num="4">frigh</FormA>
+</mot>
+<mot num="88">
+<FormN>فاشلات</FormN>
+<FormA num="1">fechelat</FormA>
+<FormA num="2">fchelat</FormA>
+<FormA num="3">fechalet</FormA>
+<FormA num="4">fchalet</FormA>
+</mot>
+<mot num="89">
+<FormN>فاشلة</FormN>
+<FormA num="1">fechela</FormA>
+<FormA num="2">fchela</FormA>
+<FormA num="3">fechala</FormA>
+<FormA num="4">fchala</FormA>
+<FormA num="5">فاشله</FormA>
+</mot>
+<mot num="90">
+<FormN>فاشلين</FormN>
+<FormA num="1">fechelin</FormA>
+<FormA num="2">fchelin</FormA>
+<FormA num="3">fechalin</FormA>
+<FormA num="4">fchalin</FormA>
+<FormA num="5">fechelyn</FormA>
+<FormA num="6">fchelyn</FormA>
+<FormA num="7">fechalyn</FormA>
+<FormA num="8">fchalyn</FormA>
+</mot>
+<mot num="91">
+<FormN>فاشل</FormN>
+<FormA num="1">fechel</FormA>
+<FormA num="2">fchel</FormA>
+<FormA num="3">fechil</FormA>
+<FormA num="4">fchil</FormA>
+</mot>
+<mot num="92">
+<FormN>فضايح</FormN>
+<FormA num="1">fethayeh</FormA>
+<FormA num="2">fthayeh</FormA>
+<FormA num="3">fathayah</FormA>
+<FormA num="4">fthayah</FormA>
+</mot>
+<mot num="93">
+<FormN>فضحتنا</FormN>
+<FormA num="1">fethahetna</FormA>
+<FormA num="2">fthahetna</FormA>
+<FormA num="3">fathahitna</FormA>
+<FormA num="4">fthahitna</FormA>
+</mot>
+<mot num="94">
+<FormN>فضحتونا</FormN>
+<FormA num="1">fethahetona</FormA>
+<FormA num="2">fthahetona</FormA>
+<FormA num="3">fathahetouna</FormA>
+<FormA num="4">fthahetouna</FormA>
+</mot>
+<mot num="95">
+<FormN>فضحنا</FormN>
+<FormA num="1">fethahena</FormA>
+<FormA num="2">fthahena</FormA>
+<FormA num="3">fathahina</FormA>
+<FormA num="4">fthahina</FormA>
+</mot>
+<mot num="96">
+<FormN>فضحونا</FormN>
+<FormA num="1">fethahona</FormA>
+<FormA num="2">fthahona</FormA>
+<FormA num="3">fathahouna</FormA>
+<FormA num="4">fthahouna</FormA>
+</mot>
+<mot num="97">
+<FormN>قذرة</FormN>
+<FormA num="1">kathera</FormA>
+<FormA num="2">kthera</FormA>
+<FormA num="3">9athera</FormA>
+<FormA num="4">9thera</FormA>
+<FormA num="5">قذه</FormA>
+</mot>
+<mot num="98">
+<FormN>قذرين</FormN>
+<FormA num="1">katherin</FormA>
+<FormA num="2">ktherin</FormA>
+<FormA num="3">9atherin</FormA>
+<FormA num="4">9therin</FormA>
+<FormA num="5">katheryn</FormA>
+<FormA num="6">ktheryn</FormA>
+<FormA num="7">9atheryn</FormA>
+<FormA num="8">9theryn</FormA>
+</mot>
+<mot num="99">
+<FormN>قذر</FormN>
+<FormA num="1">kather</FormA>
+<FormA num="2">kther</FormA>
+<FormA num="3">9ather</FormA>
+<FormA num="4">9ther</FormA>
+</mot>
+<mot num="100">
+<FormN>قرد</FormN>
+<FormA num="1">kerd</FormA>
+<FormA num="2">kird</FormA>
+<FormA num="3">9erd</FormA>
+<FormA num="4">9ird</FormA>
+</mot>
+<mot num="101">
+<FormN>كارثة</FormN>
+<FormA num="1">karetha</FormA>
+<FormA num="2">kretha</FormA>
+<FormA num="3">9aretha</FormA>
+<FormA num="4">9retha</FormA>
+<FormA num="5">كارثه</FormA>
+</mot>
+<mot num="102">
+<FormN>كركوز</FormN>
+<FormA num="1">karakouz</FormA>
+<FormA num="2">krakouz</FormA>
+<FormA num="3">9arakouz</FormA>
+<FormA num="4">9rakouz</FormA>
+<FormA num="5">كاركوز</FormA>
+<FormA num="6">كراكوز</FormA>
+</mot>
+<mot num="103">
+<FormN>كافر</FormN>
+<FormA num="1">kafer</FormA>
+<FormA num="2">kfer</FormA>
+<FormA num="3">9afer</FormA>
+<FormA num="4">9fer</FormA>
+</mot>
+<mot num="104">
+<FormN>كذابة</FormN>
+<FormA num="1">katheba</FormA>
+<FormA num="2">ktheba</FormA>
+<FormA num="3">9atheba</FormA>
+<FormA num="4">9theba</FormA>
+<FormA num="5">كذابه</FormA>
+</mot>
+<mot num="105">
+<FormN>كذابين</FormN>
+<FormA num="1">kathebin</FormA>
+<FormA num="2">kthebin</FormA>
+<FormA num="3">9athebin</FormA>
+<FormA num="4">9thebin</FormA>
+<FormA num="5">kathebyn</FormA>
+<FormA num="6">kthebyn</FormA>
+<FormA num="7">9athebyn</FormA>
+<FormA num="8">9thebyn</FormA>
+</mot>
+<mot num="106">
+<FormN>كذاب</FormN>
+<FormA num="1">katheb</FormA>
+<FormA num="2">ktheb</FormA>
+<FormA num="3">9atheb</FormA>
+<FormA num="4">9theb</FormA>
+</mot>
+<mot num="107">
+<FormN>لحاس</FormN>
+<FormA num="1">lahase</FormA>
+<FormA num="2">lhase</FormA>
+</mot>
+<mot num="108">
+<FormN>لوووول</FormN>
+<FormA num="1">lol</FormA>
+<FormA num="2">loool</FormA>
+<FormA num="3">لول</FormA>
+</mot>
+<mot num="109">
+<FormN>كرهتكم</FormN>
+<FormA num="1">karahtkom</FormA>
+<FormA num="2">krahtkom</FormA>
+<FormA num="3">9arahtkom</FormA>
+<FormA num="4">9rahtkom</FormA>
+</mot>
+<mot num="110">
+<FormN>مارقة</FormN>
+<FormA num="1">merega</FormA>
+<FormA num="2">mariga</FormA>
+<FormA num="3">مارقه</FormA>
+</mot>
+<mot num="111">
+<FormN>مارقين</FormN>
+<FormA num="1">meregin</FormA>
+<FormA num="2">marigin</FormA>
+<FormA num="3">meregyn</FormA>
+<FormA num="4">marigyn</FormA>
+</mot>
+<mot num="112">
+<FormN>مارق</FormN>
+<FormA num="1">mereg</FormA>
+<FormA num="2">marig</FormA>
+</mot>
+<mot num="113">
+<FormN>متخلفة</FormN>
+<FormA num="1">metekhalefa</FormA>
+<FormA num="2">maete5alefa</FormA>
+<FormA num="3">متخلفه</FormA>
+</mot>
+<mot num="114">
+<FormN>متخلفين</FormN>
+<FormA num="1">metekhalefin</FormA>
+<FormA num="2">maete5alefin</FormA>
+<FormA num="3">metekhalefyn</FormA>
+<FormA num="4">maete5alefyn</FormA>
+</mot>
+<mot num="115">
+<FormN>متخلف</FormN>
+<FormA num="1">metekhalef</FormA>
+<FormA num="2">maete5alef</FormA>
+</mot>
+<mot num="116">
+<FormN>متهورة</FormN>
+<FormA num="1">metehawera</FormA>
+<FormA num="2">mthawera</FormA>
+<FormA num="3">متهوره</FormA>
+</mot>
+<mot num="117">
+<FormN>متهورين</FormN>
+<FormA num="1">metehawerin</FormA>
+<FormA num="2">mthawerin</FormA>
+<FormA num="3">metehaweryn</FormA>
+<FormA num="4">mthaweryn</FormA>
+</mot>
+<mot num="118">
+<FormN>متهور</FormN>
+<FormA num="1">metehawer</FormA>
+<FormA num="2">mthawer</FormA>
+</mot>
+<mot num="119">
+<FormN>مخيبكم</FormN>
+<FormA num="1">makhyebkom</FormA>
+<FormA num="2">ma5yebkom</FormA>
+<FormA num="3">mkhyebkom</FormA>
+<FormA num="4">m5yebkom</FormA>
+</mot>
+<mot num="120">
+<FormN>مخيبك</FormN>
+<FormA num="1">makhyebik</FormA>
+<FormA num="2">ma5yebik</FormA>
+<FormA num="3">mkhyebik</FormA>
+<FormA num="4">m5yebik</FormA>
+</mot>
+<mot num="121">
+<FormN>مخيبها</FormN>
+<FormA num="1">makhyebeha</FormA>
+<FormA num="2">ma5yebeha</FormA>
+<FormA num="3">mkhyebeha</FormA>
+<FormA num="4">m5yebeha</FormA>
+</mot>
+<mot num="122">
+<FormN>مخيبهم</FormN>
+<FormA num="1">makhyebhom</FormA>
+<FormA num="2">ma5yebhom</FormA>
+<FormA num="3">mkhyebhom</FormA>
+<FormA num="4">m5yebhom</FormA>
+</mot>
+<mot num="123">
+<FormN>مخيبو</FormN>
+<FormA num="1">makhyebo</FormA>
+<FormA num="2">ma5yebo</FormA>
+<FormA num="3">mkhyebo</FormA>
+<FormA num="4">m5yebo</FormA>
+</mot>
+<mot num="124">
+<FormN>مساط</FormN>
+<FormA num="1">masat</FormA>
+<FormA num="2">mesat</FormA>
+<FormA num="3">msat</FormA>
+<FormA num="4">msaat</FormA>
+<FormA num="5">مصاط</FormA>
+</mot>
+<mot num="125">
+<FormN>مسخة</FormN>
+<FormA num="1">masekha</FormA>
+<FormA num="2">mase5a</FormA>
+<FormA num="3">msekha</FormA>
+<FormA num="4">mse5a</FormA>
+<FormA num="5">مسخه</FormA>
+</mot>
+<mot num="126">
+<FormN>مسخين</FormN>
+<FormA num="1">masekhin</FormA>
+<FormA num="2">mase5in</FormA>
+<FormA num="3">msekhin</FormA>
+<FormA num="4">mse5in</FormA>
+<FormA num="5">masekhyn</FormA>
+<FormA num="6">mase5yn</FormA>
+<FormA num="7">msekhyn</FormA>
+<FormA num="8">mse5yn</FormA>
+</mot>
+<mot num="127">
+<FormN>مسخ</FormN>
+<FormA num="1">masekh</FormA>
+<FormA num="2">mase5</FormA>
+<FormA num="3">msekh</FormA>
+<FormA num="4">mse5</FormA>
+</mot>
+<mot num="128">
+<FormN>مسطوها</FormN>
+<FormA num="1">masetouha</FormA>
+<FormA num="2">msetouha</FormA>
+<FormA num="3">masetoha</FormA>
+<FormA num="4">msetoha</FormA>
+<FormA num="5">مصطوها</FormA>
+</mot>
+<mot num="129">
+<FormN>مسقطها</FormN>
+<FormA num="1">maskateha</FormA>
+<FormA num="2">mskateha</FormA>
+<FormA num="3">mas9ateha</FormA>
+<FormA num="4">ms9ateha</FormA>
+<FormA num="5">مصقطها</FormA>
+</mot>
+<mot num="130">
+<FormN>مسقطهم</FormN>
+<FormA num="1">maskatehom</FormA>
+<FormA num="2">mskatehom</FormA>
+<FormA num="3">mas9atehom</FormA>
+<FormA num="4">ms9atehom</FormA>
+<FormA num="5">مصقطهم</FormA>
+</mot>
+<mot num="131">
+<FormN>مسقطو</FormN>
+<FormA num="1">maskato</FormA>
+<FormA num="2">mskato</FormA>
+<FormA num="3">mas9ato</FormA>
+<FormA num="4">ms9ato</FormA>
+<FormA num="5">مصقطو</FormA>
+</mot>
+<mot num="132">
+<FormN>مغرورة</FormN>
+<FormA num="1">maghroura</FormA>
+<FormA num="2">mghroura</FormA>
+<FormA num="3">maghrora</FormA>
+<FormA num="4">mghrora</FormA>
+<FormA num="5">مغروره</FormA>
+</mot>
+<mot num="133">
+<FormN>مغرورين</FormN>
+<FormA num="1">maghrourin</FormA>
+<FormA num="2">mghrourin</FormA>
+<FormA num="3">maghrorin</FormA>
+<FormA num="4">mghrorin</FormA>
+<FormA num="5">maghrouryn</FormA>
+<FormA num="6">mghrouryn</FormA>
+<FormA num="7">maghroryn</FormA>
+<FormA num="8">mghroryn</FormA>
+</mot>
+<mot num="134">
+<FormN>مغرور</FormN>
+<FormA num="1">maghrour</FormA>
+<FormA num="2">mghrour</FormA>
+<FormA num="3">maghror</FormA>
+<FormA num="4">mghror</FormA>
+</mot>
+<mot num="135">
+<FormN>مقحولة</FormN>
+<FormA num="1">maghahewela</FormA>
+<FormA num="2">mghewela</FormA>
+<FormA num="3">مقحوله</FormA>
+</mot>
+<mot num="136">
+<FormN>ملهط</FormN>
+<FormA num="1">malhat</FormA>
+<FormA num="2">malhit</FormA>
+<FormA num="3">mlhat</FormA>
+<FormA num="4">mlhit</FormA>
+</mot>
+<mot num="137">
+<FormN>ممسطكم</FormN>
+<FormA num="1">mamsitkom</FormA>
+<FormA num="2">ممصطكم</FormA>
+</mot>
+<mot num="138">
+<FormN>ممسطك</FormN>
+<FormA num="1">mamsitik</FormA>
+<FormA num="2">ممصطك</FormA>
+</mot>
+<mot num="139">
+<FormN>ممسطها</FormN>
+<FormA num="1">mamsiteha</FormA>
+<FormA num="2">ممصطها</FormA>
+</mot>
+<mot num="140">
+<FormN>ممسطهم</FormN>
+<FormA num="1">mamsitehom</FormA>
+<FormA num="2">ممصطهم</FormA>
+</mot>
+<mot num="141">
+<FormN>ممسطو</FormN>
+<FormA num="1">mamsito</FormA>
+<FormA num="2">ممصطو</FormA>
+</mot>
+<mot num="142">
+<FormN>ممسط</FormN>
+<FormA num="1">mamsit</FormA>
+<FormA num="2">ممصط</FormA>
+</mot>
+<mot num="143">
+<FormN>منافقات</FormN>
+<FormA num="1">monafekat</FormA>
+<FormA num="2">monafe9at</FormA>
+</mot>
+<mot num="144">
+<FormN>منافقة</FormN>
+<FormA num="1">monafeka</FormA>
+<FormA num="2">monafe9a</FormA>
+<FormA num="3">منافقه</FormA>
+</mot>
+<mot num="145">
+<FormN>منافقين</FormN>
+<FormA num="1">monafekin</FormA>
+<FormA num="2">monafe9in</FormA>
+<FormA num="3">monafekyn</FormA>
+<FormA num="4">monafe9yn</FormA>
+</mot>
+<mot num="146">
+<FormN>منافق</FormN>
+<FormA num="1">monafek</FormA>
+<FormA num="2">monafe9</FormA>
+</mot>
+<mot num="147">
+<FormN>منحطة</FormN>
+<FormA num="1">monhata</FormA>
+<FormA num="2">monehata</FormA>
+<FormA num="3">منحطه</FormA>
+</mot>
+<mot num="148">
+<FormN>منحطين</FormN>
+<FormA num="1">monhatin</FormA>
+<FormA num="2">monehatin</FormA>
+<FormA num="3">monhatyn</FormA>
+<FormA num="4">monehatyn</FormA>
+</mot>
+<mot num="149">
+<FormN>منحط</FormN>
+<FormA num="1">monhat</FormA>
+<FormA num="2">monehat</FormA>
+</mot>
+<mot num="150">
+<FormN>مهازل</FormN>
+<FormA num="1">mahazel</FormA>
+<FormA num="2">mhazel</FormA>
+<FormA num="3">mahazil</FormA>
+<FormA num="4">mhazil</FormA>
+</mot>
+<mot num="151">
+<FormN>مهزلة</FormN>
+<FormA num="1">mahazela</FormA>
+<FormA num="2">mhazela</FormA>
+<FormA num="3">mahazila</FormA>
+<FormA num="4">mhazila</FormA>
+<FormA num="5">مهزله</FormA>
+</mot>
+<mot num="152">
+<FormN>نفاق</FormN>
+<FormA num="1">nifek</FormA>
+<FormA num="2">nife9</FormA>
+<FormA num="3">nefek</FormA>
+<FormA num="4">nefe9</FormA>
+</mot>
+<mot num="153">
+<FormN>نكرها</FormN>
+<FormA num="1">nikraha</FormA>
+<FormA num="2">ni9raha</FormA>
+<FormA num="3">nekraha</FormA>
+<FormA num="4">ne9raha</FormA>
+</mot>
+<mot num="154">
+<FormN>نكرهكم</FormN>
+<FormA num="1">nikrahkom</FormA>
+<FormA num="2">ni9rahkom</FormA>
+<FormA num="3">nekrahkom</FormA>
+<FormA num="4">ne9rahkom</FormA>
+</mot>
+<mot num="155">
+<FormN>نكرهك</FormN>
+<FormA num="1">nikrhik</FormA>
+<FormA num="2">ni9rhik</FormA>
+<FormA num="3">nekrhik</FormA>
+<FormA num="4">ne9rhik</FormA>
+</mot>
+<mot num="156">
+<FormN>نكرهوا</FormN>
+<FormA num="1">nikrho</FormA>
+<FormA num="2">ni9rho</FormA>
+<FormA num="3">nekrho</FormA>
+<FormA num="4">ne9rho</FormA>
+<FormA num="5">نكرهو</FormA>
+</mot>
+<mot num="157">
+<FormN>هاملة</FormN>
+<FormA num="1">hamela</FormA>
+<FormA num="2">hamila</FormA>
+<FormA num="3">هامله</FormA>
+</mot>
+<mot num="158">
+<FormN>هامل</FormN>
+<FormA num="1">hamel</FormA>
+<FormA num="2">hamil</FormA>
+</mot>
+<mot num="159">
+<FormN>همال</FormN>
+<FormA num="1">homel</FormA>
+<FormA num="2">homil</FormA>
+</mot>
+<mot num="160">
+<FormN>يعيفوا</FormN>
+<FormA num="1">y3ayfou</FormA>
+<FormA num="2">yaafou</FormA>
+<FormA num="3">يعيفو</FormA>
+</mot>
+<mot num="161">
+<FormN>يعيف</FormN>
+<FormA num="1">y3ayf</FormA>
+<FormA num="2">yaaf</FormA>
+</mot>
+<mot num="162">
+<FormN>يقززوا</FormN>
+<FormA num="1">ykazazo</FormA>
+<FormA num="2">y9azazo</FormA>
+<FormA num="3">يقززو</FormA>
+
+</mot>
+<mot num="163">
+<FormN>يقزز</FormN>
+<FormA num="1">ykazaz</FormA>
+<FormA num="2">y9azaz</FormA>
+</mot>
+<mot num="164">
+<FormN>ابتذال</FormN>
+<FormA num="1">ibtithel</FormA>
+<FormA num="2">ebtithel</FormA>
+</mot>
+<mot num="165">
+<FormN>يوتروا</FormN>
+<FormA num="1">ywatrou</FormA>
+<FormA num="2">ywatro</FormA>
+<FormA num="3">يوترو</FormA>
+</mot>
+<mot num="166">
+<FormN>يوتر</FormN>
+<FormA num="1">ywater</FormA>
+<FormA num="2">ywatir</FormA>
+</mot>
+<mot num="167">
+<FormN>ابداعات</FormN>
+<FormA num="1">ibda3at</FormA>
+<FormA num="2">ibdaat</FormA>
+</mot>
+<mot num="168">
+<FormN>ابداع</FormN>
+<FormA num="1">ibde3</FormA>
+<FormA num="2">ibdea</FormA>
+</mot>
+<mot num="169">
+<FormN>ابدعتوا</FormN>
+<FormA num="1">abda3tou</FormA>
+<FormA num="2">abda3to</FormA>
+<FormA num="3">ابدعتو</FormA>
+</mot>
+<mot num="170">
+<FormN>ابدعت</FormN>
+<FormA num="1">abda3te</FormA>
+<FormA num="2">abda3at</FormA>
+</mot>
+<mot num="171">
+<FormN>ابدعوا</FormN> 
+<FormA num="1">abda3o</FormA>
+<FormA num="2">abda3ou</FormA>
+<FormA num="3">ابدعو</FormA>
+</mot>
+<mot num="172">
+<FormN>ابدع</FormN>
+<FormA num="1">abda3</FormA>
+<FormA num="2">abdi3</FormA>
+</mot>
+<mot num="173">
+<FormN>اتهبلوا</FormN>
+<FormA num="1">ithablou</FormA>
+<FormA num="2">ithablo</FormA>
+<FormA num="3">اتهبلو</FormA>
+</mot>
+<mot num="174">
+<FormN>اتهبل</FormN>
+<FormA num="1">ithabel</FormA>
+<FormA num="2">ithabil</FormA>
+</mot>
+<mot num="175">
+<FormN>بتوفيق</FormN>
+<FormA num="1">bitawfik</FormA>
+<FormA num="2">bitawfi9</FormA>
+<FormA num="3">bitaoufik</FormA>
+<FormA num="4">bitaoufi9</FormA>
+<FormA num="5">bitawfyk</FormA>
+<FormA num="6">bitawfy9</FormA>
+<FormA num="7">bitaoufyk</FormA>
+<FormA num="8">bitaoufy9</FormA>
+</mot>
+<mot num="176">
+<FormN>احترمكم</FormN>
+<FormA num="1">ahtarimkom</FormA>
+<FormA num="2">ahtrimkom</FormA>
+<FormA num="3">ahtarim9om</FormA>
+<FormA num="4">ahtrim9om</FormA>
+</mot>
+<mot num="177">
+<FormN>احترمك</FormN>
+<FormA num="1">ahtarimk</FormA>
+<FormA num="2">ahtrimk</FormA>
+<FormA num="3">ahtarim9</FormA>
+<FormA num="4">ahtrim9</FormA>
+</mot>
+<mot num="178">
+<FormN>احترمها</FormN>
+<FormA num="1">ahtarimha</FormA>
+<FormA num="2">ahtrimha</FormA>
+<FormA num="3">ahtarimha</FormA>
+<FormA num="4">ahtrimha</FormA>
+</mot>
+<mot num="179">
+<FormN>احترمه</FormN>
+<FormA num="1">ahtarimho</FormA>
+<FormA num="2">ahtrimho</FormA>
+<FormA num="3">ahtarimho</FormA>
+<FormA num="4">ahtrimho</FormA>
+</mot>
+<mot num="180">
+<FormN>الكابو</FormN>
+<FormA num="1">ilkapo</FormA>
+<FormA num="2">il9apo</FormA>
+<FormA num="3">elkapo</FormA>
+<FormA num="4">el9apo</FormA>
+<FormA num="5">كابو</FormA>
+<FormA num="6">kapo</FormA>
+<FormA num="7">9apo</FormA>
+</mot>
+<mot num="181">
+<FormN>الناجحات</FormN>
+<FormA num="1">ilnajehat</FormA>
+<FormA num="2">ilnaje7at</FormA>
+<FormA num="3">elnajehat</FormA>
+<FormA num="4">elnaje7at</FormA>
+<FormA num="5">ناجحات</FormA>
+<FormA num="6">najehat</FormA>
+<FormA num="7">naje7at</FormA>
+</mot>
+<mot num="182">
+<FormN>الناجحة</FormN>
+<FormA num="1">ilnajeha</FormA>
+<FormA num="2">ilnaje7a</FormA>
+<FormA num="3">elnajeha</FormA>
+<FormA num="4">elnaje7a</FormA>
+<FormA num="5">ناجحة</FormA>
+<FormA num="6">najeha</FormA>
+<FormA num="7">naje7a</FormA>
+<FormA num="8">ناجحه</FormA>
+<FormA num="9">الناجحه</FormA>
+</mot>
+<mot num="183">
+<FormN>الناجحين</FormN>
+<FormA num="1">ilnajehin</FormA>
+<FormA num="2">ilnaje7in</FormA>
+<FormA num="3">elnajehin</FormA>
+<FormA num="4">elnaje7in</FormA>
+<FormA num="5">ناجحين</FormA>
+<FormA num="6">najehin</FormA>
+<FormA num="7">naje7in</FormA>
+</mot>
+<mot num="184">
+<FormN>الناجح</FormN>
+<FormA num="1">ilnajeh</FormA>
+<FormA num="2">ilnaje7</FormA>
+<FormA num="3">elnajeh</FormA>
+<FormA num="4">elnaje7</FormA>
+<FormA num="5">ناجح</FormA>
+<FormA num="6">najeh</FormA>
+<FormA num="7">naje7</FormA>
+</mot>
+<mot num="185">
+<FormN>اهبلوا</FormN>
+<FormA num="1">ihablou</FormA>
+<FormA num="2">ihablo</FormA>
+<FormA num="3">elhablou</FormA>
+<FormA num="4">elnablo</FormA>
+<FormA num="5">اهبلو</FormA>
+</mot>
+<mot num="186">
+<FormN>اهبل</FormN>
+<FormA num="1">ihabil</FormA>
+<FormA num="2">ihabil</FormA>
+<FormA num="3">elhabel</FormA>
+<FormA num="4">elnabel</FormA>
+</mot>
+<mot num="187">
+<FormN>باهيات</FormN>
+<FormA num="1">baheyat</FormA>
+<FormA num="2">baheyet</FormA>
+</mot>
+<mot num="188">
+<FormN>باهية</FormN>
+<FormA num="1">baheya</FormA>
+<FormA num="2">bahiya</FormA>
+<FormA num="3">باهيه</FormA>
+</mot>
+<mot num="189">
+<FormN>باهين</FormN>
+<FormA num="1">bahin</FormA>
+<FormA num="2">bahine</FormA>
+<FormA num="3">bahyn</FormA>
+<FormA num="4">bahyne</FormA>
+</mot>
+<mot num="190">
+<FormN>باهي</FormN>
+<FormA num="1">bahi</FormA>
+<FormA num="2">behi</FormA>
+<FormA num="3">bahy</FormA>
+<FormA num="4">behy</FormA>
+</mot>
+<mot num="191">
+<FormN>برافو</FormN>
+<FormA num="1">bravo</FormA>
+</mot>
+<mot num="192">
+<FormN>تبدعوا</FormN>
+<FormA num="1">tebede3o</FormA>
+<FormA num="2">tebede3ou</FormA>
+<FormA num="3">tbede3o</FormA>
+<FormA num="4">tbede3ou</FormA>
+<FormA num="5">تبدعو</FormA>
+</mot>
+<mot num="193">
+<FormN>تبدع</FormN>
+<FormA num="1">tebede3</FormA>
+<FormA num="2">tebede3</FormA>
+<FormA num="3">tbede3</FormA>
+<FormA num="4">tbede3</FormA>
+</mot>
+<mot num="194">
+<FormN>شكرا</FormN>
+<FormA num="1">chokran</FormA>
+<FormA num="2">cho9ran</FormA>
+<FormA num="3">شكر</FormA>
+</mot>
+<mot num="195">
+<FormN>تحفونات</FormN>
+<FormA num="1">tahfonat</FormA>
+<FormA num="2">ta7fonat</FormA>
+<FormA num="3">tahfounat</FormA>
+<FormA num="4">ta7founat</FormA>
+</mot>
+<mot num="196">
+<FormN>تحفونة</FormN>
+<FormA num="1">tahfona</FormA>
+<FormA num="2">ta7fona</FormA>
+<FormA num="3">tahfouna</FormA>
+<FormA num="4">ta7founa</FormA>
+<FormA num="5">تحفونه</FormA>
+</mot>
+<mot num="197">
+<FormN>تحفونين</FormN>
+<FormA num="1">tahfonin</FormA>
+<FormA num="2">ta7fonin</FormA>
+<FormA num="3">tahfounin</FormA>
+<FormA num="4">ta7founin</FormA>
+</mot>
+<mot num="198">
+<FormN>تحفون</FormN>
+<FormA num="1">tahfon</FormA>
+<FormA num="2">ta7fon</FormA>
+<FormA num="3">tahfoun</FormA>
+<FormA num="4">ta7foun</FormA>
+</mot>
+<mot num="199">
+<FormN>تحية</FormN>
+<FormA num="1">taheya</FormA>
+<FormA num="2">ta7eya</FormA>
+<FormA num="3">تحيه</FormA>
+</mot>
+<mot num="200">
+<FormN>تفتقوا</FormN>
+<FormA num="1">tafatko</FormA>
+<FormA num="2">tafat9o</FormA>
+<FormA num="3">tfatko</FormA>
+<FormA num="4">tfat9o</FormA>
+<FormA num="5">تفتقو</FormA>
+</mot>
+<mot num="201">
+<FormN>تفتق</FormN>
+<FormA num="1">tafatik</FormA>
+<FormA num="2">tafati9</FormA>
+<FormA num="3">tfatik</FormA>
+<FormA num="4">tfati9</FormA>
+</mot>
+<mot num="202">
+<FormN>تقتلوا</FormN>
+<FormA num="1">toktlo</FormA>
+<FormA num="2">to9tlo</FormA>
+<FormA num="3">touktlo</FormA>
+<FormA num="4">tou9tlo</FormA>
+<FormA num="5">تقتلو</FormA>
+</mot>
+<mot num="203">
+<FormN>تقتل</FormN>
+<FormA num="1">toktil</FormA>
+<FormA num="2">to9til</FormA>
+<FormA num="3">touktil</FormA>
+<FormA num="4">tou9til</FormA>
+</mot>
+<mot num="204">
+<FormN>تنجحوا</FormN>
+<FormA num="1">tanjho</FormA>
+<FormA num="2">tanjhou</FormA>
+<FormA num="3">تنجحو</FormA>
+</mot>
+<mot num="205">
+<FormN>تنجح</FormN>
+<FormA num="1">tanjah</FormA>
+<FormA num="2">tanjih</FormA>
+</mot>
+<mot num="206">
+<FormN>تهبلوا</FormN>
+<FormA num="1">tehablo</FormA>
+<FormA num="2">tihablo</FormA>
+<FormA num="3">تهبلو</FormA>
+</mot>
+<mot num="207">
+<FormN>تهبل</FormN>
+<FormA num="1">tehabil</FormA>
+<FormA num="2">tihabil</FormA>
+</mot>
+<mot num="208">
+<FormN>حلوة</FormN>
+<FormA num="1">helowa</FormA>
+<FormA num="2">hlowa</FormA>
+<FormA num="3">حلوه</FormA>
+</mot>
+<mot num="209">
+<FormN>حلو</FormN>
+<FormA num="1">helow</FormA>
+<FormA num="2">hlow</FormA>
+</mot>
+<mot num="210">
+<FormN>رايعات</FormN>
+<FormA num="1">ray3at</FormA>
+<FormA num="2">ry3at</FormA>
+</mot>
+<mot num="211">
+<FormN>رايعة</FormN>
+<FormA num="1">ray3a</FormA>
+<FormA num="2">ry3a</FormA>
+<FormA num="3">رايعه</FormA>
+</mot>
+<mot num="212">
+<FormN>رايعين</FormN>
+<FormA num="1">ray3in</FormA>
+<FormA num="2">ry3in</FormA>
+</mot>
+<mot num="213">
+<FormN>رايع</FormN>
+<FormA num="1">raye3</FormA>
+<FormA num="2">raya3</FormA>
+</mot>
+<mot num="214">
+<FormN>روعة</FormN>
+<FormA num="1">rawe3a</FormA>
+<FormA num="2">rwe3a</FormA>
+<FormA num="3">روعه</FormA>
+</mot>
+<mot num="215">
+<FormN>شبايبا</FormN>
+<FormA num="1">chebayba</FormA>
+<FormA num="2">chbayba</FormA>
+</mot>
+<mot num="216">
+<FormN>شبايب</FormN>
+<FormA num="1">chebayib</FormA>
+<FormA num="2">chbayib</FormA>
+</mot>
+<mot num="217">
+<FormN>شدتني</FormN>
+<FormA num="1">chadetni</FormA>
+<FormA num="2">chdetni</FormA>
+</mot>
+<mot num="218">
+<FormN>شدتوني</FormN>
+<FormA num="1">chadetoni</FormA>
+<FormA num="2">chdetoni</FormA>
+</mot>
+<mot num="219">
+<FormN>صريحات</FormN>
+<FormA num="1">sarehat</FormA>
+<FormA num="2">sare7at</FormA>
+<FormA num="3">sarihat</FormA>
+<FormA num="4">sari7at</FormA>
+</mot>
+<mot num="220">
+<FormN>صريحة</FormN>
+<FormA num="1">sareha</FormA>
+<FormA num="2">sare7a</FormA>
+<FormA num="3">sariha</FormA>
+<FormA num="4">sari7a</FormA>
+<FormA num="5">صريحه</FormA>
+<FormA num="6">saryha</FormA>
+<FormA num="7">sary7a</FormA>
+</mot>
+<mot num="221">
+<FormN>صريحين</FormN>
+<FormA num="1">sarehin</FormA>
+<FormA num="2">sare7in</FormA>
+<FormA num="3">sarihin</FormA>
+<FormA num="4">sari7in</FormA>
+</mot>
+<mot num="222">
+<FormN>صريح</FormN>
+<FormA num="1">sareh</FormA>
+<FormA num="2">sare7</FormA>
+<FormA num="3">sarih</FormA>
+<FormA num="4">sari7</FormA>
+<FormA num="5">saryh</FormA>
+<FormA num="6">sary7</FormA>
+</mot>
+<mot num="223">
+<FormN>طايرات</FormN>
+<FormA num="1">tayarat</FormA>
+<FormA num="2">tyarat</FormA>
+</mot>
+<mot num="224">
+<FormN>طايرة</FormN>
+<FormA num="1">tayara</FormA>
+<FormA num="2">tyara</FormA>
+<FormA num="3">طايره</FormA>
+</mot>
+<mot num="225">
+<FormN>طايرين</FormN>
+<FormA num="1">tayarin</FormA>
+<FormA num="2">tyarin</FormA>
+</mot>
+<mot num="226">
+<FormN>طاير</FormN>
+<FormA num="1">tayir</FormA>
+<FormA num="2">tayer</FormA>
+<FormA num="3">tyer</FormA>
+<FormA num="4">tyir</FormA>
+</mot>
+<mot num="227">
+<FormN>طيارة</FormN>
+<FormA num="1">tayara</FormA>
+<FormA num="2">tyara</FormA>
+</mot>
+<mot num="228">
+<FormN>طياره</FormN>
+<FormA num="1">tayarah</FormA>
+<FormA num="2">tyarah</FormA>
+</mot>
+<mot num="229">
+<FormN>عادية</FormN>
+<FormA num="1">3adeya</FormA>
+<FormA num="2">adeya</FormA>
+</mot>
+<mot num="230">
+<FormN>عالمية</FormN>
+<FormA num="1">3alameya</FormA>
+<FormA num="2">alameya</FormA>
+<FormA num="3">عالميه</FormA>
+</mot>
+<mot num="231">
+<FormN>عالمي</FormN>
+<FormA num="1">3alami</FormA>
+<FormA num="2">alami</FormA>
+<FormA num="3">عالمى</FormA>
+</mot>
+<mot num="232">
+<FormN>عجبتني</FormN>
+<FormA num="1">3ijbetni</FormA>
+<FormA num="2">3jbetni</FormA>
+<FormA num="3">عجبتنى</FormA>
+</mot>
+<mot num="233">
+<FormN>عجبتوني</FormN>
+<FormA num="1">3ijbetoni</FormA>
+<FormA num="2">3jbetoni</FormA>
+<FormA num="3">عجبتونى</FormA>
+</mot>
+<mot num="234">
+<FormN>عسلات</FormN>
+<FormA num="1">3aslat</FormA>
+<FormA num="2">3slat</FormA>
+<FormA num="3">3aslet</FormA>
+<FormA num="4">3slet</FormA>
+</mot>
+<mot num="235">
+<FormN>عسلة</FormN>
+<FormA num="1">3asla</FormA>
+<FormA num="2">3sla</FormA>
+<FormA num="3">عسله</FormA>
+</mot>
+<mot num="236">
+<FormN>عسل</FormN>
+<FormA num="1">3asel</FormA>
+<FormA num="2">3sel</FormA>
+<FormA num="3">3asal</FormA>
+<FormA num="4">3sal</FormA>
+</mot>
+<mot num="237">
+<FormN>مشكورين</FormN>
+<FormA num="1">machkorin</FormA>
+<FormA num="2">mach9orin</FormA>
+<FormA num="3">mchkorin</FormA>
+<FormA num="4">mch9orin</FormA>
+<FormA num="5">machkoryn</FormA>
+<FormA num="6">mach9oryn</FormA>
+<FormA num="7">mchkoryn</FormA>
+<FormA num="8">mch9oryn</FormA>
+</mot>
+<mot num="238">
+<FormN>متوسطة</FormN>
+<FormA num="1">motwaseta</FormA>
+<FormA num="2">mtwaseta</FormA>
+<FormA num="3">متوسطه</FormA>
+</mot>
+<mot num="239">
+<FormN>متوسطين</FormN>
+<FormA num="1">motwasetin</FormA>
+<FormA num="2">mtwasetin</FormA>
+<FormA num="3">motwasetyn</FormA>
+<FormA num="4">mtwasetyn</FormA>
+</mot>
+<mot num="240">
+<FormN>متوسط</FormN>
+<FormA num="1">motwaset</FormA>
+<FormA num="2">mtwaset</FormA>
+<FormA num="3">motwasat</FormA>
+<FormA num="4">mtwasat</FormA>
+</mot>
+<mot num="241">
+<FormN>محلاكم</FormN>
+<FormA num="1">mahlekom</FormA>
+<FormA num="2">mahlakom</FormA>
+<FormA num="3">mahle9om</FormA>
+<FormA num="4">mahla9om</FormA>
+<FormA num="5">ma7lekom</FormA>
+<FormA num="6">ma7lakom</FormA>
+</mot>
+<mot num="242">
+<FormN>محلاك</FormN>
+<FormA num="1">mahlek</FormA>
+<FormA num="2">mahlak</FormA>
+<FormA num="3">mahle9</FormA>
+<FormA num="4">mahla9</FormA>
+<FormA num="5">ma7lek</FormA>
+<FormA num="6">ma7lak</FormA>
+</mot>
+<mot num="243">
+<FormN>محلاها</FormN>
+<FormA num="1">mahleha</FormA>
+<FormA num="2">mahlaha</FormA>
+<FormA num="3">ma7leha</FormA>
+<FormA num="4">ma7laha</FormA>
+</mot>
+<mot num="244">
+<FormN>محلاهم</FormN>
+<FormA num="1">mahlehom</FormA>
+<FormA num="2">mahlahom</FormA>
+<FormA num="3">ma7lehom</FormA>
+<FormA num="4">ma7lahom</FormA>
+</mot>
+<mot num="245">
+<FormN>محلاه</FormN>
+<FormA num="1">mahleh</FormA>
+<FormA num="2">mahlah</FormA>
+<FormA num="3">ma7leh</FormA>
+<FormA num="4">ma7lah</FormA>
+</mot>
+<mot num="246">
+<FormN>مذهلة</FormN>
+<FormA num="1">mothehela</FormA>
+<FormA num="2">mothehala</FormA>
+<FormA num="3">مذهله</FormA>
+</mot>
+<mot num="247">
+<FormN>مذهلين</FormN>
+<FormA num="1">mothehelin</FormA>
+<FormA num="2">mothehalin</FormA>
+<FormA num="3">mothehelyn</FormA>
+<FormA num="4">mothehalyn</FormA>
+</mot>
+<mot num="248">
+<FormN>مذهل</FormN>
+<FormA num="1">mothehel</FormA>
+<FormA num="2">mothehal</FormA>
+</mot>
+<mot num="249">
+<FormN>مزيانة</FormN>
+<FormA num="1">mezeyana</FormA>
+<FormA num="2">mzeyana</FormA>
+<FormA num="3">مزيانه</FormA>
+</mot>
+<mot num="250">
+<FormN>مزيان</FormN>
+<FormA num="1">mezeyan</FormA>
+<FormA num="2">mzeyan</FormA>
+</mot>
+<mot num="251">
+<FormN>معلمة</FormN>
+<FormA num="1">me3alma</FormA>
+<FormA num="2">m3alma</FormA>
+<FormA num="3">معلمه</FormA>
+</mot>
+<mot num="252">
+<FormN>معلم</FormN>
+<FormA num="1">me3alem</FormA>
+<FormA num="2">m3alm</FormA>
+</mot>
+<mot num="253">
+<FormN>ممتازة</FormN>
+<FormA num="1">momtaza</FormA>
+<FormA num="2">momteza</FormA>
+<FormA num="3">moumtaza</FormA>
+<FormA num="4">moumteza</FormA>
+<FormA num="5">ممتازه</FormA>
+</mot>
+<mot num="254">
+<FormN>ممتازين</FormN>
+<FormA num="1">momtazin</FormA>
+<FormA num="2">momtezin</FormA>
+<FormA num="3">moumtazin</FormA>
+<FormA num="4">moumtezin</FormA>
+</mot>
+<mot num="255">
+<FormN>ممتاز</FormN>
+<FormA num="1">momtaz</FormA>
+<FormA num="2">momtez</FormA>
+<FormA num="3">moumtaz</FormA>
+<FormA num="4">moumtez</FormA>
+</mot>
+<mot num="256">
+<FormN>منورين</FormN>
+<FormA num="1">menawrin</FormA>
+<FormA num="2">mnawerin</FormA>
+<FormA num="3">manawerin</FormA>
+<FormA num="4">mnawrin</FormA>
+<FormA num="5">menawryn</FormA>
+<FormA num="6">mnaweryn</FormA>
+<FormA num="7">manaweryn</FormA>
+<FormA num="8">mnawryn</FormA>
+</mot>
+<mot num="257">
+<FormN>منور</FormN>
+<FormA num="1">menawr</FormA>
+<FormA num="2">mnawer</FormA>
+<FormA num="3">manawer</FormA>
+<FormA num="4">mnawr</FormA>
+</mot>
+<mot num="258">
+<FormN>مهفة</FormN>
+<FormA num="1">mehafa</FormA>
+<FormA num="2">mihafe</FormA>
+<FormA num="3">مهفه</FormA>
+</mot>
+<mot num="259">
+<FormN>مهف</FormN>
+<FormA num="1">mehafa</FormA>
+<FormA num="2">mihafe</FormA>
+</mot>
+<mot num="260">
+<FormN>موهرة</FormN>
+<FormA num="1">mewehara</FormA>
+<FormA num="2">mwehra</FormA>
+<FormA num="3">موهره</FormA>
+</mot>
+<mot num="261">
+<FormN>موهر</FormN>
+<FormA num="1">mewehir</FormA>
+<FormA num="2">mewehar</FormA>
+</mot>
+<mot num="262">
+<FormN>نبدعوا</FormN>
+<FormA num="1">nbede3o</FormA>
+<FormA num="2">nbede3ou</FormA>
+<FormA num="3">nbidi3o</FormA>
+<FormA num="4">nbidi3ou</FormA>
+<FormA num="5">نبدعو</FormA>
+</mot>
+<mot num="263">
+<FormN>نبدع</FormN>
+<FormA num="1">nbede3</FormA>
+<FormA num="2">nbeda3</FormA>
+<FormA num="3">nbidi3</FormA>
+<FormA num="4">nbida3</FormA>
+</mot>
+<mot num="264">
+<FormN>نحبكم</FormN>
+<FormA num="1">nihibkom</FormA>
+<FormA num="2">nehibkom</FormA>
+<FormA num="3">nhebkom</FormA>
+<FormA num="4">nhibkom</FormA>
+<FormA num="5">nihib9om</FormA>
+<FormA num="6">nehib9om</FormA>
+<FormA num="7">nhebk9om</FormA>
+<FormA num="8">nhibk9om</FormA>
+</mot>
+<mot num="265">
+<FormN>نحبك</FormN>
+<FormA num="1">nihibik</FormA>
+<FormA num="2">nehibik</FormA>
+<FormA num="3">nhebik</FormA>
+<FormA num="4">nhibik</FormA>
+<FormA num="5">nihibi9</FormA>
+<FormA num="6">nehibi9</FormA>
+<FormA num="7">nhebki9</FormA>
+<FormA num="8">nhibki9</FormA>
+</mot>
+<mot num="266">
+<FormN>نحبها</FormN>
+<FormA num="1">nihibha</FormA>
+<FormA num="2">nehibha</FormA>
+<FormA num="3">nhebha</FormA>
+<FormA num="4">nhibha</FormA>
+</mot>
+<mot num="267">
+<FormN>نحبوا</FormN>
+<FormA num="1">nihibo</FormA>
+<FormA num="2">nehibo</FormA>
+<FormA num="3">nhebo</FormA>
+<FormA num="4">nhibo</FormA>
+<FormA num="5">نحبو</FormA>
+</mot>
+<mot num="268">
+<FormN>نشدوا</FormN>
+<FormA num="1">nchido</FormA>
+<FormA num="2">nechido</FormA>
+<FormA num="3">nchidou</FormA>
+<FormA num="4">nechidou</FormA>
+<FormA num="5">نشدو</FormA>
+</mot>
+<mot num="269">
+<FormN>نشد</FormN>
+<FormA num="1">nchid</FormA>
+<FormA num="2">nechid</FormA>
+</mot>
+<mot num="270">
+<FormN>نعجبوا</FormN>
+<FormA num="1">ne3jbo</FormA>
+<FormA num="2">ne3jbou</FormA>
+<FormA num="3">n3jbou</FormA>
+<FormA num="4">n3jbo</FormA>
+<FormA num="5">نعجبو</FormA>
+</mot>
+<mot num="271">
+<FormN>نعجب</FormN>
+<FormA num="1">ne3jeb</FormA>
+<FormA num="2">n3jeb</FormA>
+<FormA num="3">ne3jib</FormA>
+<FormA num="4">n3jib</FormA>
+</mot>
+<mot num="272">
+<FormN>نعشقكم</FormN>
+<FormA num="1">na3chakom</FormA>
+<FormA num="2">n3chakom</FormA>
+<FormA num="3">ne3chakom</FormA>
+<FormA num="4">n3chakom</FormA>
+<FormA num="5">na3cha9om</FormA>
+<FormA num="6">n3cha9om</FormA>
+<FormA num="7">ne3che9om</FormA>
+<FormA num="8">n3che9om</FormA>
+</mot>
+<mot num="273">
+<FormN>نعشقك</FormN>
+<FormA num="1">na3chakik</FormA>
+<FormA num="2">n3chakik</FormA>
+<FormA num="3">ne3chekik</FormA>
+<FormA num="4">n3chekik</FormA>
+<FormA num="5">na3cha9i9</FormA>
+<FormA num="6">n3cha9i9</FormA>
+<FormA num="7">ne3che9i9</FormA>
+<FormA num="8">n3che9i9</FormA>
+</mot>
+<mot num="274">
+<FormN>نعشقها</FormN>
+<FormA num="1">na3chakha</FormA>
+<FormA num="2">n3chakha</FormA>
+<FormA num="3">ne3chekha</FormA>
+<FormA num="4">n3chekha</FormA>
+<FormA num="5">na3cha9ha</FormA>
+<FormA num="6">n3cha9ha</FormA>
+<FormA num="7">ne3che9ha</FormA>
+<FormA num="8">n3che9ha</FormA>
+</mot>
+<mot num="275">
+<FormN>نعشقوا</FormN>
+<FormA num="1">na3chako</FormA>
+<FormA num="2">n3chako</FormA>
+<FormA num="3">ne3cheko</FormA>
+<FormA num="4">n3cheko</FormA>
+<FormA num="5">na3cha9o</FormA>
+<FormA num="6">n3cha9o</FormA>
+<FormA num="7">ne3che9o</FormA>
+<FormA num="8">n3che9o</FormA>
+<FormA num="9">نعشقو</FormA>
+</mot>
+<mot num="276">
+<FormN>نعشق</FormN>
+<FormA num="1">na3chak</FormA>
+<FormA num="2">n3chak</FormA>
+<FormA num="3">ne3chek</FormA>
+<FormA num="4">n3chek</FormA>
+<FormA num="5">na3cha9</FormA>
+<FormA num="6">n3cha9</FormA>
+<FormA num="7">ne3che9</FormA>
+<FormA num="8">n3che9</FormA>
+</mot>
+<mot num="277">
+<FormN>ننجحوا</FormN>
+<FormA num="1">ninjho</FormA>
+<FormA num="2">nenjho</FormA>
+<FormA num="3">ninjeho</FormA>
+<FormA num="4">nenjeho</FormA>
+<FormA num="5">nanjho</FormA>
+<FormA num="6">nanjeho</FormA>
+<FormA num="7">ننجحو</FormA>
+</mot>
+<mot num="278">
+<FormN>ننجح</FormN>
+<FormA num="1">ninjah</FormA>
+<FormA num="2">nenjah</FormA>
+<FormA num="3">ninjeh</FormA>
+<FormA num="4">nenjeh</FormA>
+<FormA num="5">nanjah</FormA>
+</mot>
+<mot num="279">
+<FormN>نهبلوا</FormN>
+<FormA num="1">nihabelo</FormA>
+<FormA num="2">nehabelo</FormA>
+<FormA num="3">nihabilo</FormA>
+<FormA num="4">nehabilo</FormA>
+<FormA num="5">nhabelo</FormA>
+<FormA num="6">nhabilo</FormA>
+<FormA num="7">nahabelo</FormA>
+<FormA num="8">nahabilo</FormA>
+<FormA num="9">نهبلو</FormA>
+</mot>
+<mot num="280">
+<FormN>نهبل</FormN>
+<FormA num="1">nihabel</FormA>
+<FormA num="2">nehabel</FormA>
+<FormA num="3">nihabil</FormA>
+<FormA num="4">nehabil</FormA>
+<FormA num="5">nhabel</FormA>
+<FormA num="6">nhabil</FormA>
+<FormA num="7">nahabel</FormA>
+<FormA num="8">nahabil</FormA>
+</mot>
+<mot num="281">
+<FormN>هايلة</FormN>
+<FormA num="1">hayela</FormA>
+<FormA num="2">heyela</FormA>
+<FormA num="3">hayila</FormA>
+<FormA num="4">heyila</FormA>
+<FormA num="5">hayala</FormA>
+<FormA num="6">heyala</FormA>
+<FormA num="7">هايله</FormA>
+</mot>
+<mot num="282">
+<FormN>هايلين</FormN>
+<FormA num="1">hayelin</FormA>
+<FormA num="2">heyelin</FormA>
+<FormA num="3">hayilin</FormA>
+<FormA num="4">heyilin</FormA>
+<FormA num="5">hayalin</FormA>
+<FormA num="6">heyalin</FormA>
+</mot>
+<mot num="283">
+<FormN>هايل</FormN>
+<FormA num="1">hayel</FormA>
+<FormA num="2">heyel</FormA>
+<FormA num="3">hayil</FormA>
+<FormA num="4">heyil</FormA>
+<FormA num="5">hayal</FormA>
+<FormA num="6">heyal</FormA>
+</mot>
+<mot num="284">
+<FormN>هبال</FormN>
+<FormA num="1">habel</FormA>
+<FormA num="2">hebel</FormA>
+<FormA num="3">habil</FormA>
+<FormA num="4">hebil</FormA>
+</mot>
+<mot num="285">
+<FormN>وحدك</FormN>
+<FormA num="1">wahdik</FormA>
+<FormA num="2">wehdik</FormA>
+<FormA num="3">wahdi9</FormA>
+<FormA num="4">wehdi9</FormA>
+</mot>
+<mot num="286">
+<FormN>وهرة</FormN>
+<FormA num="1">wahera</FormA>
+<FormA num="2">wehera</FormA>
+<FormA num="3">wahira</FormA>
+<FormA num="4">wehira</FormA>
+<FormA num="5">وهره</FormA>
+</mot>
+<mot num="287">
+<FormN>يشدني</FormN>
+<FormA num="1">ychedni</FormA>
+<FormA num="2">yachedni</FormA>
+<FormA num="3">yechedni</FormA>
+<FormA num="4">يشدنى</FormA>
+</mot>
+<mot num="288">
+<FormN>يشدوني</FormN> 
+<FormA num="1">ychedoni</FormA>
+<FormA num="2">yachedoni</FormA>
+<FormA num="3">yechedoni</FormA>
+<FormA num="4">يشدونى</FormA>
+<FormA num="5">ychedony</FormA>
+<FormA num="6">yachedony</FormA>
+<FormA num="7">yechedony</FormA>
+</mot>
+<mot num="289">
+<FormN>يعجبني</FormN>
+<FormA num="1">y3jebeni</FormA>
+<FormA num="2">ya3jebni</FormA>
+<FormA num="3">y3jabni</FormA>
+<FormA num="4">ya3jabni</FormA>
+<FormA num="5">يعجبنى</FormA>
+<FormA num="6">y3jebeny</FormA>
+<FormA num="7">ya3jebny</FormA>
+<FormA num="8">y3jabny</FormA>
+<FormA num="9">ya3jabny</FormA>
+</mot>
+<mot num="290">
+<FormN>يعجبوني</FormN>
+<FormA num="1">y3jeboni</FormA>
+<FormA num="2">ya3jeboni</FormA>
+<FormA num="3">y3jaboni</FormA>
+<FormA num="4">ya3jaboni</FormA>
+<FormA num="5">يعجبونى</FormA>
+<FormA num="6">y3jebony</FormA>
+<FormA num="7">ya3jebony</FormA>
+<FormA num="8">y3jabony</FormA>
+<FormA num="9">ya3jabony</FormA>
+</mot>
+<mot num="291">
+<FormN>يفتقوا</FormN> 
+<FormA num="1">yfatko</FormA>
+<FormA num="2">yefatko</FormA>
+<FormA num="3">yfat9o</FormA>
+<FormA num="4">yefat9o</FormA>
+<FormA num="5">yfatkou</FormA>
+<FormA num="6">yefatkou</FormA>
+<FormA num="7">yfat9ou</FormA>
+<FormA num="8">yefat9ou</FormA>
+<FormA num="9">يفتقو</FormA>
+</mot>
+<mot num="292">
+<FormN>يفتق</FormN>
+<FormA num="1">yfatik</FormA>
+<FormA num="2">yefatik</FormA>
+<FormA num="3">yfati9</FormA>
+<FormA num="4">yefati9</FormA>
+<FormA num="5">yfatak</FormA>
+<FormA num="6">yefatak</FormA>
+<FormA num="7">yfata9</FormA>
+<FormA num="8">yefata9</FormA>
+</mot>
+<mot num="293">
+<FormN>يقتلوا</FormN>
+<FormA num="1">yoktlo</FormA>
+<FormA num="2">yektlo</FormA>
+<FormA num="3">yo9tlo</FormA>
+<FormA num="4">ye9tlo</FormA>
+<FormA num="5">yoktlou</FormA>
+<FormA num="6">yektlou</FormA>
+<FormA num="7">yo9tlou</FormA>
+<FormA num="8">ye9tlou</FormA>
+<FormA num="9">يقتلو</FormA>
+</mot>
+<mot num="294">
+<FormN>يقتل</FormN>
+<FormA num="1">yoktil</FormA>
+<FormA num="2">yektil</FormA>
+<FormA num="3">yo9til</FormA>
+<FormA num="4">ye9til</FormA>
+<FormA num="5">yoktel</FormA>
+<FormA num="6">yektel</FormA>
+<FormA num="7">yo9tel</FormA>
+<FormA num="8">ye9tel</FormA>
+</mot>
+<mot num="295">
+<FormN>ينجحوا</FormN>
+<FormA num="1">yanjho</FormA>
+<FormA num="2">yenjho</FormA>
+<FormA num="3">yinjho</FormA>
+<FormA num="4">yanjeho</FormA>
+<FormA num="5">yenjeho</FormA>
+<FormA num="6">yinjeho</FormA>
+<FormA num="7">yanjiho</FormA>
+<FormA num="8">yenjiho</FormA>
+<FormA num="9">yinjiho</FormA>
+<FormA num="10">ينجحو</FormA>
+</mot>
+<mot num="296">
+<FormN>ينجح</FormN>
+<FormA num="1">yanjah</FormA>
+<FormA num="2">yenjah</FormA>
+<FormA num="3">yinjah</FormA>
+<FormA num="4">yanjeh</FormA>
+<FormA num="5">yenjeh</FormA>
+<FormA num="6">yinjeh</FormA>
+<FormA num="7">yanjih</FormA>
+<FormA num="8">yenjih</FormA>
+<FormA num="9">yinjih</FormA>
+</mot>
+<mot num="297">
+<FormN>يهبلوا</FormN>
+<FormA num="1">yahablo</FormA>
+<FormA num="2">yehablo</FormA>
+<FormA num="3">yihablo</FormA>
+<FormA num="4">yahabilo</FormA>
+<FormA num="5">yehabilo</FormA>
+<FormA num="6">yihabilo</FormA>
+<FormA num="7">يهبلو</FormA>
+</mot>
+<mot num="298">
+<FormN>يهبل</FormN>
+<FormA num="1">yahabil</FormA>
+<FormA num="2">yehabil</FormA>
+<FormA num="3">yihabil</FormA>
+<FormA num="4">yahabel</FormA>
+<FormA num="5">yehabel</FormA>
+<FormA num="6">yihabel</FormA>
+<FormA num="7">yahabal</FormA>
+<FormA num="8">yehabal</FormA>
+<FormA num="9">yihabal</FormA>
+</mot>
+<mot num="299">
+<FormN>اخمج قناة</FormN>
+<FormA num="1">a5mej kanat</FormA>
+<FormA num="2">a5mej kanet</FormA>
+<FormA num="3">a5mej 9anat</FormA>
+<FormA num="4">a5mej 9anet</FormA>
+<FormA num="5">akhmej kanat</FormA>
+<FormA num="6">akhmej kanet</FormA>
+<FormA num="7">akhmej 9anat</FormA>
+<FormA num="8">akhmej 9anet</FormA>
+<FormA num="9">اخمج قناه</FormA>
+</mot>
+<mot num="300">
+<FormN>اشكون ما زال ماجبتوش</FormN>
+<FormA num="1">achkoun mazel majibtouch</FormA>
+<FormA num="2">achkoun mazal majibtouch</FormA>
+<FormA num="3">achkon mazel majibtoch</FormA>
+<FormA num="4">achkon mazal majibtoch</FormA>
+<FormA num="5">ach9oun mazel majibtouch</FormA>
+<FormA num="6">ach9oun mazal majibtouch</FormA>
+<FormA num="7">ach9on mazel majibtoch</FormA>
+<FormA num="8">ach9on mazal majibtoch</FormA>
+</mot>
+<mot num="301">
+<FormN>اش مجيبك في</FormN>
+<FormA num="1">ach mejaybik fih</FormA>
+<FormA num="2">ach mejaybek feh</FormA>
+<FormA num="3">ach mejaybik feh</FormA>
+<FormA num="4">ach mejaybek fih</FormA>
+<FormA num="5">اش مجيبك فى</FormA>
+</mot>
+<mot num="302">
+<FormN>اعلام الحجامة</FormN>
+<FormA num="1">i3lem ilhajama</FormA>
+<FormA num="2">e3lem elhajama</FormA>
+<FormA num="3">a3lem alhajama</FormA>
+<FormA num="4">i3lim ilhajama</FormA>
+<FormA num="5">e3lim elhajama</FormA>
+<FormA num="6">a3lim alhajama</FormA>
+<FormA num="7">اعلام الحجامه</FormA>
+</mot>
+<mot num="303">
+<FormN>اعلام العار</FormN>
+<FormA num="1">i3lem il3ar</FormA>
+<FormA num="2">e3lem el3ar</FormA>
+<FormA num="3">a3lem al3ar</FormA>
+<FormA num="4">i3lim il3ar</FormA>
+<FormA num="5">e3lim el3ar</FormA>
+<FormA num="6">a3lim al3ar</FormA>
+</mot>
+<mot num="304">
+<FormN>اعمل اريحة</FormN>
+<FormA num="1">i3mel ilriha</FormA>
+<FormA num="2">e3mel elriha</FormA>
+<FormA num="3">a3mel alriha</FormA>
+<FormA num="4">i3mil ilriha</FormA>
+<FormA num="5">e3mil elriha</FormA>
+<FormA num="6">a3mil alriha</FormA>
+<FormA num="7">i3mel ilreha</FormA>
+<FormA num="8">e3mel elreha</FormA>
+<FormA num="9">a3mel alreha</FormA>
+<FormA num="10">i3mil ilreha</FormA>
+<FormA num="11">e3mil elreha</FormA>
+<FormA num="12">a3mil alreha</FormA>
+<FormA num="13">اعمل اريحه</FormA>
+</mot>
+<mot num="305">
+<FormN>اكبر ارهابين في سلطة</FormN>
+<FormA num="1">akebir irhabin fe solta</FormA>
+<FormA num="2">akeber irhabin fe solta</FormA>
+<FormA num="3">akbir irhabin fe solta</FormA>
+<FormA num="4">akber irhabin fe solta</FormA>
+<FormA num="5">a9ebir irhabin fe solta</FormA>
+<FormA num="6">a9eber irhabin fe solta</FormA>
+<FormA num="7">a9bir irhabin fe solta</FormA>
+<FormA num="8">a9ber irhabin fe solta</FormA>
+<FormA num="9">اكبر ارهابين فى سلطه</FormA>
+</mot>
+<mot num="306">
+<FormN>اكبر ارهابي</FormN>
+<FormA num="1">akebir irhabi</FormA>
+<FormA num="2">akeber irhabi</FormA>
+<FormA num="3">akbir irhabi</FormA>
+<FormA num="4">akber irhabi</FormA>
+<FormA num="5">a9ebir irhabi</FormA>
+<FormA num="6">a9eber irhabi</FormA>
+<FormA num="7">a9bir irhabi</FormA>
+<FormA num="8">a9ber irhabi</FormA>
+<FormA num="9">اكبر ارهابى</FormA>
+</mot>
+<mot num="307">
+<FormN>اكبر ساقط</FormN>
+<FormA num="1">akebir sakit</FormA>
+<FormA num="2">akeber sakit</FormA>
+<FormA num="3">akbir sakit</FormA>
+<FormA num="4">akber sakit</FormA>
+<FormA num="5">a9ebir sakit</FormA>
+<FormA num="6">a9eber sakit</FormA>
+<FormA num="7">a9bir sakit</FormA>
+<FormA num="8">a9ber sakit</FormA>
+<FormA num="9">akebir sa9it</FormA>
+<FormA num="10">akeber sa9it</FormA>
+<FormA num="11">akbir sa9it</FormA>
+<FormA num="12">akber sa9it</FormA>
+<FormA num="13">a9ebir sa9it</FormA>
+<FormA num="14">a9eber sa9it</FormA>
+<FormA num="15">a9bir sa9it</FormA>
+<FormA num="16">a9ber sa9it</FormA>
+<FormA num="17">اكبر صاقط</FormA>
+</mot>
+<mot num="308">
+<FormN>اكبر طحانة</FormN>
+<FormA num="1">akebir tahana</FormA>
+<FormA num="2">akeber tahana</FormA>
+<FormA num="3">akbir tahana</FormA>
+<FormA num="4">akber tahana</FormA>
+<FormA num="5">a9ebir tahana</FormA>
+<FormA num="6">a9eber tahana</FormA>
+<FormA num="7">a9bir tahana</FormA>
+<FormA num="8">a9ber tahana</FormA>
+<FormA num="9">اكبر طحانه</FormA>
+</mot>
+<mot num="309">
+<FormN>اكبر طحانين</FormN>
+<FormA num="1">akebir tahanin</FormA>
+<FormA num="2">akeber tahanin</FormA>
+<FormA num="3">akbir tahanin</FormA>
+<FormA num="4">akber tahanin</FormA>
+<FormA num="5">a9ebir tahanin</FormA>
+<FormA num="6">a9eber tahanin</FormA>
+<FormA num="7">a9bir tahanin</FormA>
+<FormA num="8">a9ber tahanin</FormA>
+</mot>
+<mot num="310">
+<FormN>اكبر طحان</FormN>
+<FormA num="1">akebir tahan</FormA>
+<FormA num="2">akeber tahan</FormA>
+<FormA num="3">akbir tahan</FormA>
+<FormA num="4">akber tahan</FormA>
+<FormA num="5">a9ebir tahan</FormA>
+<FormA num="6">a9eber tahan</FormA>
+<FormA num="7">a9bir tahan</FormA>
+<FormA num="8">a9ber tahan</FormA>
+</mot>
+<mot num="311">
+<FormN>اكبر منافق</FormN>
+<FormA num="1">akebir monafik</FormA>
+<FormA num="2">akeber monafik</FormA>
+<FormA num="3">akbir monafik</FormA>
+<FormA num="4">akber monafik</FormA>
+<FormA num="5">a9ebir monafik</FormA>
+<FormA num="6">a9eber monafik</FormA>
+<FormA num="7">a9bir monafik</FormA>
+<FormA num="8">a9ber monafik</FormA>
+<FormA num="9">akebir mona9ik</FormA>
+<FormA num="10">akeber mona9ik</FormA>
+<FormA num="11">akbir mona9ik</FormA>
+<FormA num="12">akber mona9ik</FormA>
+<FormA num="13">a9ebir mona9ik</FormA>
+<FormA num="14">a9eber mona9ik</FormA>
+<FormA num="15">a9bir mona9ik</FormA>
+<FormA num="16">a9ber mona9ik</FormA>
+</mot>
+<mot num="312">
+<FormN>الاعلام المسخ</FormN>
+<FormA num="1">ili3lem ilmasik</FormA>
+<FormA num="2">ele3lem elmasik</FormA>
+<FormA num="3">ala3lim almasik</FormA>
+<FormA num="4">ili3lim ilmasi5</FormA>
+<FormA num="5">ele3lim elmasi5</FormA>
+<FormA num="6">ala3lim almasi5</FormA>
+<FormA num="7">اعلام مسخ</FormA>
+<FormA num="8">i3lem masik</FormA>
+<FormA num="9">e3lem masik</FormA>
+<FormA num="10">a3lim masik</FormA>
+<FormA num="11">i3lim masi5</FormA>
+<FormA num="12">e3lim masi5</FormA>
+<FormA num="13">a3lim masi5</FormA>
+</mot>
+<mot num="313">
+<FormN>البرنامج اصبح ممل</FormN>
+<FormA num="1">elbarnemej asbaha momel</FormA>
+<FormA num="2">elbarnemij asbaha momel</FormA>
+<FormA num="3">elbarnemej asbaha momil</FormA>
+<FormA num="4">elbarnemij asbaha momil</FormA>
+<FormA num="5">ilbarnamej asbaha momel</FormA>
+<FormA num="6">ilbarnamij asbaha momel</FormA>
+<FormA num="7">ilbarnamej asbaha momil</FormA>
+<FormA num="8">ilbarnamij asbaha momil</FormA>
+</mot>
+<mot num="314">
+<FormN>البرنامج متوفقش</FormN>
+<FormA num="1">elbarnemej matwafikch</FormA>
+<FormA num="2">elbarnemij matwafikch</FormA>
+<FormA num="3">elbarnemej matwafikch</FormA>
+<FormA num="4">elbarnemij matwafikch</FormA>
+<FormA num="5">elbarnemej matwafi9ch</FormA>
+<FormA num="6">elbarnemij matwafi9ch</FormA>
+<FormA num="7">elbarnemej matwafi9ch</FormA>
+<FormA num="8">elbarnemij matwafi9ch</FormA>
+<FormA num="9">ilbarnemej matwafikch</FormA>
+<FormA num="10">ilbarnemij matwafikch</FormA>
+<FormA num="11">ilbarnemej matwafikch</FormA>
+<FormA num="12">ilbarnemij matwafikch</FormA>
+<FormA num="13">ilbarnemej matwafi9ch</FormA>
+<FormA num="14">ilbarnemij matwafi9ch</FormA>
+<FormA num="15">ilbarnemej matwafi9ch</FormA>
+<FormA num="16">ilbarnemij matwafi9ch</FormA>
+<FormA num="17">البرنامج متوفقش</FormA>
+<FormA num="18">barnemej matwafikch</FormA>
+<FormA num="19">barnemij matwafikch</FormA>
+<FormA num="20">barnemej matwafikch</FormA>
+<FormA num="21">barnemij matwafikch</FormA>
+<FormA num="22">barnemej matwafi9ch</FormA>
+<FormA num="23">barnemij matwafi9ch</FormA>
+<FormA num="24">barnemej matwafi9ch</FormA>
+<FormA num="25">barnemij matwafi9ch</FormA>
+</mot>
+<mot num="315">
+<FormN>الحلقة تقولش عليها حريم السلطان</FormN>
+<FormA num="1">elhalka tkoulich 3liha harim soltan</FormA>
+<FormA num="2">elhal9a t9oulich 3liha harim soltan</FormA>
+<FormA num="3">elhalka tkoulich 3leha harem soltan</FormA>
+<FormA num="4">elhal9a t9oulich 3leha harem soltan</FormA>
+<FormA num="5">حلقة تقولش عليها حريم سلطان</FormA>
+<FormA num="6">halka tkoulich 3liha harim soltan</FormA>
+<FormA num="7">hal9a t9oulich 3liha harim soltan</FormA>
+<FormA num="8">halka tkoulich 3leha harem soltan</FormA>
+<FormA num="9">hal9a t9oulich 3leha harem soltan</FormA>
+</mot>
+<mot num="316">
+<FormN>الحلقة غالطة</FormN>
+<FormA num="1">elhalka ghaleta</FormA>
+<FormA num="2">elhal9a ghaleta</FormA>
+<FormA num="3">elhalka ghalita</FormA>
+<FormA num="4">elhal9a ghalita</FormA>
+<FormA num="5">حلقة غالطة</FormA>
+<FormA num="6">halka ghaleta</FormA>
+<FormA num="7">hal9a ghaleta</FormA>
+<FormA num="8">halka ghalita</FormA>
+<FormA num="9">hal9a ghalita</FormA>
+<FormA num="10">الحلقه غاطه</FormA>
+</mot>
+<mot num="317">
+<FormN>الخلايق العادمه</FormN>
+<FormA num="1">el5aleyek el3adema</FormA>
+<FormA num="2">el5aleye9 el3adema</FormA>
+<FormA num="3">il5alayek il3adima</FormA>
+<FormA num="4">il5aleye9 il3adima</FormA>
+<FormA num="5">al5alayek al3adima</FormA>
+<FormA num="6">al5aleye9 al3adima</FormA>
+<FormA num="7">خلايق عادمه</FormA>
+<FormA num="8">5aleyek 3adema</FormA>
+<FormA num="9">5aleye9 3adema</FormA>
+<FormA num="10">5alayek 3adima</FormA>
+<FormA num="11">5aleye9 3adima</FormA>
+</mot>
+<mot num="318">
+<FormN>السماح في شعب يتفرج عليكم</FormN>
+<FormA num="1">elsemeh fe cha3ib yetferej 3likom</FormA>
+<FormA num="2">ilsemeh fe cha3ib yetferej 3likom</FormA>
+<FormA num="3">elsemeh fe cha3ib yetferej 3li9om</FormA>
+<FormA num="4">ilsemeh fe cha3ib yetferej 3li9om</FormA>
+<FormA num="5">elsameh fe cha3ib yetferej 3likom</FormA>
+<FormA num="6">ilsameh fe cha3ib yetferej 3likom</FormA>
+<FormA num="7">elsameh fe cha3ib yetferej 3li9om</FormA>
+<FormA num="8">ilsameh fe cha3ib yetferej 3li9om</FormA>
+<FormA num="9">سماح في شعب يتفرج عليكم</FormA>
+<FormA num="10">semeh fe cha3ib yetferej 3likom</FormA>
+<FormA num="11">semeh fe cha3ib yetferej 3li9om</FormA>
+<FormA num="12">sameh fe cha3ib yetferej 3likom</FormA>
+<FormA num="13">sameh fe cha3ib yetferej 3li9om</FormA>
+</mot>
+<mot num="319">
+<FormN>الشلاكة وخوه</FormN>
+<FormA num="1">elcheleka we khouh</FormA>
+<FormA num="2">elcheleka we 5ouh</FormA>
+<FormA num="3">elchele9a we khouh</FormA>
+<FormA num="4">elchele9a we 5ouh</FormA>
+<FormA num="5">ilcheleka we khouh</FormA>
+<FormA num="6">ilcheleka we 5ouh</FormA>
+<FormA num="7">ilchele9a we khouh</FormA>
+<FormA num="8">ilchele9a we 5ouh</FormA>
+<FormA num="9">شلاكة وخوه</FormA>
+<FormA num="10">cheleka we khouh</FormA>
+<FormA num="11">cheleka we 5ouh</FormA>
+<FormA num="12">chele9a we khouh</FormA>
+<FormA num="13">chele9a we 5ouh</FormA>
+<FormA num="14">الشلاكه وخوه</FormA>
+<FormA num="15">شلاكه وخوه</FormA>
+</mot>
+<mot num="320">
+<FormN>الشيب والعيب</FormN>
+<FormA num="1">elcheb wel3ib</FormA>
+<FormA num="2">elchib wel3ib</FormA>
+<FormA num="3">ilcheb wel3ib</FormA>
+<FormA num="4">ilchib wel3ib</FormA>
+<FormA num="5">شيب وعيب</FormA>
+<FormA num="6">cheb we 3ib</FormA>
+<FormA num="7">chib we 3ib</FormA>
+</mot>
+<mot num="321">
+<FormN>الطحين والنفاق</FormN>
+<FormA num="1">eltehin wel nifek</FormA>
+<FormA num="2">eltehin wel nife9</FormA>
+<FormA num="3">iltehin wel nifek</FormA>
+<FormA num="4">iltehin wel nife9</FormA>
+<FormA num="5">طحين ونفاق</FormA>
+<FormA num="6">tehin we nifek</FormA>
+<FormA num="7">tehin we nife9</FormA>
+</mot>
+<mot num="322">
+<FormN>العيب فلي جابوا</FormN>
+<FormA num="1">el3ib feli jabo</FormA>
+<FormA num="2">el3ib fili jabo</FormA>
+<FormA num="3">il3ib feli jabo</FormA>
+<FormA num="4">il3ib fili jabo</FormA>
+<FormA num="5">عيب فلي جابوا</FormA>
+<FormA num="6">3ib feli jabo</FormA>
+<FormA num="7">3ib fili jabo</FormA>
+<FormA num="8">عيب فلي جابو</FormA>
+<FormA num="9">العيب فلي جابو</FormA>
+</mot>
+<mot num="323">
+<FormN>العيب في اللي جابو</FormN>
+<FormA num="1">el3ib fe eli jabo</FormA>
+<FormA num="2">el3ib fi eli jabo</FormA>
+<FormA num="3">il3ib fe ili jabo</FormA>
+<FormA num="4">il3ib fi ili jabo</FormA>
+<FormA num="5">عيب في اللي جابو</FormA>
+<FormA num="6">3ib fe eli jabo</FormA>
+<FormA num="7">3ib fi ili jabo</FormA>
+</mot>
+<mot num="324">
+<FormN>العيب موش فيك</FormN>
+<FormA num="1">el3ib mouch fik</FormA>
+<FormA num="2">el3ib mouch fek</FormA>
+<FormA num="3">il3ib mouch fik</FormA>
+<FormA num="4">il3ib mouch fek</FormA>
+<FormA num="5">عيب موش فيك</FormA>
+<FormA num="6">3ib mouch fik</FormA>
+<FormA num="7">3ib mouch fek</FormA>
+</mot>
+<mot num="325">
+<FormN>اللطف يا ربي عجايب و غرايب</FormN>
+<FormA num="1">elotif ya rabi 3jayeb we ghrayeb</FormA>
+<FormA num="2">ilotif ya rabi 3jayeb we ghrayeb</FormA>
+<FormA num="3">لطف يا ربي عجايب و غرايب</FormA>
+<FormA num="4">lotif ya rabi 3jayeb we ghrayeb</FormA>
+</mot>
+<mot num="326">
+<FormN>الماخور التونسي</FormN>
+<FormA num="1">elma5ore eltounsi</FormA>
+<FormA num="2">ilma5ore iltounsi</FormA>
+<FormA num="3">elmakhore eltounsi</FormA>
+<FormA num="4">ilmakhore iltounsi</FormA>
+<FormA num="5">ماخور التونسي</FormA>
+<FormA num="6">ma5ore eltounsi</FormA>
+<FormA num="7">ma5ore iltounsi</FormA>
+<FormA num="8">makhore eltounsi</FormA>
+<FormA num="9">makhore iltounsi</FormA>
+<FormA num="10">ماخور التونسى</FormA>
+<FormA num="11">الماخور التونسى</FormA>
+</mot>
+<mot num="327">
+<FormN>المارك الفاسدة</FormN>
+<FormA num="1">elmarik elfesda</FormA>
+<FormA num="2">ilmarik ilfesda</FormA>
+<FormA num="3">elmari9 elfesda</FormA>
+<FormA num="4">ilmari9 ilfesda</FormA>
+<FormA num="5">مارك فاسدة</FormA>
+<FormA num="6">marik fesda</FormA>
+<FormA num="7">mari9 fesda</FormA>
+<FormA num="8">مارك فاسده</FormA>
+<FormA num="9">المارك فاسده</FormA>
+</mot>
+<mot num="328">
+<FormN>النفاق والتبلعيط</FormN>
+<FormA num="1">elnifek we tbal3it</FormA>
+<FormA num="2">ilnifek we tbal3it</FormA>
+<FormA num="3">elnife9 we tbal3it</FormA>
+<FormA num="4">ilnife9 we tbal3it</FormA>
+<FormA num="5">نفاق وتبلعيط</FormA>
+<FormA num="6">nifek we tbal3it</FormA>
+<FormA num="7">nife9 we tbal3it</FormA>
+</mot>
+<mot num="329">
+<FormN>الوطنية متاع الاعلام مشات</FormN>
+<FormA num="1">elwataneya mete3 ele3lem mechet</FormA>
+<FormA num="2">ilwataneya mete3 ile3lem mechet</FormA>
+<FormA num="3">وطنية متاع اعلام مشات</FormA>
+<FormA num="4">wataneya mete3 e3lem mechet</FormA>
+<FormA num="5">wataneya mete3 i3lem mechet</FormA>
+</mot>
+<mot num="330">
+<FormN>امسط البرامج</FormN>
+<FormA num="1">amsit elbaramij</FormA>
+<FormA num="2">amsit ilbaramij</FormA>
+<FormA num="3">amsit elbaramej</FormA>
+<FormA num="4">amsit ilbaramej</FormA>
+<FormA num="5">امسط برامج</FormA>
+<FormA num="6">amsit baramej</FormA>
+<FormA num="7">amsit baramij</FormA>
+</mot>
+<mot num="331">
+<FormN>امسط قناة</FormN>
+<FormA num="1">amsit kanat</FormA>
+<FormA num="2">amsit 9anat</FormA>
+<FormA num="3">amsit kanet</FormA>
+<FormA num="4">amsit 9anet</FormA>
+<FormA num="5">امسط فناه</FormA>
+<FormA num="6">امصط قناة</FormA>
+</mot>
+<mot num="332">
+<FormN>امسط منشطة</FormN>
+<FormA num="1">amsit monacheta</FormA>
+<FormA num="2">amsit monachita</FormA>
+<FormA num="3">amsit monachata</FormA>
+<FormA num="4">امسط منشطه</FormA>
+<FormA num="5">امصط منشطة</FormA>
+</mot>
+<mot num="333">
+<FormN>امسط منشط</FormN>
+<FormA num="1">amsit monachet</FormA>
+<FormA num="2">amsit monachit</FormA>
+<FormA num="3">amsit monachat</FormA>
+<FormA num="4">امصط منشط</FormA>
+</mot>
+<mot num="334">
+<FormN>امسط  مالمساطة</FormN>
+<FormA num="1">amsit melmesata</FormA>
+<FormA num="2">amsit milmesata</FormA>
+<FormA num="3">amsit malmesata</FormA>
+<FormA num="4">امسط مالمصاطة</FormA>
+<FormA num="5">امسط مالمساطه</FormA>
+</mot>
+<mot num="335">
+<FormN>انا نكره</FormN>
+<FormA num="1">ana nikerah</FormA>
+<FormA num="2">ana nakerah</FormA>
+<FormA num="3">ana nekerah</FormA>
+<FormA num="4">ana ni9erah</FormA>
+<FormA num="5">ana na9erah</FormA>
+<FormA num="6">ana ne9erah</FormA>
+</mot>
+<mot num="336">
+<FormN>اوف من</FormN>
+<FormA num="1">ouf min</FormA>
+<FormA num="2">ouf men</FormA>
+<FormA num="3">ouf man</FormA>
+</mot>
+<mot num="337">
+<FormN>اوه علي اوه</FormN>
+<FormA num="1">ouh 3liya ouh</FormA>
+<FormA num="2">ouh 3leya ouh</FormA>
+<FormA num="3">ouh 3laya ouh</FormA>
+</mot>
+<mot num="338">
+<FormN>ايبيعوا في لكلام</FormN>
+<FormA num="1">ibe3o fel klem</FormA>
+<FormA num="2">ibi3o fil klem</FormA>
+<FormA num="3">ibe3o fel 9lem</FormA>
+<FormA num="4">ibi3o fil 9lem</FormA>
+<FormA num="5">ايبيعو في لكلام</FormA>
+</mot>
+<mot num="339">
+<FormN>ايبيع في لكلام</FormN>
+<FormA num="1">ibe3 fel klem</FormA>
+<FormA num="2">ibi3 fil klem</FormA>
+<FormA num="3">ibe3 fel 9lem</FormA>
+<FormA num="4">ibi3 fil 9lem</FormA>
+</mot>
+<mot num="340">
+<FormN>بدون تعليق</FormN>
+<FormA num="1">bedone ta3lik</FormA>
+<FormA num="2">bidone ta3lik</FormA>
+<FormA num="3">bedone ta3li9</FormA>
+<FormA num="4">bidone ta3li9</FormA>
+</mot>
+<mot num="341">
+<FormN>برامج حقيرة</FormN>
+<FormA num="1">baramij hakira</FormA>
+<FormA num="2">baramej hakira</FormA>
+<FormA num="3">baramij ha9ira</FormA>
+<FormA num="4">baramej ha9ira</FormA>
+<FormA num="5">برامج حقيره</FormA>
+</mot>
+<mot num="342">
+<FormN>برشة مساطة</FormN>
+<FormA num="1">barcha mesata</FormA>
+<FormA num="2">barsha mesata</FormA>
+<FormA num="3">barcha masata</FormA>
+<FormA num="4">barsha masata</FormA>
+<FormA num="5">برشا مساطة</FormA>
+<FormA num="6">برشة مصاطة</FormA>
+<FormA num="7">برشة مساطه</FormA>
+</mot>
+<mot num="343">
+<FormN>برشة مبالغة</FormN>
+<FormA num="1">barcha mobalegha</FormA>
+<FormA num="2">barsha mobalegha</FormA>
+<FormA num="3">برشا مبالغة</FormA>
+<FormA num="4">برشة مبالغه</FormA>
+</mot>
+<mot num="344">
+<FormN>برشة نفاق</FormN>
+<FormA num="1">barcha nifek</FormA>
+<FormA num="2">barsha nifek</FormA>
+<FormA num="3">barcha nifak</FormA>
+<FormA num="4">barsha nifak</FormA>
+<FormA num="5">barcha nife9</FormA>
+<FormA num="6">barsha nife9</FormA>
+<FormA num="7">barcha nifa9</FormA>
+<FormA num="8">barsha nifa9</FormA>
+<FormA num="9">برشا نفاق</FormA>
+</mot>
+<mot num="345">
+<FormN>تجيب الردان</FormN>
+<FormA num="1">tjib elraden</FormA>
+<FormA num="2">tjeb elraden</FormA>
+<FormA num="3">tjib ilraden</FormA>
+<FormA num="4">tjeb elraden</FormA>
+<FormA num="5">تجيب ردان</FormA>
+<FormA num="6">tjeb raden</FormA>
+<FormA num="7">tjib raden</FormA>
+</mot>
+<mot num="346">
+<FormN>برنامجكم مايعجبنيش</FormN>
+<FormA num="1">baramijkom maye3jibnich</FormA>
+<FormA num="2">baramejkom maye3jibnich</FormA>
+<FormA num="3">baramijkom maye3jibnech</FormA>
+<FormA num="4">baramejkom maye3jibnech</FormA>
+</mot>
+<mot num="347">
+<FormN>برنامج الى الورا سر</FormN>
+<FormA num="1">barnamij ela wara sir</FormA>
+<FormA num="2">barnamij ila wara sir</FormA>
+<FormA num="3">barnamej ela wara ser</FormA>
+<FormA num="4">barnamej ila wara ser</FormA>
+</mot>
+<mot num="348">
+<FormN>برنامج تافه</FormN>
+<FormA num="1">barnamij tafeh</FormA>
+<FormA num="2">barnamij tafih</FormA>
+<FormA num="3">barnamej tafeh</FormA>
+<FormA num="4">barnamej tafih</FormA>
+</mot>
+<mot num="349">
+<FormN>برنامج تلفزيوني تافه</FormN>
+<FormA num="1">barnamij talvazi tafeh</FormA>
+<FormA num="2">barnamij talvazi tafih</FormA>
+<FormA num="3">barnamej talvazi tafeh</FormA>
+<FormA num="4">barnamej talvazi tafih</FormA>
+</mot>
+<mot num="350">
+<FormN>برنامج حقير</FormN>
+<FormA num="1">barnamij hakir</FormA>
+<FormA num="2">barnamij hakir</FormA>
+<FormA num="3">barnamej ha9ir</FormA>
+<FormA num="4">barnamej ha9ir</FormA>
+</mot>
+<mot num="351">
+<FormN>برنامج كيما الكاغط</FormN>
+<FormA num="1">barnamij kima elkaghit</FormA>
+<FormA num="2">barnamij kima elkaghit</FormA>
+<FormA num="3">barnamej kima ilkaghit</FormA>
+<FormA num="4">barnamej kima ilkaghit</FormA>
+<FormA num="6">barnamij 9ima el9aghit</FormA>
+<FormA num="7">barnamij 9ima el9aghit</FormA>
+<FormA num="8">barnamej 9ima il9aghit</FormA>
+<FormA num="9">barnamej 9ima il9aghit</FormA>
+</mot>
+<mot num="352">
+<FormN>برنامج ليس عالي</FormN>
+<FormA num="1">barnamij laysa 3ali</FormA>
+<FormA num="2">barnamij laysa 3ali</FormA>
+<FormA num="3">barnamej laisa 3ali</FormA>
+<FormA num="4">barnamej laisa 3ali</FormA>
+<FormA num="5">برنامج ليس عالى</FormA>
+</mot>
+<mot num="353">
+<FormN>برنامج ماشي ويمساط</FormN>
+<FormA num="1">barnamij yemchi wyamsat</FormA>
+<FormA num="2">barnamij yemchi wyamsat</FormA>
+<FormA num="3">barnamej yimchi wyamsat</FormA>
+<FormA num="4">barnamej yimchi wyamsat</FormA>
+<FormA num="5">برنامج ماشي ويمصاط</FormA>
+<FormA num="6">برنامج ماشى ويمساط</FormA>
+<FormA num="7">برنامج ماشى ويمصاط</FormA>
+</mot>
+<mot num="354">
+<FormN>برنامج مسود</FormN>
+<FormA num="1">barnamij meswed</FormA>
+<FormA num="2">barnamij meswed</FormA>
+<FormA num="3">barnamej meswad</FormA>
+<FormA num="4">barnamej meswad</FormA>
+</mot>
+<mot num="355">
+<FormN>برنامج ممل</FormN>
+<FormA num="1">barnamij momel</FormA>
+<FormA num="2">barnamij momel</FormA>
+<FormA num="3">barnamej momil</FormA>
+<FormA num="4">barnamej momil</FormA>
+</mot>
+<mot num="356">
+<FormN>برى روح لغة قديمة</FormN>
+<FormA num="1">bara rawih logha kdima</FormA>
+<FormA num="2">bara raweh logha kdema</FormA>
+<FormA num="3">bara rawih logha 9dima</FormA>
+<FormA num="4">bara raweh logha 9dema</FormA>
+<FormA num="5">برى روح لغه قديمه</FormA>
+</mot>
+<mot num="357">
+<FormN>بعث الفتنة و نشر الرذيلة</FormN>
+<FormA num="1">bara rawih logha kdima</FormA>
+<FormA num="2">bara raweh logha kdema</FormA>
+<FormA num="3">bara rawih logha 9dima</FormA>
+<FormA num="4">bara raweh logha 9dema</FormA>
+<FormA num="5">بعث الفتنه و نشر الرذيله</FormA>
+</mot>
+<mot num="358">
+<FormN>تافهة و حقيرة</FormN>
+<FormA num="1">tafeha we hakira</FormA>
+<FormA num="2">tafaha we hakira</FormA>
+<FormA num="3">tafeha we ha9ira</FormA>
+<FormA num="4">tafaha we ha9ira</FormA>
+<FormA num="5">تافهة و حقيره</FormA>
+</mot>
+<mot num="359">
+<FormN>تافهين مساكين</FormN>
+<FormA num="1">tafehin masakin</FormA>
+<FormA num="2">tafahin masakin</FormA>
+<FormA num="3">tafehin mesekin</FormA>
+<FormA num="4">tafahin mesekin</FormA>
+</mot>
+<mot num="360">
+<FormN>تبندير صافي</FormN>
+<FormA num="1">tabandir safi</FormA>
+<FormA num="2">tabendir safi</FormA>
+<FormA num="3">tbandir safi</FormA>
+<FormA num="4">tebendir safi</FormA>
+<FormA num="5">تبندير صافى</FormA>
+</mot>
+<mot num="361">
+<FormN>حلقة فاشلة</FormN>
+<FormA num="1">halka fachela</FormA>
+<FormA num="2">hal9a fachela</FormA>
+<FormA num="3">halka fachila</FormA>
+<FormA num="4">hal9a fachila</FormA>
+<FormA num="5">حلقه فاشله</FormA>
+</mot>
+<mot num="362">
+<FormN>حلقة كوجهك</FormN>
+<FormA num="1">halka kiwejhik</FormA>
+<FormA num="2">hal9a kiwejhik</FormA>
+<FormA num="3">halka kiwijhik</FormA>
+<FormA num="4">hal9a kiwijhik</FormA>
+</mot>
+<mot num="363">
+<FormN>حلقة ماسطة</FormN>
+<FormA num="1">halka masata</FormA>
+<FormA num="2">hal9a masata</FormA>
+<FormA num="3">halka maseta</FormA>
+<FormA num="4">hal9a maseta</FormA>
+<FormA num="5">حلقه ماسطه</FormA>
+<FormA num="6">حلقه ماصطة</FormA>
+</mot>
+<mot num="364">
+<FormN>حلقة مملة</FormN>
+<FormA num="1">halka momela</FormA>
+<FormA num="2">hal9a momela</FormA>
+<FormA num="3">halka momila</FormA>
+<FormA num="4">hal9a momila</FormA>
+<FormA num="5">حلقه ممله</FormA>
+</mot>
+<mot num="365">
+<FormN>حلقة هابطة</FormN>
+<FormA num="1">halka habeta</FormA>
+<FormA num="2">hal9a habeta</FormA>
+<FormA num="3">halka habita</FormA>
+<FormA num="4">hal9a habita</FormA>
+<FormA num="5">حلقه هابطه</FormA>
+</mot>
+<mot num="366">
+<FormN>مارقة كالعادة</FormN>
+<FormA num="1">merega kel3ada</FormA>
+<FormA num="2">meriga kil3ada</FormA>
+<FormA num="3">marega kel3ada</FormA>
+<FormA num="4">marega kil3ada</FormA>
+<FormA num="5">mariga kel3ada</FormA>
+<FormA num="6">mariga kil3ada</FormA>
+<FormA num="7">مارقه كالعاده</FormA>
+</mot>
+<mot num="367">
+<FormN>مارقين كلعادة</FormN>
+<FormA num="1">meregin kel3ada</FormA>
+<FormA num="2">merigin kil3ada</FormA>
+<FormA num="3">maregin kel3ada</FormA>
+<FormA num="4">maregin kil3ada</FormA>
+<FormA num="5">marigin kel3ada</FormA>
+<FormA num="6">marigin kil3ada</FormA>
+<FormA num="7">مارقين كالعاده</FormA>
+</mot>
+<mot num="368">
+<FormN>مارق كلعادة</FormN>
+<FormA num="1">mereg kel3ada</FormA>
+<FormA num="2">merig kil3ada</FormA>
+<FormA num="3">mareg kel3ada</FormA>
+<FormA num="4">mareg kil3ada</FormA>
+<FormA num="5">marig kel3ada</FormA>
+<FormA num="6">marig kil3ada</FormA>
+<FormA num="7">مارق كالعاده</FormA>
+</mot>
+<mot num="369">
+<FormN>ماسطة برشة</FormN>
+<FormA num="1">merega kel3ada</FormA>
+<FormA num="2">meriga kil3ada</FormA>
+<FormA num="3">marega kel3ada</FormA>
+<FormA num="4">marega kil3ada</FormA>
+<FormA num="5">mariga kel3ada</FormA>
+<FormA num="6">mariga kil3ada</FormA>
+<FormA num="7">ماسطه برشة</FormA>
+<FormA num="8">ماصطة برشة</FormA>
+<FormA num="9">ماسطة برشا</FormA>
+</mot>
+<mot num="370">
+<FormN>ماسطة لاسطة</FormN>
+<FormA num="1">masata barcha</FormA>
+<FormA num="2">masata barsha</FormA>
+<FormA num="3">maseta barcha</FormA>
+<FormA num="4">maseta barsha</FormA>
+<FormA num="5">ماسطه لاسطه</FormA>
+<FormA num="6">ماصطه لاصطه</FormA>
+<FormA num="7">ماصطة لاصطة</FormA>
+</mot>
+<mot num="371">
+<FormN>ماسطة لحقيقة</FormN>
+<FormA num="1">masata lahkika</FormA>
+<FormA num="2">masata lahkika</FormA>
+<FormA num="3">maseta lah9i9a</FormA>
+<FormA num="4">maseta lah9i9a</FormA>
+<FormA num="5">ماسطه لحقيقه</FormA>
+<FormA num="6">ماصطه لحقيقه</FormA>
+<FormA num="7">ماصطة لحقيقة</FormA>
+</mot>
+<mot num="372">
+<FormN>ماسطة ياسر</FormN>
+<FormA num="1">masata yaser</FormA>
+<FormA num="2">masata yaser</FormA>
+<FormA num="3">maseta yasir</FormA>
+<FormA num="4">maseta yasir</FormA>
+<FormA num="5">ماسطه ياسر</FormA>
+<FormA num="6">ماصطه ياسر</FormA>
+<FormA num="7">ماصطة ياسر</FormA>
+</mot>
+<mot num="373">
+<FormN>ماسطين برشة</FormN>
+<FormA num="1">masatin barcha</FormA>
+<FormA num="2">masatin barsha</FormA>
+<FormA num="3">masetin barcha</FormA>
+<FormA num="4">masetin barsha</FormA>
+<FormA num="5">ماسطين برشا</FormA>
+<FormA num="6">ماصطين برشة</FormA>
+<FormA num="7">ماصطين برشا</FormA>
+</mot>
+<mot num="374">
+<FormN>ماسطين لاسطين</FormN>
+<FormA num="1">masatin lastin</FormA>
+<FormA num="2">masatin lestin</FormA>
+<FormA num="3">masetin lastin</FormA>
+<FormA num="4">masetin lestin</FormA>
+<FormA num="5">ماصطين لاصطين</FormA>
+</mot>
+<mot num="375">
+<FormN>تراجع كبير</FormN>
+<FormA num="1">taraja3 kebir</FormA>
+<FormA num="2">tarojo3 kebir</FormA>
+<FormA num="3">taraja3 kabir</FormA>
+<FormA num="4">tarojo3 kabir</FormA>
+</mot>
+<mot num="376">
+<FormN>ماسطين لحقيقة</FormN>
+<FormA num="1">masatin lahkika</FormA>
+<FormA num="2">masatin lah9i9a</FormA>
+<FormA num="3">masetin lahkika</FormA>
+<FormA num="4">masetin lah9i9a</FormA>
+<FormA num="5">ماصطين لحقيقة</FormA>
+<FormA num="6">ماصطين لحقيقه</FormA>
+<FormA num="7">ماسطين لحقيقه</FormA>
+</mot>
+<mot num="377">
+<FormN>ماسطين ياسر</FormN>
+<FormA num="1">masatin yaser</FormA>
+<FormA num="2">masatin yasir</FormA>
+<FormA num="3">masetin yaser</FormA>
+<FormA num="4">masetin yasir</FormA>
+<FormA num="5">ماصطين ياسر</FormA>
+</mot>
+<mot num="378">
+<FormN>ماسط برشة</FormN>
+<FormA num="1">masat barcha</FormA>
+<FormA num="2">masat barsha</FormA>
+<FormA num="3">maset barcha</FormA>
+<FormA num="4">maset barsha</FormA>
+<FormA num="5">masit barcha</FormA>
+<FormA num="6">masit barsha</FormA>
+<FormA num="5">ماصط برشة</FormA>
+<FormA num="6">ماصط برشا</FormA>
+<FormA num="7">ماسط برشا</FormA>
+</mot>
+<mot num="379">
+<FormN>ماسط لاسط</FormN>
+<FormA num="1">masat lasit</FormA>
+<FormA num="2">masat laset</FormA>
+<FormA num="3">maset lasit</FormA>
+<FormA num="4">maset laset</FormA>
+<FormA num="5">masit lasit</FormA>
+<FormA num="6">masit laset</FormA>
+<FormA num="7">ماصط لاصط</FormA>
+</mot>
+<mot num="380">
+<FormN>ماسط لحقيقة</FormN>
+<FormA num="1">masat lahkika</FormA>
+<FormA num="2">masat lah9i9a</FormA>
+<FormA num="3">maset lahkika</FormA>
+<FormA num="4">maset lah9i9a</FormA>
+<FormA num="5">masit lahkika</FormA>
+<FormA num="6">masit lah9i9a</FormA>
+<FormA num="5">ماصط لحقيقة</FormA>
+<FormA num="6">ماصط لحقيقه</FormA>
+<FormA num="7">ماسط لحقيقه</FormA>
+</mot>
+<mot num="381">
+<FormN>ماسط ياسر</FormN>
+<FormA num="1">masat yaser</FormA>
+<FormA num="2">masat yasir</FormA>
+<FormA num="3">maset yaser</FormA>
+<FormA num="4">maset yasir</FormA>
+<FormA num="5">masit yaser</FormA>
+<FormA num="6">masit yasir</FormA>
+<FormA num="5">ماصط ياسر</FormA>
+</mot>
+<mot num="382">
+<FormN>ماعجبتونيش</FormN>
+<FormA num="1">ma3jibtonich</FormA>
+<FormA num="2">ma3jibtonish</FormA>
+<FormA num="3">ma3jibtounich</FormA>
+<FormA num="4">ma3jibtounish</FormA>
+</mot>
+<mot num="383">
+<FormN>ماعجبونيش</FormN>
+<FormA num="1">ma3jibonich</FormA>
+<FormA num="2">ma3jibonish</FormA>
+<FormA num="3">ma3jibounich</FormA>
+<FormA num="4">ma3jibounish</FormA>
+</mot>
+<mot num="384">
+<FormN>مايعجبنيش</FormN>
+<FormA num="1">maye3jibnich</FormA>
+<FormA num="2">maye3jibnish</FormA>
+<FormA num="3">maya3jibnich</FormA>
+<FormA num="4">maya3jibnish</FormA>
+</mot>
+<mot num="385">
+<FormN>مايعجبونيش</FormN>
+<FormA num="1">maye3jibonich</FormA>
+<FormA num="2">maye3jibounish</FormA>
+<FormA num="3">maya3jibonich</FormA>
+<FormA num="4">maya3jibounish</FormA>
+</mot>
+<mot num="386">
+<FormN>بلادة و مساطة</FormN>
+<FormA num="1">belada we mesata</FormA>
+<FormA num="2">beleda we masata</FormA>
+<FormA num="3">bileda we meseta</FormA>
+<FormA num="4">bileda we masata</FormA>
+<FormA num="5">بلادة و مصاطة</FormA>
+<FormA num="6">بلادة و مصاطة</FormA>
+<FormA num="7">بلاده و مساطة</FormA>
+</mot>
+<mot num="387">
+<FormN>بليدة برشة</FormN>
+<FormA num="1">belida barcha</FormA>
+<FormA num="2">belida barsha</FormA>
+<FormA num="3">bilida barcha</FormA>
+<FormA num="4">bilida barsha</FormA>
+<FormA num="5">بليدة برشا</FormA>
+<FormA num="6">بليده برشا</FormA>
+<FormA num="7">بليدة برشة</FormA>
+</mot>
+<mot num="388">
+<FormN>بليد برشة</FormN>
+<FormA num="1">belid barcha</FormA>
+<FormA num="2">belid barsha</FormA>
+<FormA num="3">bilid barcha</FormA>
+<FormA num="4">bilid barsha</FormA>
+<FormA num="5">بليد برشا</FormA>
+</mot>
+<mot num="389">
+<FormN>بنت البايد</FormN>
+<FormA num="1">belida barcha</FormA>
+<FormA num="2">belida barsha</FormA>
+<FormA num="3">bilida barcha</FormA>
+<FormA num="4">bilida barsha</FormA>
+</mot>
+<mot num="390">
+<FormN>تفوه علا هالشكال</FormN>
+<FormA num="1">tfouh 3la halachakal</FormA>
+<FormA num="2">tfoh 3la halachakal</FormA>
+<FormA num="3">tfouh ala halachekal</FormA>
+<FormA num="4">tfoh ala halachekal</FormA>
+<FormA num="5">tfouh 3la halacha9al</FormA>
+<FormA num="6">tfoh 3la halacha9al</FormA>
+<FormA num="7">tfouh ala halache9al</FormA>
+<FormA num="8">tfoh ala halachekal</FormA>
+</mot>
+<mot num="391">
+<FormN>تفوه عليكم</FormN>
+<FormA num="1">tfouh 3likom</FormA>
+<FormA num="2">tfoh 3likom</FormA>
+<FormA num="3">tfouh alikom</FormA>
+<FormA num="4">tfoh alikom</FormA>
+<FormA num="5">tfouh 3li9om</FormA>
+<FormA num="6">tfoh 3li9om</FormA>
+<FormA num="7">tfouh ali9om</FormA>
+<FormA num="8">tfoh ali9om</FormA>
+</mot>
+<mot num="392">
+<FormN>تفوه عليك</FormN>
+<FormA num="1">tfouh 3lik</FormA>
+<FormA num="2">tfoh 3lik</FormA>
+<FormA num="3">tfouh alik</FormA>
+<FormA num="4">tfoh alik</FormA>
+<FormA num="5">tfouh 3li9</FormA>
+<FormA num="6">tfoh 3li9</FormA>
+<FormA num="7">tfouh ali9</FormA>
+<FormA num="8">tfoh ali9</FormA>
+</mot>
+<mot num="393">
+<FormN>تفو عليه</FormN>
+<FormA num="1">tfouh 3lih</FormA>
+<FormA num="2">tfoh 3lih</FormA>
+<FormA num="3">tfouh alih</FormA>
+<FormA num="4">tfoh alih</FormA>
+</mot>
+<mot num="394">
+<FormN>تنبير اكهو</FormN>
+<FormA num="1">tanbir akhaw</FormA>
+<FormA num="2">tanbir a9haw</FormA>
+<FormA num="3">tenbir akhaw</FormA>
+<FormA num="4">tenbir a9haw</FormA>
+</mot>
+<mot num="395">
+<FormN>توى هذا كلام يتقال</FormN>
+<FormA num="1">twa hatha kelem yetkal</FormA>
+<FormA num="2">tawa hatha 9elem yet9al</FormA>
+<FormA num="3">tawa hatha kalem yitkal</FormA>
+<FormA num="4">tawa hatha 9alem yit9al</FormA>
+</mot>
+<mot num="396">
+<FormN>ثرثرة وميوعة</FormN>
+<FormA num="1">tharethera we moyo3a</FormA>
+<FormA num="2">tharethera we moyou3a</FormA>
+<FormA num="3">tharithira we moyo3a</FormA>
+<FormA num="4">tahrithira we moyou3a</FormA>
+<FormA num="5">ثرثره وميوعه</FormA>
+</mot>
+<mot num="397">
+<FormN>جايين ينشروا في صابونهم</FormN>
+<FormA num="1">jayin yinchero fe sabonhom</FormA>
+<FormA num="2">jayen yonchero fe sabonhom</FormA>
+<FormA num="3">jayen yenchero fe sabonhom</FormA>
+<FormA num="4">jayan yanchero fe sabonhom</FormA>
+</mot>
+<mot num="398">
+<FormN>جرذ افغاني داعشي</FormN>
+<FormA num="1">jerth afghani da3echi</FormA>
+<FormA num="2">jirth afghani da3echi</FormA>
+<FormA num="3">jarth afghani da3echi</FormA>
+<FormA num="4">jorth afghani da3echi</FormA>
+<FormA num="5">جرذ افغانى داعشى</FormA>
+</mot>
+<mot num="399">
+<FormN>جعبة في بلاد كثرت فيها الجعب</FormN>
+<FormA num="1">ja3ba fe beled kotheret feha elja3ab</FormA>
+<FormA num="2">je3ba fe beled kotheret feha ilja3ab</FormA>
+<FormA num="3">ja3ba fe beled 9otheret feha elja3ab</FormA>
+<FormA num="4">je3ba fe beled 9otheret feha ilja3ab</FormA>
+</mot>
+<mot num="400">
+<FormN>جيبوا رجال تتكلم</FormN>
+<FormA num="1">jebo rejel tetekalem</FormA>
+<FormA num="2">jibo rejel tetekalem</FormA>
+<FormA num="3">jebo rejel tete9alem</FormA>
+<FormA num="4">jibo rejel tete9alem</FormA>
+<FormA num="5">جيبو رجال تتكلم</FormA>
+</mot>
+<mot num="401">
+<FormN>جيب رجال تتكلم</FormN>
+<FormA num="1">jeb rejel tetekalem</FormA>
+<FormA num="2">jib rejel tetekalem</FormA>
+<FormA num="3">jeb rejel tete9alem</FormA>
+<FormA num="4">jib rejel tete9alem</FormA>
+</mot>
+<mot num="402">
+<FormN>حرام عليك</FormN>
+<FormA num="1">hram alikom</FormA>
+<FormA num="2">hram 3likom</FormA>
+<FormA num="3">harem alikom</FormA>
+<FormA num="4">harem 3likom</FormA>
+</mot>
+<mot num="403">
+<FormN>حشوات و كذب</FormN>
+<FormA num="1">hachawet we ketheb</FormA>
+<FormA num="2">hachawit we ketheb</FormA>
+<FormA num="3">hachawet we kethib</FormA>
+<FormA num="4">hachawit we kethib</FormA>
+<FormA num="5">hachawet we kithib</FormA>
+<FormA num="6">hachawit we kithib</FormA>
+</mot>
+<mot num="404">
+<FormN>حكايات ماتفيدنا بشي</FormN>
+<FormA num="1">hakayat matfedena bechay</FormA>
+<FormA num="2">hekayat matfedena bechay</FormA>
+<FormA num="3">hikayat matfedena bechay</FormA>
+<FormA num="4">حكايات ماتفيدنا بشى</FormA>
+</mot>
+<mot num="405">
+<FormN>حكاية فارغة</FormN>
+<FormA num="1">hakaya faregha</FormA>
+<FormA num="2">hekaya faregha</FormA>
+<FormA num="3">hikaya farega</FormA>
+<FormA num="4">hakaya farigha</FormA>
+<FormA num="5">hekaya farigha</FormA>
+<FormA num="6">hikaya fariga</FormA>
+<FormA num="7">حكايه فارغه</FormA>
+</mot>
+<mot num="406">
+<FormN>حلقاته فخار مكسر</FormN>
+<FormA num="1">halkato fo5ar mekasir</FormA>
+<FormA num="2">halkato fokhar mekasir</FormA>
+<FormA num="3">hal9ato fo5ar mekaser</FormA>
+<FormA num="4">hal9ato fokhar mekaser</FormA>
+</mot>
+<mot num="407">
+<FormN>حلقة بايسة وتعيسة</FormN>
+<FormA num="1">halka bayesa weta3isa</FormA>
+<FormA num="2">halka bayesa weta3isa</FormA>
+<FormA num="3">hal9a bayisa weta3isa</FormA>
+<FormA num="4">hal9a bayisa weta3isa</FormA>
+<FormA num="5">حلقه بايسه وتعيسه</FormA>
+</mot>
+<mot num="408">
+<FormN>حلقة جافة</FormN>
+<FormA num="1">halka jafa</FormA>
+<FormA num="2">halka jefa</FormA>
+<FormA num="3">hal9a jafa</FormA>
+<FormA num="4">hal9a jefa</FormA>
+<FormA num="5">حلقه جافه</FormA>
+</mot>
+<mot num="409">
+<FormN>حلقة عادية</FormN>
+<FormA num="1">halka 3adeya</FormA>
+<FormA num="2">halka 3adeya</FormA>
+<FormA num="3">hal9a 3adiya</FormA>
+<FormA num="4">hal9a 3adiya</FormA>
+<FormA num="5">حلقه عاديه</FormA>
+</mot>
+<mot num="410">
+<FormN>حلقة غير صافية وغير سعيدة</FormN>
+<FormA num="1">halka jafa</FormA>
+<FormA num="2">halka jefa</FormA>
+<FormA num="3">hal9a jafa</FormA>
+<FormA num="4">hal9a jefa</FormA>
+<FormA num="5">حلقه غير صافيه وغير سعيده</FormA>
+</mot>
+<mot num="416">
+<FormN>حلقه افرغ من الفراغ</FormN>
+<FormA num="1">halka afregh men elfaregh</FormA>
+<FormA num="2">halka afrigh min ilfaregh</FormA>
+<FormA num="3">hal9a afregh men elfaregh</FormA>
+<FormA num="4">hal9a afrigh min ilfaregh</FormA>
+</mot>
+<mot num="417">
+<FormN>حمام نسا</FormN>
+<FormA num="1">hamem nesa</FormA>
+<FormA num="2">hamim nesa</FormA>
+<FormA num="3">hamem nisa</FormA>
+<FormA num="4">hamim nisa</FormA>
+</mot>
+<mot num="418">
+<FormN>حمام نسي</FormN>
+<FormA num="1">hamem nesi</FormA>
+<FormA num="2">hamim nesi</FormA>
+<FormA num="3">hamem nisi</FormA>
+<FormA num="4">hamim nisi</FormA>
+</mot>
+<mot num="419">
+<FormN>خافوا ربي</FormN>
+<FormA num="1">khafo rabi</FormA>
+<FormA num="2">5afo rabi</FormA>
+<FormA num="3">khafou rabi</FormA>
+<FormA num="4">5afou rabi</FormA>
+<FormA num="5">خافو ربي</FormA>
+<FormA num="6">خافوا ربى</FormA>
+<FormA num="7">خافو ربى</FormA>
+</mot>
+<mot num="420">
+<FormN>خاف ربي</FormN>
+<FormA num="1">khafe rabi</FormA>
+<FormA num="2">5afe rabi</FormA>
+<FormA num="3">khaf rabi</FormA>
+<FormA num="4">5af rabi</FormA>
+<FormA num="5">خاف ربى</FormA>
+</mot>
+<mot num="421">
+<FormN>خايبا ياسر</FormN>
+<FormA num="1">khayeba yaser</FormA>
+<FormA num="2">5ayeba yeser</FormA>
+<FormA num="3">khayeba yesir</FormA>
+<FormA num="4">5ayebz yesir</FormA>
+</mot>
+<mot num="422">
+<FormN>خايبين ياسر</FormN>
+<FormA num="1">khayebin yaser</FormA>
+<FormA num="2">5ayebin yeser</FormA>
+<FormA num="3">khayebin yesir</FormA>
+<FormA num="4">5ayebin yesir</FormA>
+</mot>
+<mot num="423">
+<FormN>خايب ياسر</FormN>
+<FormA num="1">khayeb yaser</FormA>
+<FormA num="2">5ayeb yeser</FormA>
+<FormA num="3">khayeb yesir</FormA>
+<FormA num="4">5ayeb yesir</FormA>
+</mot>
+<mot num="424">
+<FormN>خرج على الموضوع للاسف</FormN>
+<FormA num="1">kherej 3la mawtho3 lilasef</FormA>
+<FormA num="2">5erej 3la mawtho3 lilasef</FormA>
+<FormA num="3">kharej ala mawtho3 lilasef</FormA>
+<FormA num="4">5arej ala mawtho3 lilasef</FormA>
+</mot>
+<mot num="425">
+<FormN>خريتوا فيه</FormN>
+<FormA num="1">khereto feh</FormA>
+<FormA num="2">5ereto feh</FormA>
+<FormA num="3">khareto fih</FormA>
+<FormA num="4">5areto fih</FormA>
+<FormA num="5">خريتو فيه</FormA>
+</mot>
+<mot num="426">
+<FormN>خريت فيه</FormN>
+<FormA num="1">kheret feh</FormA>
+<FormA num="2">5eret feh</FormA>
+<FormA num="3">kharit fih</FormA>
+<FormA num="4">5arit fih</FormA>
+</mot>
+<mot num="427">
+<FormN>دزان بيداق</FormN>
+<FormA num="1">dazen baydek</FormA>
+<FormA num="2">dazen bayde9</FormA>
+<FormA num="3">dazan baydek</FormA>
+<FormA num="4">dazan bayde9</FormA>
+</mot>
+<mot num="428">
+<FormN>راس بصل</FormN>
+<FormA num="1">rase bsal</FormA>
+<FormA num="2">rase bsel</FormA>
+<FormA num="3">rase basel</FormA>
+<FormA num="4">rase basil</FormA>
+</mot>
+<mot num="429">
+<FormN>راكم كرهتونا</FormN>
+<FormA num="1">rakom karahtona</FormA>
+<FormA num="2">ra9om karahtona</FormA>
+<FormA num="3">ra9om 9arahtona</FormA>
+<FormA num="4">rakom 9arahtona</FormA>
+</mot>
+<mot num="430">
+<FormN>راكم ماسطين</FormN>
+<FormA num="1">rakom mastin</FormA>
+<FormA num="2">ra9om mastin</FormA>
+<FormA num="3">راكم ماصطين</FormA>
+</mot>
+<mot num="431">
+<FormN>راك كثرت مالمساطة</FormN>
+<FormA num="1">rak katherto melmesata</FormA>
+<FormA num="2">ra9 katherto melmesata</FormA>
+<FormA num="3">ra9 9atherto melmesata</FormA>
+<FormA num="4">rak 9atherto melmesata</FormA>
+<FormA num="5">راك كثرت مالمصاطة</FormA>
+</mot>
+<mot num="432">
+<FormN>راك كرهتنا</FormN>
+<FormA num="1">rak karahtna</FormA>
+<FormA num="2">ra9 karahtna</FormA>
+<FormA num="3">ra9 9arahtna</FormA>
+<FormA num="4">rak 9arahtna</FormA>
+</mot>
+<mot num="433">
+<FormN>راك كعبة لا</FormN>
+<FormA num="1">rak ka3ba la</FormA>
+<FormA num="2">ra9 ka3ba la</FormA>
+<FormA num="3">ra9 9a3ba la</FormA>
+<FormA num="4">rak 9a3ba la</FormA>
+</mot>
+<mot num="434">
+<FormN>راك ماسطة</FormN>
+<FormA num="1">rak masata</FormA>
+<FormA num="2">ra9 masata</FormA>
+<FormA num="3">ra9 mesata</FormA>
+<FormA num="4">rak mesata</FormA>
+<FormA num="5">راك ماصطة</FormA>
+</mot>
+<mot num="435">
+<FormN>راك ماسط</FormN>
+<FormA num="1">rak masat</FormA>
+<FormA num="2">ra9 masat</FormA>
+<FormA num="3">ra9 maset</FormA>
+<FormA num="4">rak maset</FormA>
+<FormA num="5">ra9 masit</FormA>
+<FormA num="6">rak masit</FormA>
+<FormA num="7">راك ماصط</FormA>
+</mot>
+<mot num="436">
+<FormN>راهم مسطوها</FormN>
+<FormA num="1">rahom masetoha</FormA>
+<FormA num="2">rahom masitoha</FormA>
+<FormA num="3">rahom masetoha</FormA>
+<FormA num="4">راهم مصطوها</FormA>
+</mot>
+<mot num="437">
+<FormN>راهو مسطها</FormN>
+<FormA num="1">raho masetha</FormA>
+<FormA num="2">raho masitha</FormA>
+<FormA num="3">raho masetha</FormA>
+<FormA num="4">راهو مصطها</FormA>
+</mot>
+<mot num="438">
+<FormN>ربي يديه</FormN>
+<FormA num="1">rabi yedih</FormA>
+<FormA num="2">rabi yadih</FormA>
+<FormA num="3">rabi yidih</FormA>
+</mot>
+<mot num="439">
+<FormN>رفست فيها كيف ما حبيت</FormN>
+<FormA num="1">refeset feha kima habet</FormA>
+<FormA num="2">refisit fiha kima habit</FormA>
+<FormA num="3">rafeset feha kima habet</FormA>
+</mot>
+<mot num="440">
+<FormN>ركيكة جدا</FormN>
+<FormA num="1">rakika jedan</FormA>
+<FormA num="2">rakeka jedan</FormA>
+<FormA num="3">rakaka jedan</FormA>
+<FormA num="4">ركيكه جدا</FormA>
+</mot>
+<mot num="441">
+<FormN>ركيكين جدا</FormN>
+<FormA num="1">rakikin jedan</FormA>
+<FormA num="2">rakekin jedan</FormA>
+<FormA num="3">rakakin jedan</FormA>
+</mot>
+<mot num="442">
+<FormN>ركيك جدا</FormN>
+<FormA num="1">rakik jedan</FormA>
+<FormA num="2">rakek jedan</FormA>
+<FormA num="3">rakak jedan</FormA>
+</mot>
+<mot num="443">
+<FormN>زبالة كلعادة</FormN>
+<FormA num="1">zebela kil3ada</FormA>
+<FormA num="2">zibila kil3ada</FormA>
+<FormA num="3">zabala kil3ada</FormA>
+<FormA num="4">زباله كلعاده</FormA>
+</mot>
+<mot num="444">
+<FormN>زبل كلعادة</FormN>
+<FormA num="1">zebel kil3ada</FormA>
+<FormA num="2">zibil kil3ada</FormA>
+<FormA num="3">zabal kil3ada</FormA>
+<FormA num="4">زبل كلعاده</FormA>
+</mot>
+<mot num="445">
+<FormN>زبلة كلعادة</FormN>
+<FormA num="1">zebela kil3ada</FormA>
+<FormA num="2">zibila kil3ada</FormA>
+<FormA num="3">zabala kil3ada</FormA>
+<FormA num="4">زبله كلعاده</FormA>
+</mot>
+<mot num="446">
+<FormN>شكارة والبحر</FormN>
+<FormA num="1">chekara welbehar</FormA>
+<FormA num="2">chikara welbehar</FormA>
+<FormA num="3">chakara welbehar</FormA>
+<FormA num="4">شكاره والبحر</FormA>
+</mot>
+<mot num="447">
+<FormN>شي يعمل العار</FormN>
+<FormA num="1">chay ya3mel el3ar</FormA>
+<FormA num="2">chay ya3mil il3ar</FormA>
+<FormA num="3">chay ya3mal el3ar</FormA>
+</mot>
+<mot num="448">
+<FormN>صادمة برشة الحلقة</FormN>
+<FormA num="1">sadema barcha elhal9a</FormA>
+<FormA num="2">sadema barcha elhalka</FormA>
+<FormA num="3">sadema barsha elhal9a</FormA>
+<FormA num="4">sadema barsha elhalka</FormA>
+<FormA num="5">sadema barcha ilhal9a</FormA>
+<FormA num="6">sadema barcha ilhalka</FormA>
+<FormA num="7">sadema barsha ilhal9a</FormA>
+<FormA num="8">sadema barsha ilhalka</FormA>
+<FormA num="9">صادمة برشة حلقة</FormA>
+<FormA num="10">sadema barcha hal9a</FormA>
+<FormA num="11">sadema barcha halka</FormA>
+<FormA num="12">sadema barsha hal9a</FormA>
+<FormA num="13">sadema barsha halka</FormA>
+<FormA num="14">صادمة برشا حلقة</FormA>
+<FormA num="15">صادمه برشة حلقه</FormA>
+<FormA num="16">صادمه برشا حلقه</FormA>
+</mot>
+<mot num="449">
+<FormN>ضاربو في روحو</FormN>
+<FormA num="1">tharebo fe roho</FormA>
+<FormA num="2">tharibo fe roho</FormA>
+<FormA num="3">tharebo fi roho</FormA>
+<FormA num="4">tharibo fi roho</FormA>
+</mot>
+<mot num="450">
+<FormN>ضيوف من نفس الفصيلة</FormN>
+<FormA num="1">thoyof men nefse fasela</FormA>
+<FormA num="2">thoyof min nefse fasela</FormA>
+<FormA num="3">thoyof men nafse fasila</FormA>
+<FormA num="4">thoyof min nafse fasila</FormA>
+<FormA num="5">ضيوف من نفس الفصيله</FormA>
+</mot>
+<mot num="451">
+<FormN>عار كبير</FormN>
+<FormA num="1">3ar kbir</FormA>
+<FormA num="2">3ar kber</FormA>
+<FormA num="3">3ar kaber</FormA>
+<FormA num="4">3ar kabir</FormA>
+</mot>
+<mot num="452">
+<FormN>عركة متاع عزايز</FormN>
+<FormA num="1">3arka mete3 3zayez</FormA>
+<FormA num="2">3arka meti3 3zayez</FormA>
+<FormA num="3">3ar9a mete3 3zayez</FormA>
+<FormA num="4">3ar9a meti3 3zayez</FormA>
+</mot>
+<mot num="453">
+<FormN>عفاط كبير</FormN>
+<FormA num="1">3fat kbir</FormA>
+<FormA num="2">3fat kber</FormA>
+<FormA num="3">3fat kaber</FormA>
+<FormA num="4">3fat kabir</FormA>
+</mot>
+<mot num="454">
+<FormN>علاش جايبين الارهابي هذا</FormN>
+<FormA num="1">3lech jaybin elirhabi hatha</FormA>
+<FormA num="2">3lech jaybin ilirhabi hatha</FormA>
+<FormA num="3">3lech jaybin elirhabi hetha</FormA>
+<FormA num="4">3lech jaybin ilirhabi hetha</FormA>
+<FormA num="5">علاش جايبين الارهابى هذا</FormA>
+</mot>
+<mot num="455">
+<FormN>علاش جايب الارهابي هذا</FormN>
+<FormA num="1">3lech jayeb elirhabi hatha</FormA>
+<FormA num="2">3lech jayeb ilirhabi hatha</FormA>
+<FormA num="3">3lech jayib elirhabi hetha</FormA>
+<FormA num="4">3lech jayib ilirhabi hetha</FormA>
+<FormA num="5">علاش جايب الارهابى هذا</FormA>
+</mot>
+<mot num="456">
+<FormN>علاش يجيبوا فيه</FormN>
+<FormA num="1">3lech yejebo feh</FormA>
+<FormA num="2">3lech yejebo fih</FormA>
+<FormA num="3">3lech yejibo feh</FormA>
+<FormA num="4">3lech yejibo fih</FormA>
+<FormA num="5">علاش يجيبو الارهابي هذا</FormA>
+<FormA num="6">علاش يجيبو الارهابى هذا</FormA>
+<FormA num="7">علاش يجيبوا الارهابى هذا</FormA>
+</mot>
+<mot num="457">
+<FormN>علاه هل منظر جايبينو</FormN>
+<FormA num="1">3leh hal manther jaybeno</FormA>
+<FormA num="2">3leh hel manthir jaybino</FormA>
+<FormA num="3">3lah hal manther jaybeno</FormA>
+<FormA num="4">3lah hel manthir jaybino</FormA>
+</mot>
+<mot num="458">
+<FormN>على الجدار</FormN>
+<FormA num="1">3la jedar</FormA>
+<FormA num="2">3la jidar</FormA>
+<FormA num="3">ala jedar</FormA>
+<FormA num="4">ala jidar</FormA>
+</mot>
+<mot num="459">
+<FormN>على حيط</FormN>
+<FormA num="1">3la hit</FormA>
+<FormA num="2">3la het</FormA>
+<FormA num="3">ala hit</FormA>
+<FormA num="4">ala het</FormA>
+</mot>
+<mot num="460">
+<FormN>عملتوا الريحة</FormN>
+<FormA num="1">3malto elriha</FormA>
+<FormA num="2">3malto ilriha</FormA>
+<FormA num="3">amalto elriha</FormA>
+<FormA num="4">amalto ilriha</FormA>
+<FormA num="5">عملتو الريحة</FormA>
+</mot>
+<mot num="461">
+<FormN>عملتوا الفضايح</FormN>
+<FormA num="1">3malto elfethayeh</FormA>
+<FormA num="2">3malto ilfethayeh</FormA>
+<FormA num="3">amalto elfethayeh</FormA>
+<FormA num="4">amalto ilfethayeh</FormA>
+<FormA num="5">عملتو الفضايح</FormA>
+</mot>
+<mot num="462">
+<FormN>عملتوا الفضح</FormN>
+<FormA num="1">3malto elfetheh</FormA>
+<FormA num="2">3malto ilfetheh</FormA>
+<FormA num="3">amalto elfetheh</FormA>
+<FormA num="4">amalto ilfetheh</FormA>
+<FormA num="5">عملتو الفضح</FormA>
+</mot>
+<mot num="463">
+<FormN>عملت الريحة</FormN>
+<FormA num="1">3malt elriha</FormA>
+<FormA num="2">3malt ilriha</FormA>
+<FormA num="3">amalt elriha</FormA>
+<FormA num="4">amalt ilriha</FormA>
+</mot>
+<mot num="464">
+<FormN>عملت الفضايح</FormN>
+<FormA num="1">3malt elfethayeh</FormA>
+<FormA num="2">3malt ilfethayeh</FormA>
+<FormA num="3">amalt elfethayeh</FormA>
+<FormA num="4">amalt ilfethayeh</FormA>
+</mot>
+<mot num="465">
+<FormN>عملت الفضح</FormN>
+<FormA num="1">3malt elfetheh</FormA>
+<FormA num="2">3malt ilfetheh</FormA>
+<FormA num="3">amalt elfetheh</FormA>
+<FormA num="4">amalt ilfetheh</FormA>
+</mot>
+<mot num="466">
+<FormN>عملوا الريحة</FormN>
+<FormA num="1">3malo elriha</FormA>
+<FormA num="2">3malo ilriha</FormA>
+<FormA num="3">amalo elriha</FormA>
+<FormA num="4">amalo ilriha</FormA>
+<FormA num="5">عملو الريحة</FormA>
+</mot>
+<mot num="467">
+<FormN>بف حكايات فارغة</FormN>
+<FormA num="1">pif hekayat fergha</FormA>
+<FormA num="2">bif hekayat fergha</FormA>
+<FormA num="3">pif hekayet fergha</FormA>
+<FormA num="4">bif hekayet fergha</FormA>
+<FormA num="5">بف حكايات فارغه</FormA>
+</mot>
+<mot num="468">
+<FormN>عملوا الفضايح</FormN>
+<FormA num="1">3malo elfethayeh</FormA>
+<FormA num="2">3malo ilfethayeh</FormA>
+<FormA num="3">amalo elfethayeh</FormA>
+<FormA num="4">amalo ilfethayeh</FormA>
+<FormA num="5">عملو الفضايح</FormA>
+</mot>
+<mot num="469">
+<FormN>عملوا الفضح</FormN>
+<FormA num="1">3malo elfetheh</FormA>
+<FormA num="2">3malo ilfetheh</FormA>
+<FormA num="3">amalo elfetheh</FormA>
+<FormA num="4">amalo ilfetheh</FormA>
+<FormA num="5">عملو الفضح</FormA>
+</mot>
+<mot num="470">
+<FormN>عمل الريحة</FormN>
+<FormA num="1">3mal elriha</FormA>
+<FormA num="2">3mal ilriha</FormA>
+<FormA num="3">amal elriha</FormA>
+<FormA num="4">amal ilriha</FormA>
+</mot>
+<mot num="471">
+<FormN>عمل الفضايح</FormN>
+<FormA num="1">3mal elfethayeh</FormA>
+<FormA num="2">3mal ilfethayeh</FormA>
+<FormA num="3">amal elfethayeh</FormA>
+<FormA num="4">amal ilfethayeh</FormA>
+</mot>
+<mot num="472">
+<FormN>عمل الفضح</FormN>
+<FormA num="1">3mal elfetheh</FormA>
+<FormA num="2">3mal ilfetheh</FormA>
+<FormA num="3">amal elfetheh</FormA>
+<FormA num="4">amal ilfetheh</FormA>
+</mot>
+<mot num="473">
+<FormN>عيب عليكم</FormN>
+<FormA num="1">3ib 3likom</FormA>
+<FormA num="2">3ib alikom</FormA>
+<FormA num="3">3eb 3likom</FormA>
+<FormA num="4">3eb alikom</FormA>
+</mot>
+<mot num="474">
+<FormN>فبركة اعلامية</FormN>
+<FormA num="1">fabraka i3lamiya</FormA>
+<FormA num="2">fabraka e3lamiya</FormA>
+<FormA num="3">fabra9a i3lamiya</FormA>
+<FormA num="4">fabra9a e3lamiya</FormA>
+<FormA num="5">فبركه اعلاميه</FormA>
+</mot>
+<mot num="475">
+<FormN>فيه كثير من القذف والشتم والنميمة</FormN>
+<FormA num="1">3malo elfetheh</FormA>
+<FormA num="2">3malo ilfetheh</FormA>
+<FormA num="3">amalo elfetheh</FormA>
+<FormA num="4">amalo ilfetheh</FormA>
+<FormA num="5">فيه كثير من القذف والشتم والنميمه</FormA>
+</mot>
+<mot num="476">
+<FormN>قداش تضحكني</FormN>
+<FormA num="1">kadech tethahekni</FormA>
+<FormA num="2">9adech tethahekni</FormA>
+<FormA num="3">kadech tethahakni</FormA>
+<FormA num="4">9adech tethahakni</FormA>
+<FormA num="5">قداش تضحكنى</FormA>
+</mot>
+<mot num="477">
+<FormN>قداش تضحكوني</FormN>
+<FormA num="1">kadech tethahekoni</FormA>
+<FormA num="2">9adech tethahekoni</FormA>
+<FormA num="3">kadech tethahakoni</FormA>
+<FormA num="4">9adech tethahakoni</FormA>
+<FormA num="5">قداش تضحكونى</FormA>
+</mot>
+<mot num="478">
+<FormN>قعدوا حصة كاملة يستفزوا فيه</FormN>
+<FormA num="1">ka3do hesa kamela yestefezo feh</FormA>
+<FormA num="2">9a3do hesa 9amela yestefezo feh</FormA>
+<FormA num="3">ka3do hesa kamela yestefezo fih</FormA>
+<FormA num="4">9a3do hesa 9amela yestefezo fih</FormA>
+<FormA num="5">قعدو حصة كاملة يستفزو فيه</FormA>
+</mot>
+<mot num="479">
+<FormN>قعد حصة كاملة يستفز فيه</FormN>
+<FormA num="1">ka3ad hesa kamela yestefez feh</FormA>
+<FormA num="2">9a3ad hesa 9amela yestefez feh</FormA>
+<FormA num="3">ka3ad hesa kamela yestefez fih</FormA>
+<FormA num="4">9a3ad hesa 9amela yestefez fih</FormA>
+</mot>
+<mot num="480">
+<FormN>قعر ماجا شي</FormN>
+<FormA num="1">go3er maja chay</FormA>
+<FormA num="2">go3ir maja chay</FormA>
+<FormA num="3">go3er maja shay</FormA>
+<FormA num="4">go3ir maja shay</FormA>
+<FormA num="5">قعر ماجا شى</FormA>
+</mot>
+<mot num="481">
+<FormN>قلة حيا</FormN>
+<FormA num="1">kelet heya</FormA>
+<FormA num="2">kilit hiya</FormA>
+<FormA num="3">9elet heya</FormA>
+<FormA num="4">9ilit hiya</FormA>
+</mot>
+<mot num="482">
+<FormN>قلة حيا و قلة تربية</FormN>
+<FormA num="1">kelet heya we kelet torbeya</FormA>
+<FormA num="2">kilit hiya we kilit torbiya</FormA>
+<FormA num="3">9elet heya we kelet torbeya</FormA>
+<FormA num="4">9ilit hiya we kilit torbiya</FormA>
+</mot>
+<mot num="483">
+<FormN>قناة الحمار</FormN>
+<FormA num="1">kanat elhimar</FormA>
+<FormA num="2">kanet elhimar</FormA>
+<FormA num="3">9anet elhimar</FormA>
+<FormA num="4">9anat elhimar</FormA>
+<FormA num="5">kanat ilhimar</FormA>
+<FormA num="6">kanet ilhimar</FormA>
+<FormA num="7">9anet ilhimar</FormA>
+<FormA num="8">9anat ilhimar</FormA>
+</mot>
+<mot num="484">
+<FormN>قناة الدعارة</FormN>
+<FormA num="1">kanat elda3ara</FormA>
+<FormA num="2">kanet elda3ara</FormA>
+<FormA num="3">9anet elda3ara</FormA>
+<FormA num="4">9anat elda3ara</FormA>
+<FormA num="5">kanat ilda3ara</FormA>
+<FormA num="6">kanet ilda3ara</FormA>
+<FormA num="7">9anet ilda3ara</FormA>
+<FormA num="8">9anat ilda3ara</FormA>
+</mot>
+<mot num="485">
+<FormN>قناة الزبالة</FormN>
+<FormA num="1">kanat elzebala</FormA>
+<FormA num="2">kanet elzebala</FormA>
+<FormA num="3">9anet elzebala</FormA>
+<FormA num="4">9anat elzebala</FormA>
+<FormA num="5">kanat ilzebala</FormA>
+<FormA num="6">kanet ilzebala</FormA>
+<FormA num="7">9anet ilzebala</FormA>
+<FormA num="8">9anat ilzebala</FormA>
+</mot>
+<mot num="486">
+<FormN>قناة العار</FormN>
+<FormA num="1">kanat el3ar</FormA>
+<FormA num="2">kanet el3ar</FormA>
+<FormA num="3">9anet el3ar</FormA>
+<FormA num="4">9anat el3ar</FormA>
+<FormA num="5">kanat il3ar</FormA>
+<FormA num="6">kanet il3ar</FormA>
+<FormA num="7">9anet il3ar</FormA>
+<FormA num="8">9anat il3ar</FormA>
+</mot>
+<mot num="487">
+<FormN>قناة الماخور</FormN>
+<FormA num="1">kanat elma5or</FormA>
+<FormA num="2">kanet elma5or</FormA>
+<FormA num="3">9anet elma5or</FormA>
+<FormA num="4">9anat elma5or</FormA>
+<FormA num="5">kanat ilma5or</FormA>
+<FormA num="6">kanet ilma5or</FormA>
+<FormA num="7">9anet ilma5or</FormA>
+<FormA num="8">9anat ilma5or</FormA>
+</mot>
+<mot num="488">
+<FormN>قناة الوسخ</FormN>
+<FormA num="1">kanat elwase5</FormA>
+<FormA num="2">kanet elwase5</FormA>
+<FormA num="3">9anet elwase5</FormA>
+<FormA num="4">9anat elwase5</FormA>
+<FormA num="5">kanat ilwase5</FormA>
+<FormA num="6">kanet ilwase5</FormA>
+<FormA num="7">9anet ilwase5</FormA>
+<FormA num="8">9anat ilwase5</FormA>
+</mot>
+<mot num="489">
+<FormN>قناة دعارة</FormN>
+<FormA num="1">kanat da3ara</FormA>
+<FormA num="2">kanet da3ara</FormA>
+<FormA num="3">9anet da3ara</FormA>
+<FormA num="4">9anat da3ara</FormA>
+</mot>
+<mot num="490">
+<FormN>قناة عار و دعارة</FormN>
+<FormA num="1">kanat 3ar we da3ara</FormA>
+<FormA num="2">kanet 3ar we da3ara</FormA>
+<FormA num="3">9anet 3ar we da3ara</FormA>
+<FormA num="4">9anat 3ar we da3ara</FormA>
+</mot>
+<mot num="491">
+<FormN>قناة فاشلة</FormN>
+<FormA num="1">kanat fachela</FormA>
+<FormA num="2">kanet fachela</FormA>
+<FormA num="3">9anet fachela</FormA>
+<FormA num="4">9anat fachela</FormA>
+</mot>
+<mot num="492">
+<FormN>قناة الطحين</FormN>
+<FormA num="1">kanat eltehin</FormA>
+<FormA num="2">kanet eltehin</FormA>
+<FormA num="3">9anet eltehin</FormA>
+<FormA num="4">9anat eltehin</FormA>
+<FormA num="5">kanat iltehin</FormA>
+<FormA num="6">kanet iltehin</FormA>
+<FormA num="7">9anet iltehin</FormA>
+<FormA num="8">9anat iltehin</FormA>
+</mot>
+<mot num="493">
+<FormN>كارثة اعلامية</FormN>
+<FormA num="1">kharetha i3lameya</FormA>
+<FormA num="2">kharetha e3lameya</FormA>
+<FormA num="3">9aretha i3lameya</FormA>
+<FormA num="4">9aretha e3lameya</FormA>
+</mot>
+<mot num="494">
+<FormN>كان لكوبي</FormN>
+<FormA num="1">kan kobi</FormA>
+<FormA num="2">kan koubi</FormA>
+<FormA num="3">9an 9obi</FormA>
+<FormA num="4">9an 9oubi</FormA>
+</mot>
+<mot num="495">
+<FormN>كان مشى داوي روحه خير له</FormN>
+<FormA num="1">kan mecha dawa roho 5irleh</FormA>
+<FormA num="2">kan micha dawa roho 5erloh</FormA>
+<FormA num="3">9an mecha dawa roho 5irleh</FormA>
+<FormA num="4">9an micha dawa roho 5erloh</FormA>
+</mot>
+<mot num="496">
+<FormN>كذاب كبير</FormN>
+<FormA num="1">katheb kebir</FormA>
+<FormA num="2">katheb kabir</FormA>
+<FormA num="3">9atheb kebir</FormA>
+<FormA num="4">9atheb kabir</FormA>
+</mot>
+<mot num="497">
+<FormN>كذب وتضليل</FormN>
+<FormA num="1">ketheb we tathelil</FormA>
+<FormA num="2">kitheb we tathelil</FormA>
+<FormA num="3">9etheb we tathelil</FormA>
+<FormA num="4">9itheb we tathelil</FormA>
+</mot>
+<mot num="498">
+<FormN>كعور واعطى للاعور</FormN>
+<FormA num="1">ka3wer we a3ti lela3wer</FormA>
+<FormA num="2">ka3wir we a3ti lila3wir</FormA>
+<FormA num="3">9a3wer we a3ti lela3wer</FormA>
+<FormA num="4">9a3wir we a3ti lila3wir</FormA>
+</mot>
+<mot num="499">
+<FormN>كلامو معقول برشة</FormN>
+<FormA num="1">klem ma3koul barcha</FormA>
+<FormA num="2">klem ma3koul barsha</FormA>
+<FormA num="3">9lem ma3koul barcha</FormA>
+<FormA num="4">9lem ma3koul barsha</FormA>
+<FormA num="5">كلامو معقول برشا</FormA>
+</mot>
+<mot num="500">
+<FormN>كلاب سوق</FormN>
+<FormA num="1">kleb souk</FormA>
+<FormA num="2">klab souk</FormA>
+<FormA num="3">9leb sou9</FormA>
+<FormA num="4">9lab sou9</FormA>
+</mot>
+<mot num="501">
+<FormN>كعبة لا</FormN>
+<FormA num="1">ka3ba la</FormA>
+<FormA num="2">ka3ba le</FormA>
+<FormA num="3">9a3ba la</FormA>
+<FormA num="4">9a3ba le</FormA>
+</mot>
+<mot num="502">
+<FormN>كلب و بيوع</FormN>
+<FormA num="1">kaleb we bayo3</FormA>
+<FormA num="2">kalib we bayo3</FormA>
+<FormA num="3">kaleb we bayou3</FormA>
+<FormA num="4">kalib we bayou3</FormA>
+</mot>
+<mot num="503">
+<FormN>كمشة خماج</FormN>
+<FormA num="1">kamcha khomej</FormA>
+<FormA num="2">kamcha 5omej</FormA>
+<FormA num="3">kamcha khomaj</FormA>
+<FormA num="4">kamcha 5omaj</FormA>
+</mot>
+<mot num="504">
+<FormN>كمشة همال</FormN>
+<FormA num="1">kamcha homel</FormA>
+<FormA num="2">kamcha homil</FormA>
+<FormA num="3">kamcha homal</FormA>
+<FormA num="4">kamcha hemel</FormA>
+</mot>
+<mot num="505">
+<FormN>كمونك سوس</FormN>
+<FormA num="1">kamonik sawes</FormA>
+<FormA num="2">kamonik sawis</FormA>
+<FormA num="3">komonik sawas</FormA>
+</mot>
+<mot num="506">
+<FormN>كوارث اعلامية</FormN>
+<FormA num="1">kawereth i3lemeya</FormA>
+<FormA num="2">kawereth e3lemeya</FormA>
+<FormA num="3">kawerith i3lemiya</FormA>
+<FormA num="4">kawerith e3lemiya</FormA>
+</mot>
+<mot num="507">
+<FormN>كوراث و هموم</FormN>
+<FormA num="1">kawereth we homom</FormA>
+<FormA num="2">kawereth we homoum</FormA>
+<FormA num="3">kawerith we homom</FormA>
+<FormA num="4">kawerith we homoum</FormA>
+</mot>
+<mot num="508">
+<FormN>كيف وجهك</FormN>
+<FormA num="1">kif wejhik</FormA>
+<FormA num="2">kef wejhek</FormA>
+<FormA num="3">kif wejhek</FormA>
+<FormA num="4">kef wejhik</FormA>
+</mot>
+<mot num="509">
+<FormN>كي وجهم</FormN>
+<FormA num="1">ki wejhom</FormA>
+<FormA num="2">ke wejhom</FormA>
+<FormA num="3">ki wejhim</FormA>
+<FormA num="4">ke wejhim</FormA>
+</mot>
+<mot num="510">
+<FormN>كي وجوهكم</FormN>
+<FormA num="1">ki wejohkom</FormA>
+<FormA num="2">ke wejohkom</FormA>
+<FormA num="3">ki wejehkom</FormA>
+<FormA num="4">ke wejehkom</FormA>
+</mot>
+<mot num="511">
+<FormN>لا تعجبني</FormN>
+<FormA num="1">la to3jebni</FormA>
+<FormA num="2">le to3jebni</FormA>
+<FormA num="3">la to3jibni</FormA>
+<FormA num="4">le to3jibni</FormA>
+<FormA num="5">لا تعجبنى</FormA>
+</mot>
+<mot num="512">
+<FormN>لا تعجبوني</FormN>
+<FormA num="1">la to3jeboni</FormA>
+<FormA num="2">le to3jeboni</FormA>
+<FormA num="3">la to3joboni</FormA>
+<FormA num="4">le to3joboni</FormA>
+<FormA num="5">لا تعجبونى</FormA>
+</mot>
+<mot num="513">
+<FormN>لا علاقة</FormN>
+<FormA num="1">la 3laka</FormA>
+<FormA num="2">le 3laka</FormA>
+<FormA num="3">la 3leka</FormA>
+<FormA num="4">le 3leka</FormA>
+</mot>
+<mot num="514">
+<FormN>لا يتهضم</FormN>
+<FormA num="1">la yetehtham</FormA>
+<FormA num="2">le yetehtham</FormA>
+<FormA num="3">la yetehthem</FormA>
+<FormA num="4">le yetehthem</FormA>
+</mot>
+<mot num="515">
+<FormN>لا يعجبني</FormN>
+<FormA num="1">la yo3jebni</FormA>
+<FormA num="2">le yo3jebni</FormA>
+<FormA num="3">la yo3jibni</FormA>
+<FormA num="4">le yo3jibni</FormA>
+<FormA num="5">لا يعجبنى</FormA>
+</mot>
+<mot num="516">
+<FormN>لا يعجبوني</FormN>
+<FormA num="1">la yo3jeboni</FormA>
+<FormA num="2">le yo3jeboni</FormA>
+<FormA num="3">la yo3joboni</FormA>
+<FormA num="4">le yo3joboni</FormA>
+<FormA num="5">لا يعجبونى</FormA>
+</mot>
+<mot num="517">
+<FormN>لحاس و ماسط</FormN>
+<FormA num="1">lahase we maset</FormA>
+<FormA num="2">lahase we masit</FormA>
+<FormA num="3">lahase we masat</FormA>
+<FormA num="4">lahase wemasit</FormA>
+<FormA num="5">lahase wemaset</FormA>
+<FormA num="6">lahase wemasat</FormA>
+<FormA num="7">لحاس و ماصط</FormA>
+</mot>
+<mot num="518">
+<FormN>لغتكم العربيه تندب</FormN>
+<FormA num="1">loghatkom el3arabeya tenedeb</FormA>
+<FormA num="2">loghatkom il3arabeya tenedib</FormA>
+<FormA num="3">loghatkom al3arabeya tenedab</FormA>
+</mot>
+<mot num="519">
+<FormN>لم اعد اشاهدها</FormN>
+<FormA num="1">lam a3ed echahidha</FormA>
+<FormA num="2">lem a3ed echahidha</FormA>
+<FormA num="3">lam a3od echahidha</FormA>
+</mot>
+<mot num="520">
+<FormN>لم نعد نشاهدها</FormN>
+<FormA num="1">lam na3ed nechahidha</FormA>
+<FormA num="2">lem na3ed nechahidha</FormA>
+<FormA num="3">lam na3od nechahidha</FormA>
+</mot>
+<mot num="521">
+<FormN>لن تنجحوا</FormN>
+<FormA num="1">lan tanjaho</FormA>
+<FormA num="2">len tanjaho</FormA>
+<FormA num="3">lan tanjahou</FormA>
+<FormA num="4">len tanjahou</FormA>
+<FormA num="5">لن تنجحو</FormA>
+</mot>
+<mot num="522">
+<FormN>لن تنجح</FormN>
+<FormA num="1">lan tanjah</FormA>
+<FormA num="2">len tanjah</FormA>
+<FormA num="3">lan tanjeh</FormA>
+<FormA num="4">len tanjeh</FormA>
+</mot>
+<mot num="523">
+<FormN>ماجات شي</FormN>
+<FormA num="1">majet chay</FormA>
+<FormA num="2">majat chay</FormA>
+<FormA num="3">majet shay</FormA>
+<FormA num="4">majat shay</FormA>
+<FormA num="5">ماجات شى</FormA>
+</mot>
+<mot num="524">
+<FormN>ترقصون على احزان و مصايب الناس</FormN>
+<FormA num="1">tarkoson 3la ahzen we masayeb elnese</FormA>
+<FormA num="2">tarkoson ala ahzen we masayeb elnese</FormA>
+<FormA num="3">tarkoson 3la ahzan we masayib ilnese</FormA>
+<FormA num="4">tarkoson ala ahzan we masayib ilnese</FormA>
+</mot>
+<mot num="525">
+<FormN>ترقص على احزان و مصايب الناس</FormN>
+<FormA num="1">tarkose 3la ahzen we masayeb elnese</FormA>
+<FormA num="2">tarkose ala ahzen we masayeb elnese</FormA>
+<FormA num="3">tarkose 3la ahzan we masayib ilnese</FormA>
+<FormA num="4">tarkose ala ahzan we masayib ilnese</FormA>
+</mot>
+<mot num="526">
+<FormN>ترهات وكلام فارغ</FormN>
+<FormA num="1">torahat we kelem faregh</FormA>
+<FormA num="2">torahat we kalam faregh</FormA>
+<FormA num="3">torahet we kelem farigh</FormA>
+<FormA num="4">torahet we kalam farigh</FormA>
+</mot>
+<mot num="527">
+<FormN>تزيدو على الطين بالا</FormN>
+<FormA num="1">tezedo 3la tine bala</FormA>
+<FormA num="2">tezedo ala tine bala</FormA>
+<FormA num="3">tezido 3la tine bela</FormA>
+<FormA num="4">tezido ala tine bela</FormA>
+<FormA num="5">تزيدوا على الطين بالا</FormA>
+</mot>
+<mot num="528">
+<FormN>تزيد على الطين بالا</FormN>
+<FormA num="1">tezed 3la tine bala</FormA>
+<FormA num="2">tezed ala tine bala</FormA>
+<FormA num="3">tezid 3la tine bela</FormA>
+<FormA num="4">tezid ala tine bela</FormA>
+</mot>
+<mot num="529">
+<FormN>تعملوا العار</FormN>
+<FormA num="1">ta3melo el3ar</FormA>
+<FormA num="2">ta3melo il3ar</FormA>
+<FormA num="3">ta3milo el3ar</FormA>
+<FormA num="4">ta3milo il3ar</FormA>
+<FormA num="5">تعملو العار</FormA>
+</mot>
+<mot num="530">
+<FormN>تعمل العار</FormN>
+<FormA num="1">ta3mel el3ar</FormA>
+<FormA num="2">ta3mel il3ar</FormA>
+<FormA num="3">ta3mil el3ar</FormA>
+<FormA num="4">ta3mil il3ar</FormA>
+</mot>
+<mot num="531">
+<FormN>مايستحقش تعطفوا هذاك الكل</FormN>
+<FormA num="1">ma yesthakich ta3tfo hatheka kol</FormA>
+<FormA num="2">ma yisthakich ta3tfo hathika kol</FormA>
+<FormA num="3">ma yesthakich ta3tfou hatheka kol</FormA>
+<FormA num="4">ma yisthakich ta3tfou hathika kol</FormA>
+<FormA num="5">مايستحقش تعطفو هذاك الكل</FormA>
+</mot>
+<mot num="532">
+<FormN>مايستحقش تعطف هذاك الكل</FormN>
+<FormA num="1">ma yesthakich ta3tef hatheka kol</FormA>
+<FormA num="2">ma yisthakich ta3tef hathika kol</FormA>
+<FormA num="3">ma yesthakich ta3tif hatheka kol</FormA>
+<FormA num="4">ma yisthakich ta3tif hathika kol</FormA>
+</mot>
+<mot num="533">
+<FormN>ما تضحكش جملة</FormN>
+<FormA num="1">ma tethahekch jomela</FormA>
+<FormA num="2">ma tithahikch jomila</FormA>
+<FormA num="3">ma tethahekch jomila</FormA>
+<FormA num="4">ma tithahikch jomela</FormA>
+</mot>
+<mot num="534">
+<FormN>ما تضحكنيش</FormN>
+<FormA num="1">ma tethaheknech</FormA>
+<FormA num="2">ma tithahiknich</FormA>
+<FormA num="3">ma tethaheknich</FormA>
+<FormA num="4">ma tithahiknech</FormA>
+</mot>
+<mot num="535">
+<FormN>ما تضحكوش جملة</FormN>
+<FormA num="1">ma tethahekoch jomela</FormA>
+<FormA num="2">ma tithahikoch jomila</FormA>
+<FormA num="3">ma tethahekoch jomila</FormA>
+<FormA num="4">ma tithahikoch jomela</FormA>
+</mot>
+<mot num="536">
+<FormN>ما تضحكونيش</FormN>
+<FormA num="1">ma tethahekonech</FormA>
+<FormA num="2">ma tithahikonich</FormA>
+<FormA num="3">ma tethahekonich</FormA>
+<FormA num="4">ma tithahikonech</FormA>
+</mot>
+<mot num="537">
+<FormN>ما تفرجتش</FormN>
+<FormA num="1">ma tefarejtech</FormA>
+<FormA num="2">ma tefarijtich</FormA>
+<FormA num="3">ma tefarejtesh</FormA>
+<FormA num="4">ma tefarijtish</FormA>
+</mot>
+<mot num="538">
+<FormN>ما تفرجش</FormN>
+<FormA num="1">ma tefarejech</FormA>
+<FormA num="2">ma tefarijich</FormA>
+<FormA num="3">ma tefarejesh</FormA>
+<FormA num="4">ma tefarijish</FormA>
+</mot>
+<mot num="539">
+<FormN>ما تفرجناش</FormN>
+<FormA num="1">ma tefarejnech</FormA>
+<FormA num="2">ma tefarijnach</FormA>
+<FormA num="3">ma tefarejnesh</FormA>
+<FormA num="4">ma tefarijnash</FormA>
+</mot>
+<mot num="540">
+<FormN>ما تفرجوش</FormN>
+<FormA num="1">ma tefarejoch</FormA>
+<FormA num="2">ma tefarijoch</FormA>
+<FormA num="3">ma tefarejosh</FormA>
+<FormA num="4">ma tefarijosh</FormA>
+</mot>
+<mot num="541">
+<FormN>مخالف للاخلاق الحميدة</FormN>
+<FormA num="1">mo5alif lila5lek elhamida</FormA>
+<FormA num="2">mokhalif lilakhlek elhamida</FormA>
+<FormA num="3">mo5alef lela5lek elhamida</FormA>
+<FormA num="4">mokhalef lelakhlek elhamida</FormA>
+</mot>
+<mot num="542">
+<FormN>ما عادش تجيبوه</FormN>
+<FormA num="1">ma3adech tejiboh</FormA>
+<FormA num="2">ma3adich tejeboh</FormA>
+<FormA num="3">ma3adech tejibouh</FormA>
+<FormA num="4">ma3adich tejebouh</FormA>
+</mot>
+<mot num="543">
+<FormN>ما عادش نتفرجوا</FormN>
+<FormA num="1">ma3adech netfarjo</FormA>
+<FormA num="2">ma3adich nitfarjo</FormA>
+<FormA num="3">ma3adech netfarjo</FormA>
+<FormA num="4">ma3adich nitfarjo</FormA>
+</mot>
+<mot num="544">
+<FormN>ما عادش نتفرجوا فيه</FormN>
+<FormA num="1">ma3adech netfarjo feh</FormA>
+<FormA num="2">ma3adich nitfarjo fih</FormA>
+<FormA num="3">ma3adech netfarjo feh</FormA>
+<FormA num="4">ma3adich nitfarjo fih</FormA>
+</mot>
+<mot num="545">
+<FormN>ما عادش نتفرج</FormN>
+<FormA num="1">ma3adech netfarej</FormA>
+<FormA num="2">ma3adich nitfarij</FormA>
+<FormA num="3">ma3adech netfarej</FormA>
+<FormA num="4">ma3adich nitfarij</FormA>
+</mot>
+<mot num="546">
+<FormN>ما عادش نتفرج فيه</FormN>
+<FormA num="1">ma3adech netfarej feh</FormA>
+<FormA num="2">ma3adich nitfarij fih</FormA>
+<FormA num="3">ma3adech netfarej feh</FormA>
+<FormA num="4">ma3adich nitfarij fih</FormA>
+</mot>
+<mot num="547">
+<FormN>ما عجبتنيش</FormN>
+<FormA num="1">ma 3jebtnich</FormA>
+<FormA num="2">ma 3jebtnech</FormA>
+<FormA num="3">ma 3jibtnich</FormA>
+<FormA num="4">ma 3jibtnech</FormA>
+</mot>
+<mot num="548">
+<FormN>ما عجبتونيش</FormN>
+<FormA num="1">ma 3jebtonich</FormA>
+<FormA num="2">ma 3jebtonech</FormA>
+<FormA num="3">ma 3jibtonich</FormA>
+<FormA num="4">ma 3jibtonech</FormA>
+</mot>
+<mot num="549">
+<FormN>ما عجبنيش</FormN>
+<FormA num="1">ma 3jebnich</FormA>
+<FormA num="2">ma 3jebnech</FormA>
+<FormA num="3">ma 3jibnich</FormA>
+<FormA num="4">ma 3jibnech</FormA>
+</mot>
+<mot num="550">
+<FormN>ما عجبونيش</FormN>
+<FormA num="1">ma 3jebonich</FormA>
+<FormA num="2">ma 3jebonech</FormA>
+<FormA num="3">ma 3jibonich</FormA>
+<FormA num="4">ma 3jibonech</FormA>
+</mot>
+<mot num="551">
+<FormN>ما هضمتكش</FormN>
+<FormA num="1">ma hathamtekch</FormA>
+<FormA num="2">ma hethemtekch</FormA>
+<FormA num="3">ma hithemtikch</FormA>
+<FormA num="4">ma hathamtkch</FormA>
+</mot>
+<mot num="552">
+<FormN>مخيب منظرك</FormN>
+<FormA num="1">ma5yeb mantherik</FormA>
+<FormA num="2">ma5yib mantherik</FormA>
+<FormA num="3">ma5yab mantherik</FormA>
+<FormA num="4">ma5yeb manthirek</FormA>
+<FormA num="5">ma5yib manthirek</FormA>
+<FormA num="6">ma5yab manthirek</FormA>
+</mot>
+<mot num="553">
+<FormN>ما هضمتهمش</FormN>
+<FormA num="1">ma hathamtehomch</FormA>
+<FormA num="2">ma hethemtehomch</FormA>
+<FormA num="3">ma hithemtihomch</FormA>
+<FormA num="4">ma hathamthomch</FormA>
+</mot>
+<mot num="554">
+<FormN>ما هضمتوش</FormN>
+<FormA num="1">ma hathamtoch</FormA>
+<FormA num="2">ma hethamtoch</FormA>
+<FormA num="3">ma hithamtoch</FormA>
+<FormA num="4">ma hathemtoch</FormA>
+</mot>
+<mot num="555">
+<FormN>ما يضحكش جملة</FormN>
+<FormA num="1">ma yethahekch jomela</FormA>
+<FormA num="2">ma yethahekch jomila</FormA>
+<FormA num="3">ma yethehikch jomila</FormA>
+<FormA num="4">ma yethehikch jomela</FormA>
+</mot>
+<mot num="556">
+<FormN>ما يضحكنيش</FormN>
+<FormA num="1">ma yethaheknech</FormA>
+<FormA num="2">ma yethaheknich</FormA>
+<FormA num="3">ma yethehiknech</FormA>
+<FormA num="4">ma yethehiknich</FormA>
+</mot>
+<mot num="557">
+<FormN>ما يضحكوش جملة</FormN>
+<FormA num="1">ma yethahekoch jomela</FormA>
+<FormA num="2">ma yethahekoch jomila</FormA>
+<FormA num="3">ma yethehikoch jomila</FormA>
+<FormA num="4">ma yethehikoch jomela</FormA>
+</mot>
+<mot num="558">
+<FormN>ما يضحكونيش</FormN>
+<FormA num="1">ma yethahekonech</FormA>
+<FormA num="2">ma yethahekonich</FormA>
+<FormA num="3">ma yethehikonech</FormA>
+<FormA num="4">ma yethehikonich</FormA>
+</mot>
+<mot num="559">
+<FormN>ما يعرفش يقدم البرنامج</FormN>
+<FormA num="1">ma ya3refech yekadem bernamej</FormA>
+<FormA num="2">ma ye3refech yekadem barnamej</FormA>
+<FormA num="3">ma ya3rifich yikadem barnamij</FormA>
+<FormA num="4">ma ye3rifich yikadem barnamij</FormA>
+</mot>
+<mot num="560">
+<FormN>متخلفة و حقيرة و حيوانة</FormN>
+<FormA num="1">mat5alefa we hakira we hayawena</FormA>
+<FormA num="2">met5alefa we hakira we hayawena</FormA>
+<FormA num="3">mit5alefa we hakira we hayawena</FormA>
+<FormA num="4">mot5alefa we hakira we hayawena</FormA>
+</mot>
+<mot num="561">
+<FormN>متخلفة ياسر</FormN>
+<FormA num="1">mat5alefa yaser</FormA>
+<FormA num="2">met5alefa yaser</FormA>
+<FormA num="3">mit5alefa yaser</FormA>
+<FormA num="4">mot5alefa yaser</FormA>
+<FormA num="5">mat5alefa yasir</FormA>
+<FormA num="6">met5alefa yasir</FormA>
+<FormA num="7">mit5alefa yasir</FormA>
+<FormA num="8">mot5alefa yasir</FormA>
+</mot>
+<mot num="562">
+<FormN>متخلفين و حقيرين و حيوانات</FormN>
+<FormA num="1">mat5alefin we hakirin we hayawenat</FormA>
+<FormA num="2">met5alefin we hakirin we hayawenat</FormA>
+<FormA num="3">mit5alefin we hakirin we hayawenat</FormA>
+<FormA num="4">mot5alefin we hakirin we hayawenat</FormA>
+</mot>
+<mot num="563">
+<FormN>متخلفين ياسر</FormN>
+<FormA num="1">mat5alefin yaser</FormA>
+<FormA num="2">met5alefin yaser</FormA>
+<FormA num="3">mit5alefin yaser</FormA>
+<FormA num="4">mot5alefin yaser</FormA>
+<FormA num="5">mat5alefin yasir</FormA>
+<FormA num="6">met5alefin yasir</FormA>
+<FormA num="7">mit5alefin yasir</FormA>
+<FormA num="8">mot5alefin yasir</FormA>
+</mot>
+<mot num="564">
+<FormN>متخلف و حقير و حيوان</FormN>
+<FormA num="1">mat5alef we hakir we hayawen</FormA>
+<FormA num="2">met5alef we hakir we hayawen</FormA>
+<FormA num="3">mit5alef we hakir we hayawen</FormA>
+<FormA num="4">mot5alef we hakir we hayawen</FormA>
+</mot>
+<mot num="565">
+<FormN>متخلف ياسر</FormN>
+<FormA num="1">mat5alef yaser</FormA>
+<FormA num="2">met5alef yaser</FormA>
+<FormA num="3">mit5alef yaser</FormA>
+<FormA num="4">mot5alef yaser</FormA>
+<FormA num="5">mat5alef yasir</FormA>
+<FormA num="6">met5alef yasir</FormA>
+<FormA num="7">mit5alef yasir</FormA>
+<FormA num="8">mot5alef yasir</FormA>
+</mot>
+<mot num="566">
+<FormN>مثرين للجدل</FormN>
+<FormA num="1">mothirin lil jadil</FormA>
+<FormA num="2">motherin lel jadel</FormA>
+<FormA num="3">mothirin lel jadel</FormA>
+<FormA num="4">motherin lil jadil</FormA>
+<FormA num="5">mothirin liljadil</FormA>
+<FormA num="6">motherin leljadel</FormA>
+<FormA num="7">mothirin leljadel</FormA>
+<FormA num="8">motherin liljadil</FormA>
+</mot>
+<mot num="567">
+<FormN>مثقل دمهم</FormN>
+<FormA num="1">mothikil damhom</FormA>
+<FormA num="2">mothekel damhom</FormA>
+<FormA num="3">mothikel damhom</FormA>
+<FormA num="4">mothekil damhom</FormA>
+</mot>
+<mot num="568">
+<FormN>مثيرة للجدل</FormN>
+<FormA num="1">mothira lil jadil</FormA>
+<FormA num="2">mothera lel jadel</FormA>
+<FormA num="3">mothira lel jadel</FormA>
+<FormA num="4">mothera lil jadil</FormA>
+<FormA num="5">mothira liljadil</FormA>
+<FormA num="6">mothera leljadel</FormA>
+<FormA num="7">mothira leljadel</FormA>
+<FormA num="8">mothera liljadil</FormA>
+</mot>
+<mot num="569">
+<FormN>مثير للجدل</FormN>
+<FormA num="1">mothir lil jadil</FormA>
+<FormA num="2">mother lel jadel</FormA>
+<FormA num="3">mothir lel jadel</FormA>
+<FormA num="4">mother lil jadil</FormA>
+<FormA num="5">mothir liljadil</FormA>
+<FormA num="6">mother leljadel</FormA>
+<FormA num="7">mothir leljadel</FormA>
+<FormA num="8">mother liljadil</FormA>
+</mot>
+<mot num="570">
+<FormN>مخالفة للاخلاق الحميدة</FormN>
+<FormA num="1">mo5alifa lila5lek elhamida</FormA>
+<FormA num="2">mokhalifa lilakhlek elhamida</FormA>
+<FormA num="3">mo5alefa lela5lek elhamida</FormA>
+<FormA num="4">mokhalefa lelakhlek elhamida</FormA>
+</mot>
+<mot num="571">
+<FormN>مخيب وجهك</FormN>
+<FormA num="1">ma5yeb wejhik</FormA>
+<FormA num="2">ma5yib wejhek</FormA>
+<FormA num="3">ma5yeb wejhek</FormA>
+<FormA num="4">ma5yib wijhik</FormA>
+</mot>
+<mot num="572">
+<FormN>مخيب وجه</FormN>
+<FormA num="1">ma5yeb wejho</FormA>
+<FormA num="2">ma5yib wejeho</FormA>
+<FormA num="3">ma5yeb wejiho</FormA>
+<FormA num="4">ma5yib wejhou</FormA>
+</mot>
+<mot num="573">
+<FormN>مخيب وجوهكم شلايك</FormN>
+<FormA num="1">ma5yeb wejohikom cheleyek</FormA>
+<FormA num="2">ma5yib wejohekom cheleyek</FormA>
+<FormA num="3">ma5yeb wejohekom cheleyek</FormA>
+<FormA num="4">ma5yib wijohikom cheleyek</FormA>
+</mot>
+<mot num="574">
+<FormN>مذرحة علخر</FormN>
+<FormA num="1">matherha 3lo5ir</FormA>
+<FormA num="2">matherha 3lo5er</FormA>
+<FormA num="3">metherha 3lo5ir</FormA>
+<FormA num="4">metherha 3lo5er</FormA>
+</mot>
+<mot num="575">
+<FormN>مذرحين علخر</FormN>
+<FormA num="1">matherhin 3lo5ir</FormA>
+<FormA num="2">matherhin 3lo5er</FormA>
+<FormA num="3">metherhin 3lo5ir</FormA>
+<FormA num="4">metherhin 3lo5er</FormA>
+</mot>
+<mot num="576">
+<FormN>مذرح علخر</FormN>
+<FormA num="1">matherih 3lo5ir</FormA>
+<FormA num="2">matherih 3lo5er</FormA>
+<FormA num="3">metherih 3lo5ir</FormA>
+<FormA num="4">metherih 3lo5er</FormA>
+</mot>
+<mot num="577">
+<FormN>مذيعة فاجرة</FormN>
+<FormA num="1">mothe3a fajera</FormA>
+<FormA num="2">mothi3a fajera</FormA>
+<FormA num="3">mothe3a fajira</FormA>
+<FormA num="4">mothi3a fajira</FormA>
+</mot>
+<mot num="578">
+<FormN>مذيع فاجر</FormN>
+<FormA num="1">mothe3 fajer</FormA>
+<FormA num="2">mothi3 fajer</FormA>
+<FormA num="3">mothe3 fajir</FormA>
+<FormA num="4">mothi3 fajir</FormA>
+</mot>
+<mot num="579">
+<FormN>مرزنك و مرزن ملايكتك</FormN>
+<FormA num="1">marzenek we marzen meleyektik</FormA>
+<FormA num="2">marzanak we marzan melayektik</FormA>
+</mot>
+<mot num="580">
+<FormN>مرزن ملايكتو</FormN>
+<FormA num="1">marzen meleyekto</FormA>
+<FormA num="2">marzan melayekto</FormA>
+</mot>
+<mot num="581">
+<FormN>مساط ياسر</FormN>
+<FormA num="1">mesat yaser</FormA>
+<FormA num="2">masat yaser</FormA>
+<FormA num="3">mesat yasir</FormA>
+<FormA num="4">masat yasir</FormA>
+<FormA num="5">مصاط ياسر</FormA>
+</mot>
+<mot num="582">
+<FormN>مستفزة جدا</FormN>
+<FormA num="1">mostafeza jedan</FormA>
+<FormA num="2">mostafiza jidan</FormA>
+</mot>
+<mot num="583">
+<FormN>مستفزين جدا</FormN>
+<FormA num="1">mostafezin jedan</FormA>
+<FormA num="2">mostafizin jidan</FormA>
+</mot>
+<mot num="584">
+<FormN>مستفز جدا</FormN>
+<FormA num="1">mostafez jedan</FormA>
+<FormA num="2">mostafiz jidan</FormA>
+</mot>
+<mot num="585">
+<FormN>مستواه منحط</FormN>
+<FormA num="1">mostaweh monhat</FormA>
+<FormA num="2">mostawih monhat</FormA>
+</mot>
+<mot num="586">
+<FormN>مستوى النقاش منحدر</FormN>
+<FormA num="1">mostaweh nekach monhat</FormA>
+<FormA num="2">mostawih nikach monhat</FormA>
+</mot>
+<mot num="587">
+<FormN>مستوى ردي</FormN>
+<FormA num="1">mostawa radi</FormA>
+<FormA num="2">mostawa radie</FormA>
+<FormA num="3">مستوى ردى</FormA>
+</mot>
+<mot num="588">
+<FormN>مستوى متدني</FormN>
+<FormA num="1">mostawa motadani</FormA>
+<FormA num="2">mostawa mtadani</FormA>
+<FormA num="3">مستوى متدنى</FormA>
+</mot>
+<mot num="589">
+<FormN>مستوى منحط</FormN>
+<FormA num="1">mostawa monhat</FormA>
+<FormA num="2">mostawa monhet</FormA>
+</mot>
+<mot num="590">
+<FormN>مستويات منحطة</FormN>
+<FormA num="1">mostawayet monhat</FormA>
+<FormA num="2">mostawayit monhat</FormA>
+</mot>
+<mot num="591">
+<FormN>مش حاجة</FormN>
+<FormA num="1">moch haja</FormA>
+<FormA num="2">mech haja</FormA>
+<FormA num="3">mich haja</FormA>
+</mot>
+<mot num="592">
+<FormN>معادش تجبلنا</FormN>
+<FormA num="1">ma3adich tjebelna</FormA>
+<FormA num="2">me3adich tjebelna</FormA>
+<FormA num="3">ma3adich tjibelna</FormA>
+<FormA num="4">me3adich tjibelna</FormA>
+</mot>
+<mot num="593">
+<FormN>معادش تجبولنا</FormN>
+<FormA num="1">ma3adich tjebolna</FormA>
+<FormA num="2">me3adich tjebolna</FormA>
+<FormA num="3">ma3adich tjibolna</FormA>
+<FormA num="4">me3adich tjibolna</FormA>
+</mot>
+<mot num="594">
+<FormN>معادش تجيبوا</FormN>
+<FormA num="1">ma3adich tjebo</FormA>
+<FormA num="2">me3adich tjebo</FormA>
+<FormA num="3">ma3adich tjibo</FormA>
+<FormA num="4">me3adich tjibo</FormA>
+<FormA num="5">معادش تجيبو</FormA>
+</mot>
+<mot num="595">
+<FormN>معادش تجيب</FormN>
+<FormA num="1">ma3adich tjeb</FormA>
+<FormA num="2">me3adich tjeb</FormA>
+<FormA num="3">ma3adich tjib</FormA>
+<FormA num="4">me3adich tjib</FormA>
+</mot>
+<mot num="596">
+<FormN>مقدمة فاشلة</FormN>
+<FormA num="1">mokadema fachela</FormA>
+<FormA num="2">mokadema fachila</FormA>
+<FormA num="3">mokadima fachela</FormA>
+<FormA num="4">mokadima fachila</FormA>
+</mot>
+<mot num="597">
+<FormN>مقدمين فاشلين</FormN>
+<FormA num="1">mokademin fachela</FormA>
+<FormA num="2">mokademin fachila</FormA>
+<FormA num="3">mokadimin fachela</FormA>
+<FormA num="4">mokadimin fachila</FormA>
+</mot>
+<mot num="598">
+<FormN>مقدم فاشل</FormN>
+<FormA num="1">mokadem fachela</FormA>
+<FormA num="2">mokadem fachila</FormA>
+<FormA num="3">mokadim fachela</FormA>
+<FormA num="4">mokadim fachila</FormA>
+</mot>
+<mot num="599">
+<FormN>ملا برامج</FormN>
+<FormA num="1">mala baramej</FormA>
+<FormA num="2">mela baramej</FormA>
+<FormA num="3">mala baramij</FormA>
+<FormA num="4">mela baramij</FormA>
+</mot>
+<mot num="600">
+<FormN>ملا برنامج</FormN>
+<FormA num="1">mala barnamej</FormA>
+<FormA num="2">mela barnamej</FormA>
+<FormA num="3">mala barnamij</FormA>
+<FormA num="4">mela barnamij</FormA>
+</mot>
+<mot num="601">
+<FormN>ملا تطاول</FormN>
+<FormA num="1">mala tatawel</FormA>
+<FormA num="2">mela tatawel</FormA>
+<FormA num="3">mala tatawil</FormA>
+<FormA num="4">mela tatawil</FormA>
+</mot>
+<mot num="602">
+<FormN>ملا تفاهات</FormN>
+<FormA num="1">mala tafahat</FormA>
+<FormA num="2">mela tafahat</FormA>
+<FormA num="3">mala tafahet</FormA>
+<FormA num="4">mela tafahet</FormA>
+</mot>
+<mot num="603">
+<FormN>ملا تفاهة</FormN>
+<FormA num="1">mala tafaha</FormA>
+<FormA num="2">mela tafaha</FormA>
+<FormA num="3">mala tafeha</FormA>
+<FormA num="4">mela tafeha</FormA>
+</mot>
+<mot num="604">
+<FormN>ملا جبرية</FormN>
+<FormA num="1">mala jabereya</FormA>
+<FormA num="2">mela jabereya</FormA>
+<FormA num="3">mala jaberiya</FormA>
+<FormA num="4">mela jaberiya</FormA>
+</mot>
+<mot num="605">
+<FormN>ملا جبري</FormN>
+<FormA num="1">mala jabere</FormA>
+<FormA num="2">mela jabere</FormA>
+<FormA num="3">mala jaberi</FormA>
+<FormA num="4">mela jaberi</FormA>
+<FormA num="5">ملا جبرى</FormA>
+</mot>
+<mot num="606">
+<FormN>ملا جبور</FormN>
+<FormA num="1">mala jabore</FormA>
+<FormA num="2">mela jabore</FormA>
+<FormA num="3">mala jabor</FormA>
+<FormA num="4">mela jabor</FormA>
+</mot>
+<mot num="607">
+<FormN>ملا حالة</FormN>
+<FormA num="1">mala hala</FormA>
+<FormA num="2">mela hala</FormA>
+<FormA num="3">mala hela</FormA>
+<FormA num="4">mela hela</FormA>
+</mot>
+<mot num="608">
+<FormN>ملا حثالة</FormN>
+<FormA num="1">mala hothela</FormA>
+<FormA num="2">mela hothela</FormA>
+<FormA num="3">mala hothala</FormA>
+<FormA num="4">mela hothala</FormA>
+</mot>
+<mot num="609">
+<FormN>ملا حيوانات</FormN>
+<FormA num="1">mala haywanet</FormA>
+<FormA num="2">mela haywanet</FormA>
+<FormA num="3">mala haywanat</FormA>
+<FormA num="4">mela haywanat</FormA>
+</mot>
+<mot num="610">
+<FormN>ملا حيوانة</FormN>
+<FormA num="1">mala hayawena</FormA>
+<FormA num="2">mela hayawena</FormA>
+<FormA num="3">mala haywena</FormA>
+<FormA num="4">mela haywena</FormA>
+</mot>
+<mot num="611">
+<FormN>ملا حيوان</FormN>
+<FormA num="1">mala hayawen</FormA>
+<FormA num="2">mela hayawen</FormA>
+<FormA num="3">mala haywen</FormA>
+<FormA num="4">mela haywen</FormA>
+</mot>
+<mot num="612">
+<FormN>ملا فضايح</FormN>
+<FormA num="1">mala fathayah</FormA>
+<FormA num="2">mela fathayah</FormA>
+<FormA num="3">mala fetheyeh</FormA>
+<FormA num="4">mela fetheyeh</FormA>
+</mot>
+<mot num="613">
+<FormN>ملا فضيحة</FormN>
+<FormA num="1">mala fatheha</FormA>
+<FormA num="2">mela fatheha</FormA>
+<FormA num="3">mala fathiha</FormA>
+<FormA num="4">mela fathiha</FormA>
+</mot>
+<mot num="614">
+<FormN>ملا كارثة</FormN>
+<FormA num="1">mala karetha</FormA>
+<FormA num="2">mela karetha</FormA>
+<FormA num="3">mala karitha</FormA>
+<FormA num="4">mela karitha</FormA>
+</mot>
+<mot num="615">
+<FormN>ملا لحاس</FormN>
+<FormA num="1">mala lahase</FormA>
+<FormA num="2">mela lahase</FormA>
+<FormA num="3">mala lahese</FormA>
+<FormA num="4">mela lahese</FormA>
+</mot>
+<mot num="616">
+<FormN>ملا ماسطة</FormN>
+<FormA num="1">mala masita</FormA>
+<FormA num="2">mela masita</FormA>
+<FormA num="3">mala maseta</FormA>
+<FormA num="4">mela maseta</FormA>
+</mot>
+<mot num="617">
+<FormN>ملا ماسطين</FormN>
+<FormA num="1">mala masitin</FormA>
+<FormA num="2">mela masitin</FormA>
+<FormA num="3">mala masetin</FormA>
+<FormA num="4">mela masetin</FormA>
+</mot>
+<mot num="618">
+<FormN>ملا ماسط</FormN>
+<FormA num="1">mala masit</FormA>
+<FormA num="2">mela masit</FormA>
+<FormA num="3">mala maset</FormA>
+<FormA num="4">mela maset</FormA>
+</mot>
+<mot num="619">
+<FormN>ملا مساطة</FormN>
+<FormA num="1">mala mesata</FormA>
+<FormA num="2">mela mesata</FormA>
+<FormA num="3">mala masata</FormA>
+<FormA num="4">mela masata</FormA>
+</mot>
+<mot num="620">
+<FormN>ملا مستوى</FormN>
+<FormA num="1">mala mostawa</FormA>
+<FormA num="2">mela mostawa</FormA>
+<FormA num="3">mala mestawa</FormA>
+<FormA num="4">mela mestawa</FormA>
+</mot>
+<mot num="621">
+<FormN>ملا مستويات</FormN>
+<FormA num="1">mala mostawayet</FormA>
+<FormA num="2">mela mostawayet</FormA>
+<FormA num="3">mala mestawayat</FormA>
+<FormA num="4">mela mestawayat</FormA>
+</mot>
+<mot num="622">
+<FormN>ملا مناظر</FormN>
+<FormA num="1">mala manather</FormA>
+<FormA num="2">mela manather</FormA>
+<FormA num="3">mala manathir</FormA>
+<FormA num="4">mela manathir</FormA>
+</mot>
+<mot num="623">
+<FormN>ملا منظر</FormN>
+<FormA num="1">mala manther</FormA>
+<FormA num="2">mela manther</FormA>
+<FormA num="3">mala manthir</FormA>
+<FormA num="4">mela manthir</FormA>
+</mot>
+<mot num="624">
+<FormN>ملا مهازل</FormN>
+<FormA num="1">mala mahazel</FormA>
+<FormA num="2">mela mahazel</FormA>
+<FormA num="3">mala mahazil</FormA>
+<FormA num="4">mela mahazil</FormA>
+</mot>
+<mot num="625">
+<FormN>ملهى تلفزيوني</FormN>
+<FormA num="1">malha televizeyoni</FormA>
+<FormA num="2">malha televizioni</FormA>
+<FormA num="3">ملهى تلفزيونى</FormA>
+</mot>
+<mot num="626">
+<FormN>ممسطهم الكل</FormN>
+<FormA num="1">mamsathom ilkol</FormA>
+<FormA num="2">mamsathom elkol</FormA>
+<FormA num="3">mamsethom ilkol</FormA>
+<FormA num="4">mamsethom elkol</FormA>
+<FormA num="5">ممصطهم الكل</FormA>
+</mot>
+<mot num="627">
+<FormN>منافق كبير</FormN>
+<FormA num="1">monafik kebir</FormA>
+<FormA num="2">monafek keber</FormA>
+<FormA num="3">monafik keber</FormA>
+<FormA num="4">monafek kebir</FormA>
+</mot>
+<mot num="628">
+<FormN>منافق و لحاس</FormN>
+<FormA num="1">monafik we lahase</FormA>
+<FormA num="2">monafek we lahase</FormA>
+<FormA num="3">monafik w lahase</FormA>
+<FormA num="4">monafek w lahase</FormA>
+</mot>
+<mot num="629">
+<FormN>منحطة و تافهة</FormN>
+<FormA num="1">monhata we tafeha</FormA>
+<FormA num="2">monhata we tafeha</FormA>
+<FormA num="3">monhata we tafiha</FormA>
+<FormA num="4">monhata we tafiha</FormA>
+</mot>
+<mot num="630">
+<FormN>منحطين و تافهين</FormN>
+<FormA num="1">monhatin we tafehin</FormA>
+<FormA num="2">monhatin we tafehin</FormA>
+<FormA num="3">monhatin we tafhin</FormA>
+<FormA num="4">monhatin we tafhin</FormA>
+</mot>
+<mot num="631">
+<FormN>منحط و تافه</FormN>
+<FormA num="1">monhat we tafeh</FormA>
+<FormA num="2">monhat we tafeh</FormA>
+<FormA num="3">monhat we tafih</FormA>
+<FormA num="4">monhat we tafih</FormA>
+</mot>
+<mot num="632">
+<FormN>من انتم</FormN>
+<FormA num="1">man antom</FormA>
+<FormA num="2">man entom</FormA>
+<FormA num="3">man intom</FormA>
+</mot>
+<mot num="633">
+<FormN>من ذالك الابله</FormN>
+<FormA num="1">man thaka alablah</FormA>
+<FormA num="2">man thaka elablah</FormA>
+<FormA num="3">man thaka ilablah</FormA>
+</mot>
+<mot num="634">
+<FormN>مهزلة كبيرة</FormN>
+<FormA num="1">mahzela kebera</FormA>
+<FormA num="2">mahzela kabera</FormA>
+<FormA num="3">mahzela kabira</FormA>
+<FormA num="4">mahzila kabera</FormA>
+<FormA num="5">mahzila kabira</FormA>
+<FormA num="6">mahzila kebera</FormA>
+</mot>
+<mot num="635">
+<FormN>موش ظامر</FormN>
+<FormA num="1">mouch thamer</FormA>
+<FormA num="2">mouch thamer</FormA>
+<FormA num="3">mouch thamir</FormA>
+<FormA num="4">mouch thamir</FormA>
+</mot>
+<mot num="636">
+<FormN>موش متربي</FormN>
+<FormA num="1">mouch motrobi</FormA>
+<FormA num="2">mouch motrobi</FormA>
+<FormA num="3">mouch metrobi</FormA>
+<FormA num="4">mouch metrobi</FormA>
+</mot>
+<mot num="637">
+<FormN>موش محضر درسو</FormN>
+<FormA num="1">mouch mahather darso</FormA>
+<FormA num="2">mouch mahathir darso</FormA>
+<FormA num="3">mouch mahather derso</FormA>
+<FormA num="4">mouch mahathir derso</FormA>
+</mot>
+<mot num="638">
+<FormN>نحنا نكرهوا</FormN>
+<FormA num="1">nahna nekerho</FormA>
+<FormA num="2">nahna nikerho</FormA>
+<FormA num="3">nahna nikirho</FormA>
+<FormA num="4">nahna nekirho</FormA>
+<FormA num="5">نحنا نكرهو</FormA>
+</mot>
+<mot num="639">
+<FormN>نشاز في برنامجك</FormN>
+<FormA num="1">nacheze fe barnamejik</FormA>
+<FormA num="2">nachaze fe barnamejik</FormA>
+<FormA num="3">nacheze fi barnamejek</FormA>
+<FormA num="4">nachaze fi barnamejek</FormA>
+</mot>
+<mot num="640">
+<FormN>نشر الغسيل</FormN>
+<FormA num="1">nacher elghasel</FormA>
+<FormA num="2">nacher elghasil</FormA>
+<FormA num="3">nachir ilghasil</FormA>
+<FormA num="4">nachir ilghasel</FormA>
+</mot>
+<mot num="641">
+<FormN>نفس الوجوه</FormN>
+<FormA num="1">nafese elwejoh</FormA>
+<FormA num="2">nafese ilwejoh</FormA>
+<FormA num="3">nafse elwejoh</FormA>
+<FormA num="4">nafse ilwejoh</FormA>
+</mot>
+<mot num="642">
+<FormN>هاك الوزغة</FormN>
+<FormA num="1">hak elwezegha</FormA>
+<FormA num="2">hak ilwezegha</FormA>
+<FormA num="3">hak elwizigha</FormA>
+<FormA num="4">hak ilwizigha</FormA>
+</mot>
+<mot num="643">
+<FormN>هالعيرود اللي جيبينوا</FormN>
+<FormA num="1">hal3irode eli jaybeno</FormA>
+<FormA num="2">hal3irode ili jaybeno</FormA>
+<FormA num="3">hal3irode eli jaybino</FormA>
+<FormA num="4">hal3irode ili jaybino</FormA>
+<FormA num="5">هالعيرود اللي جيبينو</FormA>
+</mot>
+<mot num="644">
+<FormN>هداري فارغة</FormN>
+<FormA num="1">haderi fergha</FormA>
+<FormA num="2">hadari fergha</FormA>
+<FormA num="3">haderi firgha</FormA>
+<FormA num="4">hadari firgha</FormA>
+</mot>
+<mot num="645">
+<FormN>هذا البرنامج اشهر افلاسه</FormN>
+<FormA num="1">hatha barnamej achhar iflasoho</FormA>
+<FormA num="2">hatha barnamij achhar eflasoho</FormA>
+</mot>
+<mot num="646">
+<FormN>هذا موضوع ماينكتوش</FormN>
+<FormA num="1">hatha mawtho3 maynaktoch</FormA>
+</mot>
+<mot num="647">
+<FormN>همال متاع شوارع</FormN>
+<FormA num="1">homal mete3 chare3</FormA>
+<FormA num="2">homal mata3 chari3</FormA>
+</mot>
+<mot num="648">
+<FormN>والله عيب عليكم</FormN>
+<FormA num="1">walah 3ib 3likom</FormA>
+<FormA num="2">walah 3ib alikom</FormA>
+</mot>
+<mot num="649">
+<FormN>وجوه اللوح</FormN>
+<FormA num="1">wejoh elouh</FormA>
+<FormA num="2">wejoh ilouh</FormA>
+<FormA num="3">wojoh elouh</FormA>
+<FormA num="4">wojoh ilouh</FormA>
+</mot>
+<mot num="650">
+<FormN>ولات حالة</FormN>
+<FormA num="1">walet hala</FormA>
+<FormA num="2">walet hela</FormA>
+</mot>
+<mot num="651">
+<FormN>ولاهي كثر الهم يضحك</FormN>
+<FormA num="1">walahi kother elham yethahek</FormA>
+<FormA num="2">walahi kothir ilham yethahik</FormA>
+</mot>
+<mot num="652">
+<FormN>ياسر بليدة</FormN>
+<FormA num="1">yaser belida</FormA>
+<FormA num="2">yasir belida</FormA>
+<FormA num="3">yaser bilida</FormA>
+<FormA num="4">yasir bilida</FormA>
+</mot>
+<mot num="653">
+<FormN>ياسر بليد</FormN>
+<FormA num="1">yaser belid</FormA>
+<FormA num="2">yasir belid</FormA>
+<FormA num="3">yaser bilid</FormA>
+<FormA num="4">yasir bilid</FormA>
+</mot>
+<mot num="654">
+<FormN>ياسر طحين</FormN>
+<FormA num="1">yaser tehin</FormA>
+<FormA num="2">yasir tehin</FormA>
+<FormA num="3">yaser tahin</FormA>
+<FormA num="4">yasir tahin</FormA>
+</mot>
+<mot num="655">
+<FormN>ياسر على الحيط</FormN>
+<FormA num="1">yaser 3la hit</FormA>
+<FormA num="2">yasir 3la hit</FormA>
+<FormA num="3">yaser ala hit</FormA>
+<FormA num="4">yasir ala hit</FormA>
+</mot>
+<mot num="656">
+<FormN>ياسر كوبي ولات</FormN>
+<FormA num="1">yaser kobi walet</FormA>
+<FormA num="2">yasir kobi walet</FormA>
+<FormA num="3">yaser kobi walit</FormA>
+<FormA num="4">yasir kobi walit</FormA>
+</mot>
+<mot num="657">
+<FormN>ياسر ماسطة</FormN>
+<FormA num="1">yaser masata</FormA>
+<FormA num="2">yasir masata</FormA>
+<FormA num="3">yaser masita</FormA>
+<FormA num="4">yasir masita</FormA>
+</mot>
+<mot num="658">
+<FormN>ياسر ماسطين</FormN>
+<FormA num="1">yaser mastin</FormA>
+<FormA num="2">yasir mastin</FormA>
+<FormA num="3">yaser masetin</FormA>
+<FormA num="4">yasir masetin</FormA>
+<FormA num="5">ياسر ماصطين</FormA>
+</mot>
+<mot num="659">
+<FormN>ياسر ماسط</FormN>
+<FormA num="1">yaser masat</FormA>
+<FormA num="2">yasir masat</FormA>
+<FormA num="3">yaser masit</FormA>
+<FormA num="4">yasir masit</FormA>
+<FormA num="5">ياسر ماصط</FormA>
+</mot>
+<mot num="660">
+<FormN>يا بغل يا مسخ</FormN>
+<FormA num="1">ya baghal ya mase5</FormA>
+<FormA num="2">ya baghel ya masa5</FormA>
+<FormA num="3">ya baghil ya masi5</FormA>
+<FormA num="4">ya beghal ya mase5</FormA>
+</mot>
+<mot num="661">
+<FormN>يا بهايم</FormN>
+<FormA num="1">ya bhayem</FormA>
+<FormA num="2">ya bhayim</FormA>
+<FormA num="3">ya bhayam</FormA>
+<FormA num="4">ya bhaym</FormA>
+</mot>
+<mot num="662">
+<FormN>يا بهيمة</FormN>
+<FormA num="1">ya bhima</FormA>
+<FormA num="2">ya bhema</FormA>
+<FormA num="3">ya behima</FormA>
+<FormA num="4">ya bahima</FormA>
+</mot>
+<mot num="663">
+<FormN>يا بهيم</FormN>
+<FormA num="1">ya bhim</FormA>
+<FormA num="2">ya bhem</FormA>
+<FormA num="3">ya behim</FormA>
+</mot>
+<mot num="664">
+<FormN>يا خامجة</FormN>
+<FormA num="1">ya 5ameja</FormA>
+<FormA num="2">ya 5amija</FormA>
+<FormA num="3">ya 5amaja</FormA>
+<FormA num="4">ya khameja</FormA>
+</mot>
+<mot num="665">
+<FormN>يا خامج</FormN>
+<FormA num="1">ya 5amej</FormA>
+<FormA num="2">ya 5amij</FormA>
+<FormA num="3">ya 5amaj</FormA>
+<FormA num="4">ya khamej</FormA>
+</mot>
+<mot num="666">
+<FormN>يا خماج</FormN>
+<FormA num="1">ya 5omej</FormA>
+<FormA num="2">ya khomej</FormA>
+<FormA num="3">ya 5omaj</FormA>
+<FormA num="4">ya khomaj</FormA>
+</mot>
+<mot num="667">
+<FormN>يا سارقة</FormN>
+<FormA num="1">ya sareka</FormA>
+<FormA num="2">ya sarika</FormA>
+<FormA num="3">يا صارقة</FormA>
+</mot>
+<mot num="668">
+<FormN>يا سارقة يا عميلة</FormN>
+<FormA num="1">ya sareka ya 3amela</FormA>
+<FormA num="2">ya sarika ya 3amila</FormA>
+<FormA num="3">يا صارقة يا عميلة</FormA>
+</mot>
+<mot num="669">
+<FormN>يا سارق</FormN>
+<FormA num="1">ya sarek</FormA>
+<FormA num="2">ya sarik</FormA>
+<FormA num="3">يا صارق</FormA>
+</mot>
+<mot num="670">
+<FormN>يا سارق يا عميل</FormN>
+<FormA num="1">ya sareka ya 3amel</FormA>
+<FormA num="2">ya sarika ya 3amil</FormA>
+<FormA num="3">يا صارق يا عميل</FormA>
+</mot>
+<mot num="671">
+<FormN>يا سراق</FormN>
+<FormA num="1">ya sarak</FormA>
+<FormA num="2">يا صراق</FormA>
+</mot>
+<mot num="672">
+<FormN>يا سراق يا عملا</FormN>
+<FormA num="1">ya sarak ya 3omla</FormA>
+<FormA num="2">يا صراق يا عملا</FormA>
+</mot>
+<mot num="673">
+<FormN>يا فارطاس</FormN>
+<FormA num="1">ya fartase</FormA>
+<FormA num="2">يا فرطاس</FormA>
+<FormA num="3">يا فرطاص</FormA>
+</mot>
+<mot num="674">
+<FormN>انكشف المستور</FormN>
+<FormA num="1">enkachafa elmastour</FormA>
+<FormA num="2">inkachafa ilmastour</FormA>
+</mot>
+<mot num="675">
+<FormN>يا قرش يا ولد الشعب</FormN>
+<FormA num="1">ya kerch ya weld cha3b</FormA>
+<FormA num="2">ya 9erch ya weld cha3b</FormA>
+</mot>
+<mot num="676">
+<FormN>يا مسخة</FormN>
+<FormA num="1">ya masa5a</FormA>
+<FormA num="2">ya mese5a</FormA>
+<FormA num="3">يا مصخة</FormA>
+</mot>
+<mot num="677">
+<FormN>يا مسخين</FormN>
+<FormA num="1">ya mas5in</FormA>
+<FormA num="2">ya mes5in</FormA>
+<FormA num="3">يا مصخين</FormA>
+</mot>
+<mot num="678">
+<FormN>يا مسخ</FormN>
+<FormA num="1">ya masa5</FormA>
+<FormA num="2">ya mese5</FormA>
+<FormA num="3">ya masi5</FormA>
+<FormA num="3">يا مصخ</FormA>
+</mot>
+<mot num="679">
+<FormN>يجيب الجاير</FormN>
+<FormA num="1">yejeb eljayer</FormA>
+<FormA num="2">yejeb iljayer</FormA>
+<FormA num="3">yejib eljayir</FormA>
+<FormA num="4">yejib iljayir</FormA>
+</mot>
+<mot num="680">
+<FormN>يخي قداش من مرة تجيبه</FormN>
+<FormA num="1">ya5i kadech men mara tjiboh</FormA>
+<FormA num="2">ye5i kadech men mara tjiboh</FormA>
+</mot>
+<mot num="681">
+<FormN>يزونا من السياسة كرهتونا فيها</FormN>
+<FormA num="1">yezona men elseyasa karahtona feha</FormA>
+<FormA num="2">yizona men ilseyasa karahtona feha</FormA>
+<FormA num="3">yezona min elseyasa karahtona feha</FormA>
+<FormA num="4">yizona min ilseyasa karahtona feha</FormA>
+</mot>
+<mot num="682">
+<FormN>يزيو من هرج</FormN>
+<FormA num="1">yezo men harej</FormA>
+<FormA num="2">yizo men harej</FormA>
+<FormA num="3">yezo min harej</FormA>
+<FormA num="4">yizo min harej</FormA>
+</mot>
+<mot num="683">
+<FormN>يزي من هرج</FormN>
+<FormA num="1">yezi men harej</FormA>
+<FormA num="2">yizi men harej</FormA>
+<FormA num="3">yezi min harej</FormA>
+<FormA num="4">yizi min harej</FormA>
+</mot>
+<mot num="684">
+<FormN>يستغل في عواطف</FormN>
+<FormA num="1">yestghal fe 3awatef</FormA>
+<FormA num="2">yistghal fe 3awatef</FormA>
+<FormA num="3">yestghal fi 3awatef</FormA>
+<FormA num="4">yistghal fi 3awatef</FormA>
+</mot>
+<mot num="685">
+<FormN>يعملوا العار</FormN>
+<FormA num="1">ya3melo el3ar</FormA>
+<FormA num="2">ya3milo el3ar</FormA>
+<FormA num="3">ya3melo il3ar</FormA>
+<FormA num="4">ya3milo el3ar</FormA>
+<FormA num="5">يعملو العار</FormA>
+</mot>
+<mot num="686">
+<FormN>يعمل العار</FormN>
+<FormA num="1">ya3mel el3ar</FormA>
+<FormA num="2">ya3mil el3ar</FormA>
+<FormA num="3">ya3mel il3ar</FormA>
+<FormA num="4">ya3mil el3ar</FormA>
+</mot>
+<mot num="687">
+<FormN>يهتموا بتفاهات</FormN>
+<FormA num="1">yahtamo betafehat</FormA>
+<FormA num="2">yihtamo betafehat</FormA>
+<FormA num="3">yehtamo betafehat</FormA>
+<FormA num="4">يهتمو بتفاهات</FormA>
+</mot>
+<mot num="688">
+<FormN>يهتم بتفاهات</FormN>
+<FormA num="1">yahtam betafehat</FormA>
+<FormA num="2">yihtam betafehat</FormA>
+<FormA num="3">yehtam betafehat</FormA>
+</mot>
+<mot num="689">
+<FormN>يوترو فينا</FormN>
+<FormA num="1">yawatro fena</FormA>
+<FormA num="2">yiwatro fena</FormA>
+<FormA num="3">yewatro fena</FormA>
+<FormA num="4">yawatro fina</FormA>
+<FormA num="5">yiwatro fina</FormA>
+<FormA num="6">yewatro fina</FormA>
+<FormA num="7">يوتروا فينا</FormA>
+</mot>
+<mot num="690">
+<FormN>يوتر فينا</FormN>
+<FormA num="1">yawater fena</FormA>
+<FormA num="2">yiwater fena</FormA>
+<FormA num="3">yewater fena</FormA>
+<FormA num="4">yawatir fina</FormA>
+<FormA num="5">yiwatir fina</FormA>
+<FormA num="6">yewatir fina</FormA>
+</mot>
+<mot num="691">
+<FormN>ابدعتوا فاذهلتوا</FormN>
+<FormA num="1">abda3to fathehalto</FormA>
+<FormA num="2">ابدعتو فاذهلتو</FormA>
+</mot>
+<mot num="692">
+<FormN>ابدعت فاذهلت</FormN>
+<FormA num="1">abda3t fathehalt</FormA>
+</mot>
+<mot num="693">
+<FormN>ابدع فاذهل</FormN>
+<FormA num="1">abda3 fathehal</FormA>
+</mot>
+<mot num="694">
+<FormN>احسن برنامج</FormN>
+<FormA num="1">ahsan barnamej</FormA>
+<FormA num="2">ahsan barnamij</FormA>
+<FormA num="3">ahsen barnamej</FormA>
+<FormA num="4">ahsen barnamij</FormA>
+</mot>
+<mot num="695">
+<FormN>احسن حلقة</FormN>
+<FormA num="1">ahsan halka</FormA>
+<FormA num="2">ahsan hal9a</FormA>
+<FormA num="3">ahsen halka</FormA>
+<FormA num="4">ahsen hal9a</FormA>
+</mot>
+<mot num="696">
+<FormN>احسن قناة</FormN>
+<FormA num="1">ahsan kanat</FormA>
+<FormA num="2">ahsan 9anat</FormA>
+<FormA num="3">ahsen kanat</FormA>
+<FormA num="4">ahsen 9anat</FormA>
+</mot>
+<mot num="697">
+<FormN>احسن قنوات</FormN>
+<FormA num="1">ahsan kanawet</FormA>
+<FormA num="2">ahsan 9anawet</FormA>
+<FormA num="3">ahsen kanawet</FormA>
+<FormA num="4">ahsen 9anawet</FormA>
+</mot>
+<mot num="698">
+<FormN>احسن منشطة</FormN>
+<FormA num="1">ahsan monacheta</FormA>
+<FormA num="2">ahsan monachita</FormA>
+<FormA num="3">ahsen monacheta</FormA>
+<FormA num="4">ahsen monachita</FormA>
+</mot>
+<mot num="699">
+<FormN>احسن منشط</FormN>
+<FormA num="1">ahsan monachet</FormA>
+<FormA num="2">ahsan monachit</FormA>
+<FormA num="3">ahsen monachet</FormA>
+<FormA num="4">ahsen monachit</FormA>
+</mot>
+<mot num="700">
+<FormN>احلا جو</FormN>
+<FormA num="1">ahla jaw</FormA>
+<FormA num="2">ahla jew</FormA>
+</mot>
+<mot num="701">
+<FormN>احلا حلقة</FormN>
+<FormA num="1">ahla halka</FormA>
+<FormA num="2">ahla hal9a</FormA>
+</mot>
+<mot num="702">
+<FormN>احلا ضيفة</FormN>
+<FormA num="1">ahla thayfa</FormA>
+<FormA num="2">ahla theyfa</FormA>
+</mot>
+<mot num="703">
+<FormN>احلا ضيف</FormN>
+<FormA num="1">ahla thayf</FormA>
+<FormA num="2">ahla theyf</FormA>
+</mot>
+<mot num="704">
+<FormN>احلا ضيوف</FormN>
+<FormA num="1">ahla thayof</FormA>
+<FormA num="2">ahla theyof</FormA>
+</mot>
+<mot num="705">
+<FormN>احلى برامج</FormN>
+<FormA num="1">ahla baramej</FormA>
+<FormA num="2">ahla baramij</FormA>
+</mot>
+<mot num="706">
+<FormN>احلى برنامج</FormN>
+<FormA num="1">ahla barnamej</FormA>
+<FormA num="2">ahla barnamij</FormA>
+</mot>
+<mot num="707">
+<FormN>احلى حلقات</FormN>
+<FormA num="1">ahla halkat</FormA>
+<FormA num="2">ahla hal9at</FormA>
+</mot>
+<mot num="708">
+<FormN>احلى حلقة</FormN>
+<FormA num="1">ahla halka</FormA>
+<FormA num="2">ahla hal9a</FormA>
+</mot>
+<mot num="709">
+<FormN>احلى قناة</FormN>
+<FormA num="1">ahla kanat</FormA>
+<FormA num="2">ahla 9anat</FormA>
+</mot>
+<mot num="710">
+<FormN>احلى مذيعة</FormN>
+<FormA num="1">ahla mothe3a</FormA>
+<FormA num="2">ahla mothi3a</FormA>
+</mot>
+<mot num="711">
+<FormN>احلى مذيع</FormN>
+<FormA num="1">ahla mothe3</FormA>
+<FormA num="2">ahla mothi3</FormA>
+</mot>
+<mot num="712">
+<FormN>احلى واحدة فيهم</FormN>
+<FormA num="1">ahla wahda fehom</FormA>
+<FormA num="2">ahla wahda fihom</FormA>
+</mot>
+<mot num="713">
+<FormN>احلى واحد فيهم</FormN>
+<FormA num="1">ahla wahed fehom</FormA>
+<FormA num="2">ahla wahid fihom</FormA>
+</mot>
+<mot num="714">
+<FormN>اشكر كثيرا</FormN>
+<FormA num="1">achkore katheran</FormA>
+<FormA num="2">achkor katheran</FormA>
+</mot>
+<mot num="715">
+<FormN>اعلامي كبير</FormN>
+<FormA num="1">i3lemi keber</FormA>
+<FormA num="2">e3lemi keber</FormA>
+<FormA num="3">i3lemi kebir</FormA>
+<FormA num="4">e3lemi kebir</FormA>
+</mot>
+<mot num="716">
+<FormN>اقوى حلقة</FormN>
+<FormA num="1">akwa halka</FormA>
+<FormA num="2">a9wa halka</FormA>
+<FormA num="3">akwa hal9a</FormA>
+<FormA num="4">a9wa hal9a</FormA>
+</mot>
+<mot num="717">
+<FormN>الله احد عليكم</FormN>
+<FormA num="1">alah ahad 3likom</FormA>
+<FormA num="2">alah ahad alikom</FormA>
+</mot>
+<mot num="718">
+<FormN>الله احد عليك</FormN>
+<FormA num="1">alah ahad 3lik</FormA>
+<FormA num="2">alah ahad alik</FormA>
+</mot>
+<mot num="719">
+<FormN>الله يحفظها</FormN>
+<FormA num="1">alah yahfetheha</FormA>
+<FormA num="2">alah yahfitheha</FormA>
+</mot>
+<mot num="720">
+<FormN>الله يحفظهم</FormN>
+<FormA num="1">alah yahfethehom</FormA>
+<FormA num="2">alah yahfithehom</FormA>
+</mot>
+<mot num="721">
+<FormN>الله يحفظه</FormN>
+<FormA num="1">alah yahfetheh</FormA>
+<FormA num="2">alah yahfitheh</FormA>
+</mot>
+<mot num="722">
+<FormN>الله يرحم والديكم</FormN>
+<FormA num="1">alah yarham waldikom</FormA>
+<FormA num="2">alah yarhem waldikom</FormA>
+</mot>
+<mot num="723">
+<FormN>الله يرحم والديك</FormN>
+<FormA num="1">alah yarham waldik</FormA>
+<FormA num="2">alah yarhem waldik</FormA>
+</mot>
+<mot num="724">
+<FormN>الله يعاونكم</FormN>
+<FormA num="1">alah y3awenkom</FormA>
+<FormA num="2">alah y3awinkom</FormA>
+</mot>
+<mot num="725">
+<FormN>الله يكون في عون</FormN>
+<FormA num="1">alah ykoun fe 3on</FormA>
+<FormA num="2">alah yekoun fi 3oun</FormA>
+</mot>
+<mot num="726">
+<FormN>الله يوفقها</FormN>
+<FormA num="1">alah ywafekha</FormA>
+<FormA num="2">alah yewafekha</FormA>
+</mot>
+<mot num="727">
+<FormN>الله يوفقهم</FormN>
+<FormA num="1">alah ywafekhom</FormA>
+<FormA num="2">alah yewafekhom</FormA>
+</mot>
+<mot num="728">
+<FormN>الله يوفقه</FormN>
+<FormA num="1">alah ywafekoh</FormA>
+<FormA num="2">alah yewafekoh</FormA>
+</mot>
+<mot num="729">
+<FormN>انا من عشاق</FormN>
+<FormA num="1">ana men 3ochek</FormA>
+<FormA num="2">ana min 3ochek</FormA>
+</mot>
+<mot num="730">
+<FormN>انسانة متميزة</FormN>
+<FormA num="1">ensena motmayza</FormA>
+<FormA num="2">insena motmayza</FormA>
+</mot>
+<mot num="731">
+<FormN>انسانة محترمة</FormN>
+<FormA num="1">ensena mohtarema</FormA>
+<FormA num="2">insena mohtarema</FormA>
+</mot>
+<mot num="732">
+<FormN>انسان متميز</FormN>
+<FormA num="1">ensen motmayez</FormA>
+<FormA num="2">insen motmayiz</FormA>
+</mot>
+<mot num="733">
+<FormN>انسان محترم</FormN>
+<FormA num="1">ensen mohtarem</FormA>
+<FormA num="2">insen mohtarem</FormA>
+</mot>
+<mot num="734">
+<FormN>باهية برشة</FormN>
+<FormA num="1">baheya barcha</FormA>
+<FormA num="2">bahiya barcha</FormA>
+<FormA num="3">baheya barsha</FormA>
+<FormA num="4">bahiya barsha</FormA>
+<FormA num="5">باهية برشا</FormA>
+</mot>
+<mot num="735">
+<FormN>باهين برشة</FormN>
+<FormA num="1">bahin barcha</FormA>
+<FormA num="2">bahen barcha</FormA>
+<FormA num="3">bahin barsha</FormA>
+<FormA num="4">bahen barsha</FormA>
+<FormA num="5">باهين برشا</FormA>
+</mot>
+<mot num="736">
+<FormN>باهي برشة</FormN>
+<FormA num="1">bahe barcha</FormA>
+<FormA num="2">bahi barcha</FormA>
+<FormA num="3">bahe barsha</FormA>
+<FormA num="4">bahi barsha</FormA>
+<FormA num="5">باهي برشا</FormA>
+</mot>
+<mot num="737">
+<FormN>برامج جميلة جدا</FormN>
+<FormA num="1">baramej jamela jedan</FormA>
+<FormA num="2">baramij jamila jidan</FormA>
+<FormA num="3">baramij jamila jedan</FormA>
+<FormA num="4">baramej jamela jidan</FormA>
+</mot>
+<mot num="738">
+<FormN>برامج حلوة</FormN>
+<FormA num="1">baramej holowa</FormA>
+<FormA num="2">baramij holowa</FormA>
+<FormA num="3">baramij helowa</FormA>
+<FormA num="4">baramej helowa</FormA>
+</mot>
+<mot num="739">
+<FormN>برامج رايعين</FormN>
+<FormA num="1">baramej ray3in</FormA>
+<FormA num="2">baramij ray3in</FormA>
+<FormA num="3">baramij ray3ine</FormA>
+<FormA num="4">baramej ray3ine</FormA>
+</mot>
+<mot num="740">
+<FormN>برامج ممتازين</FormN>
+<FormA num="1">baramej momtazen</FormA>
+<FormA num="2">baramij momtazen</FormA>
+<FormA num="3">baramij momtazin</FormA>
+<FormA num="4">baramej momtazin</FormA>
+</mot>
+<mot num="741">
+<FormN>برشة جو</FormN>
+<FormA num="1">barcha jaw</FormA>
+<FormA num="2">barsha jaw</FormA>
+<FormA num="3">barcha jew</FormA>
+<FormA num="4">barsha jew</FormA>
+<FormA num="5">برشا جو</FormA>
+</mot>
+<mot num="742">
+<FormN>برشة ضحك</FormN>
+<FormA num="1">barcha thohek</FormA>
+<FormA num="2">barsha thohek</FormA>
+<FormA num="3">barcha thohik</FormA>
+<FormA num="4">barsha thohik</FormA>
+<FormA num="5">برشا ضحك</FormA>
+</mot>
+<mot num="743">
+<FormN>برنامج جميل جدا</FormN>
+<FormA num="1">baramej jamel jedan</FormA>
+<FormA num="2">baramij jamel jedan</FormA>
+<FormA num="3">baramij jamil jidan</FormA>
+<FormA num="4">baramej jamil jidan</FormA>
+</mot>
+<mot num="744">
+<FormN>برنامج حلو</FormN>
+<FormA num="1">baramej hlow</FormA>
+<FormA num="2">baramij hlow</FormA>
+<FormA num="3">baramij helow</FormA>
+<FormA num="4">baramej helow</FormA>
+</mot>
+<mot num="745">
+<FormN>برنامج رايع</FormN>
+<FormA num="1">baramej rayi3</FormA>
+<FormA num="2">baramij rayi3</FormA>
+<FormA num="3">baramij raye3</FormA>
+<FormA num="4">baramej raye3</FormA>
+</mot>
+<mot num="746">
+<FormN>برنامج ممتاز</FormN>
+<FormA num="1">barnamej momtaz</FormA>
+<FormA num="2">barnamij momtaz</FormA>
+<FormA num="3">barnamij momtez</FormA>
+<FormA num="4">barnamej momtez</FormA>
+</mot>
+<mot num="747">
+<FormN>بطلة الحلقة</FormN>
+<FormA num="1">batalet halka</FormA>
+<FormA num="2">batalet hal9a</FormA>
+<FormA num="3">batalit halka</FormA>
+<FormA num="4">batalit hal9a</FormA>
+</mot>
+<mot num="748">
+<FormN>بطل الحلقة</FormN>
+<FormA num="1">batal halka</FormA>
+<FormA num="2">batal hal9a</FormA>
+<FormA num="3">batel halka</FormA>
+<FormA num="4">batel hal9a</FormA>
+</mot>
+<mot num="749">
+<FormN>تبارك الله</FormN>
+<FormA num="1">tabreka alah</FormA>
+<FormA num="2">tabrika alah</FormA>
+<FormA num="3">tabareka alah</FormA>
+<FormA num="4">tabarika alah</FormA>
+</mot>
+<mot num="750">
+<FormN>تبارك الله عليكم</FormN>
+<FormA num="1">tabreka alah 3likom</FormA>
+<FormA num="2">tabrika alah 3likom</FormA>
+<FormA num="3">tabareka alah 3likom</FormA>
+<FormA num="4">tabarika alah 3likom</FormA>
+</mot>
+<mot num="751">
+<FormN>تبارك الله عليك</FormN>
+<FormA num="1">tabreka alah 3lik</FormA>
+<FormA num="2">tabrika alah 3lik</FormA>
+<FormA num="3">tabareka alah 3lik</FormA>
+<FormA num="4">tabarika alah 3lik</FormA>
+</mot>
+<mot num="752">
+<FormN>تبارك الله عليها</FormN>
+<FormA num="1">tabreka alah 3liha</FormA>
+<FormA num="2">tabrika alah 3liha</FormA>
+<FormA num="3">tabareka alah 3liha</FormA>
+<FormA num="4">tabarika alah 3liha</FormA>
+</mot>
+<mot num="753">
+<FormN>تبارك الله عليهم</FormN>
+<FormA num="1">tabreka alah 3lihom</FormA>
+<FormA num="2">tabrika alah 3lihom</FormA>
+<FormA num="3">tabareka alah 3lihom</FormA>
+<FormA num="4">tabarika alah 3lihom</FormA>
+</mot>
+<mot num="754">
+<FormN>تبارك الله عليه</FormN>
+<FormA num="1">tabreka alah 3lih</FormA>
+<FormA num="2">tabrika alah 3lih</FormA>
+<FormA num="3">tabareka alah 3lih</FormA>
+<FormA num="4">tabarika alah 3lih</FormA>
+</mot>
+<mot num="755">
+<FormN>تحفونة برشة</FormN>
+<FormA num="1">tahfona barcha</FormA>
+<FormA num="2">tahfona barsha</FormA>
+<FormA num="3">تحفونة برشا</FormA>
+</mot>
+<mot num="756">
+<FormN>تحفونة و ظامرة</FormN>
+<FormA num="1">tahfona we thamera</FormA>
+<FormA num="2">tahfona we thamira</FormA>
+</mot>
+<mot num="757">
+<FormN>تحفونين برشة</FormN>
+<FormA num="1">tahfonin barcha</FormA>
+<FormA num="2">tahfonin barsha</FormA>
+<FormA num="3">تحفونين برشا</FormA>
+</mot>
+<mot num="758">
+<FormN>تحفونين و ظامرين</FormN>
+<FormA num="1">tahfonin we thamerin</FormA>
+<FormA num="2">tahfonin we thamirin</FormA>
+</mot>
+<mot num="759">
+<FormN>تحفون برشة</FormN>
+<FormA num="1">tahfon barcha</FormA>
+<FormA num="2">tahfon barsha</FormA>
+<FormA num="3">تحفون برشا</FormA>
+</mot>
+<mot num="760">
+<FormN>تحفون و ظامر</FormN>
+<FormA num="1">tahfon we thamer</FormA>
+<FormA num="2">tahfon we thamir</FormA>
+</mot>
+<mot num="761">
+<FormN>تحياتي الخالصة</FormN>
+<FormA num="1">taheyati el5alesa</FormA>
+<FormA num="2">taheyati il5alesa</FormA>
+</mot>
+<mot num="762">
+<FormN>تحياتي لكم</FormN>
+<FormA num="1">taheyati lakom</FormA>
+<FormA num="2">taheyati la9om</FormA>
+</mot>
+<mot num="763">
+<FormN>تحياتي لك</FormN>
+<FormA num="1">taheyati lak</FormA>
+<FormA num="2">taheyati la9</FormA>
+</mot>
+<mot num="764">
+<FormN>تحية تقدير</FormN>
+<FormA num="1">taheya takder</FormA>
+<FormA num="2">tahiya takdir</FormA>
+</mot>
+<mot num="765">
+<FormN>تحية طيبة</FormN>
+<FormA num="1">taheya tayeba</FormA>
+<FormA num="2">tahiya tayiba</FormA>
+</mot>
+<mot num="766">
+<FormN>تعجبني</FormN>
+<FormA num="1">ta3jebni</FormA>
+<FormA num="2">ta3jibni</FormA>
+</mot>
+<mot num="767">
+<FormN>تعجبني برشة</FormN>
+<FormA num="1">ta3jebni barcha</FormA>
+<FormA num="2">ta3jibni barcha</FormA>
+<FormA num="3">ta3jebni barsha</FormA>
+<FormA num="4">ta3jibni barsha</FormA>
+<FormA num="5">تعجبني برشا</FormA>
+</mot>
+<mot num="768">
+<FormN>تعجبوا برشة</FormN>
+<FormA num="1">ta3jebo barcha</FormA>
+<FormA num="2">ta3jibo barcha</FormA>
+<FormA num="3">ta3jebo barsha</FormA>
+<FormA num="4">ta3jibo barsha</FormA>
+<FormA num="5">تعجبو برشة</FormA>
+<FormA num="6">تعجبو برشا</FormA>
+<FormA num="7">تعجبوا برشا</FormA>
+</mot>
+<mot num="769">
+<FormN>تعجبوني</FormN>
+<FormA num="1">ta3jeboni</FormA>
+<FormA num="2">ta3jiboni</FormA>
+</mot>
+<mot num="770">
+<FormN>تعجبوني برشة</FormN>
+<FormA num="1">ta3jeboni barcha</FormA>
+<FormA num="2">ta3jiboni barcha</FormA>
+<FormA num="3">ta3jeboni barsha</FormA>
+<FormA num="4">ta3jiboni barsha</FormA>
+<FormA num="5">تعجبوني برشا</FormA>
+</mot>
+<mot num="771">
+<FormN>تعجب برشة</FormN>
+<FormA num="1">ta3jeb barcha</FormA>
+<FormA num="2">ta3jib barcha</FormA>
+<FormA num="3">ta3jeb barsha</FormA>
+<FormA num="4">ta3jib barsha</FormA>
+<FormA num="5">تعجب برشا</FormA>
+</mot>
+<mot num="772">
+<FormN>تعدات رايضة</FormN>
+<FormA num="1">ta3adat rayetha</FormA>
+<FormA num="2">ta3adat rayitha</FormA>
+<FormA num="3">t3adat rayetha</FormA>
+<FormA num="4">t3adat rayitha</FormA>
+</mot>
+<mot num="773">
+<FormN>تقتلوا بضحك</FormN>
+<FormA num="1">toktelo bethohik</FormA>
+<FormA num="2">toktelo bethohek</FormA>
+<FormA num="3">toktilo bethohik</FormA>
+<FormA num="4">toktilo bethohek</FormA>
+<FormA num="5">تقتلو بضحك</FormA>
+</mot>
+<mot num="774">
+<FormN>تقتل بضحك</FormN>
+<FormA num="1">toktel bethohik</FormA>
+<FormA num="2">toktel bethohek</FormA>
+<FormA num="3">toktil bethohik</FormA>
+<FormA num="4">toktil bethohek</FormA>
+</mot>
+<mot num="775">
+<FormN>تنورو فالحقلة</FormN>
+<FormA num="1">tnawero felhalka</FormA>
+<FormA num="2">tnawero felhal9a</FormA>
+<FormA num="3">tnawiro filhalka</FormA>
+<FormA num="4">tnawiro filhal9a</FormA>
+<FormA num="5">تنوروا فالحلقة</FormA>
+</mot>
+<mot num="776">
+<FormN>تنور فالحقلة</FormN>
+<FormA num="1">tnawer felhalka</FormA>
+<FormA num="2">tnawer felhal9a</FormA>
+<FormA num="3">tnawir filhalka</FormA>
+<FormA num="4">tnawir filhal9a</FormA>
+</mot>
+<mot num="777">
+<FormN>ثابر الى الامام</FormN>
+<FormA num="1">thaber ela amem</FormA>
+<FormA num="2">thaber ila amem</FormA>
+<FormA num="3">thabir ela amem</FormA>
+<FormA num="4">thabir ila amem</FormA>
+</mot>
+<mot num="778">
+<FormN>جو يضحك</FormN>
+<FormA num="1">jaw yethahik</FormA>
+<FormA num="2">jaw yethahek</FormA>
+<FormA num="3">jew yethahik</FormA>
+<FormA num="4">jew yethahek</FormA>
+</mot>
+<mot num="779">
+<FormN>حصة عسل</FormN>
+<FormA num="1">hesa 3asal</FormA>
+<FormA num="2">hisa 3asal</FormA>
+<FormA num="3">hesa 3asel</FormA>
+<FormA num="4">hisa 3asel</FormA>
+</mot>
+<mot num="780">
+<FormN>حصة ممتازة</FormN>
+<FormA num="1">hesa momtaza</FormA>
+<FormA num="2">hisa momtaza</FormA>
+<FormA num="3">hesa momteza</FormA>
+<FormA num="4">hisa momteza</FormA>
+</mot>
+<mot num="781">
+<FormN>حصة موثرة و مغذية</FormN>
+<FormA num="1">hesa moathera we moghatheya</FormA>
+<FormA num="2">hisa moathera we moghatheya</FormA>
+<FormA num="3">hesa moathira we moghathiya</FormA>
+<FormA num="4">hisa moathira we moghathiya</FormA>
+</mot>
+<mot num="782">
+<FormN>حصص عسل</FormN>
+<FormA num="1">hesas 3asal</FormA>
+<FormA num="2">hisas 3asal</FormA>
+<FormA num="3">hesas 3asel</FormA>
+<FormA num="4">hisas 3asel</FormA>
+</mot>
+<mot num="783">
+<FormN>حلقات باه‍ين</FormN>
+<FormA num="1">halkat bahin</FormA>
+<FormA num="2">hal9at bahin</FormA>
+<FormA num="3">helkat behin</FormA>
+<FormA num="4">hel9at behin</FormA>
+<FormA num="5">halkat bahyn</FormA>
+<FormA num="6">hal9at bahyn</FormA>
+<FormA num="7">helkat behyn</FormA>
+<FormA num="8">hel9at behyn</FormA>
+</mot>
+<mot num="784">
+<FormN>حلقات حلوين</FormN>
+<FormA num="1">halkat holowin</FormA>
+<FormA num="2">hal9at holowin</FormA>
+<FormA num="3">helkat holowin</FormA>
+<FormA num="4">hel9at holowin</FormA>
+<FormA num="5">halkat holowyn</FormA>
+<FormA num="6">hal9at holowyn</FormA>
+<FormA num="7">helkat holowyn</FormA>
+<FormA num="8">hel9at holowyn</FormA>
+</mot>
+<mot num="785">
+<FormN>حلقات طايرين</FormN>
+<FormA num="1">halkat tayrin</FormA>
+<FormA num="2">hal9at tayrin</FormA>
+<FormA num="3">helkat tayrin</FormA>
+<FormA num="4">hel9at tayrin</FormA>
+</mot>
+<mot num="786">
+<FormN>حلقات عالمية</FormN>
+<FormA num="1">halkat 3alamiya</FormA>
+<FormA num="2">hal9at 3alamiya</FormA>
+<FormA num="3">helkat 3alamiya</FormA>
+<FormA num="4">hel9at 3alamiya</FormA>
+</mot>
+<mot num="787">
+<FormN>حلقات قويين</FormN>
+<FormA num="1">halkat kowin</FormA>
+<FormA num="2">hal9at kowin</FormA>
+<FormA num="3">helkat kowin</FormA>
+<FormA num="4">hel9at kowin</FormA>
+<FormA num="5">halkat kowyn</FormA>
+<FormA num="6">hal9at kowyn</FormA>
+<FormA num="7">helkat kowyn</FormA>
+<FormA num="8">hel9at kowyn</FormA>
+</mot>
+<mot num="788">
+<FormN>حلقات قويين برشة</FormN>
+<FormA num="1">halkat kowin barcha</FormA>
+<FormA num="2">hal9at kowin barcha</FormA>
+<FormA num="3">helkat kowin barcha</FormA>
+<FormA num="4">hel9at kowin barcha</FormA>
+<FormA num="5">حلقات قويين برشا</FormA>
+</mot>
+<mot num="789">
+<FormN>حلقات نظاف</FormN>
+<FormA num="1">halkat nethaf</FormA>
+<FormA num="2">hal9at nethaf</FormA>
+<FormA num="3">helkat nethaf</FormA>
+<FormA num="4">hel9at nethaf</FormA>
+</mot>
+<mot num="790">
+<FormN>حلقة باه‍ية</FormN>
+<FormA num="1">halka baheya</FormA>
+<FormA num="2">hal9a baheya</FormA>
+<FormA num="3">helka beheya</FormA>
+<FormA num="4">hel9a beheya</FormA>
+</mot>
+<mot num="791">
+<FormN>حلقة جميلة</FormN>
+<FormA num="1">halka jamila</FormA>
+<FormA num="2">hal9a jamila</FormA>
+<FormA num="3">helka jamila</FormA>
+<FormA num="4">hel9a jamila</FormA>
+</mot>
+<mot num="792">
+<FormN>حلقة حلوة</FormN>
+<FormA num="1">halka hlowa</FormA>
+<FormA num="2">hal9a hlowa</FormA>
+<FormA num="3">helka hlowa</FormA>
+<FormA num="4">hel9a hlowa</FormA>
+</mot>
+<mot num="793">
+<FormN>حلقة طيارة</FormN>
+<FormA num="1">halka tayara</FormA>
+<FormA num="2">hal9a tayara</FormA>
+<FormA num="3">helka tayara</FormA>
+<FormA num="4">hel9a tayara</FormA>
+</mot>
+<mot num="794">
+<FormN>حلقة عالمية</FormN>
+<FormA num="1">halka 3alameya</FormA>
+<FormA num="2">hal9a 3alameya</FormA>
+<FormA num="3">helka 3alameya</FormA>
+<FormA num="4">hel9a 3alameya</FormA>
+</mot>
+<mot num="795">
+<FormN>حلقة قوية</FormN>
+<FormA num="1">halka 9weya</FormA>
+<FormA num="2">hal9a 9weya</FormA>
+<FormA num="3">helka 9weya</FormA>
+<FormA num="4">hel9a 9weya</FormA>
+</mot>
+<mot num="796">
+<FormN>حلقة قوية برشة</FormN>
+<FormA num="1">halka 9weya barcha</FormA>
+<FormA num="2">hal9a 9weya barcha</FormA>
+<FormA num="3">helka 9weya barcha</FormA>
+<FormA num="4">hel9a 9weya barcha</FormA>
+<FormA num="5">حلقة قوية برشا</FormA>
+</mot>
+<mot num="797">
+<FormN>حلقة مزيانة</FormN>
+<FormA num="1">halka mezyana</FormA>
+<FormA num="2">hal9a mezyana</FormA>
+<FormA num="3">helka mezyana</FormA>
+<FormA num="4">hel9a mezyana</FormA>
+</mot>
+<mot num="798">
+<FormN>حلقة ممتازة</FormN>
+<FormA num="1">halka momtaza</FormA>
+<FormA num="2">hal9a momtaza</FormA>
+<FormA num="3">helka momtaza</FormA>
+<FormA num="4">hel9a momtaza</FormA>
+</mot>
+<mot num="799">
+<FormN>حلقة نظيفة</FormN>
+<FormA num="1">halka nthefa</FormA>
+<FormA num="2">hal9a nthefa</FormA>
+<FormA num="3">helka nthefa</FormA>
+<FormA num="4">hel9a nthefa</FormA>
+</mot>
+<mot num="800">
+<FormN>حلوة برشة</FormN>
+<FormA num="1">hlowa barcha</FormA>
+<FormA num="2">hlowa barsha</FormA>
+<FormA num="3">حلوة برشا</FormA>
+</mot>
+<mot num="801">
+<FormN>حلوة ياسر</FormN>
+<FormA num="1">hlowa yaser</FormA>
+<FormA num="2">hlowa yasir</FormA>
+</mot>
+<mot num="802">
+<FormN>حلوين</FormN>
+<FormA num="1">hlowin</FormA>
+<FormA num="2">hlowen</FormA>
+</mot>
+<mot num="803">
+<FormN>حلوين برشة</FormN>
+<FormA num="1">hlowin barcha</FormA>
+<FormA num="2">hlowen barcha</FormA>
+<FormA num="3">hlowin barsha</FormA>
+<FormA num="4">hlowen barsha</FormA>
+<FormA num="5">حلوين برشا</FormA>
+</mot>
+<mot num="804">
+<FormN>حلوين ياسر</FormN>
+<FormA num="1">hlowin yaser</FormA>
+<FormA num="2">hlowen yaser</FormA>
+<FormA num="3">hlowin yasir</FormA>
+<FormA num="4">hlowen yasir</FormA>
+</mot>
+<mot num="805">
+<FormN>حلو برشة</FormN>
+<FormA num="1">hlow barcha</FormA>
+<FormA num="2">hlow barsha</FormA>
+<FormA num="3">حلو برشا</FormA>
+</mot>
+<mot num="806">
+<FormN>حلو ياسر</FormN>
+<FormA num="1">hlow yaser</FormA>
+<FormA num="2">hlow yasir</FormA>
+</mot>
+<mot num="807">
+<FormN>حوت عليك</FormN>
+<FormA num="1">hot 3lik</FormA>
+<FormA num="2">hot alik</FormA>
+</mot>
+<mot num="808">
+<FormN>خدمة ياسر تحفونة</FormN>
+<FormA num="1">5edema yaser tahfona</FormA>
+<FormA num="2">5idema yasir tahfona</FormA>
+</mot>
+<mot num="809">
+<FormN>خمسة و خميس</FormN>
+<FormA num="1">5amsa we 5mise</FormA>
+<FormA num="2">khamsa we khmise</FormA>
+</mot>
+<mot num="810">
+<FormN>دايما في قلب الحدث</FormN>
+<FormA num="1">dayeman fe 9alb elhadeth</FormA>
+<FormA num="2">dayeman fe 9alb ilhadeth</FormA>
+</mot>
+<mot num="811">
+<FormN>دايما متالقة</FormN>
+<FormA num="1">dayeman motalka</FormA>
+<FormA num="2">dayeman motalika</FormA>
+<FormA num="3">dayeman motal9a</FormA>
+<FormA num="4">dayeman motali9a</FormA>
+</mot>
+<mot num="812">
+<FormN>دايما متالقين</FormN>
+<FormA num="1">dayeman motalkin</FormA>
+<FormA num="2">dayeman motalikin</FormA>
+<FormA num="3">dayeman motal9in</FormA>
+<FormA num="4">dayeman motali9in</FormA>
+</mot>
+<mot num="813">
+<FormN>دايما متالق</FormN>
+<FormA num="1">dayeman motalk</FormA>
+<FormA num="2">dayeman motalik</FormA>
+<FormA num="3">dayeman motal9</FormA>
+<FormA num="4">dayeman motali9</FormA>
+</mot>
+<mot num="814">
+<FormN>راكم باهين و ناجحين</FormN>
+<FormA num="1">rakom bahin we najhin</FormA>
+<FormA num="2">rakom bahen we najhen</FormA>
+</mot>
+<mot num="815">
+<FormN>راكم تهبلوا</FormN>
+<FormA num="1">rakom thablo</FormA>
+<FormA num="2">rakom tehablo</FormA>
+<FormA num="3">راكم تهبلو</FormA>
+</mot>
+<mot num="816">
+<FormN>راك باهية و ناجحة</FormN>
+<FormA num="1">rak baheya we najeha</FormA>
+<FormA num="2">rak bahiya we najiha</FormA>
+</mot>
+<mot num="817">
+<FormN>راك باهي و ناجح</FormN>
+<FormA num="1">rak bahe we najeh</FormA>
+<FormA num="2">rak bahi we najih</FormA>
+</mot>
+<mot num="818">
+<FormN>راك تهبل</FormN>
+<FormA num="1">rak tehabel</FormA>
+<FormA num="2">rak tahabil</FormA>
+</mot>
+<mot num="819">
+<FormN>راك معلمة</FormN>
+<FormA num="1">rak m3alima</FormA>
+<FormA num="2">rak m3alema</FormA>
+</mot>
+<mot num="820">
+<FormN>راك معلم</FormN>
+<FormA num="1">rak m3alim</FormA>
+<FormA num="2">rak m3alem</FormA>
+</mot>
+<mot num="821">
+<FormN>ربي اكون معاكم</FormN>
+<FormA num="1">rabi ekon m3akom</FormA>
+<FormA num="2">rabi ikon m3akom</FormA>
+</mot>
+<mot num="822">
+<FormN>ربي اكون معاك</FormN>
+<FormA num="1">rabi ekon m3ak</FormA>
+<FormA num="2">rabi ikon m3ak</FormA>
+</mot>
+<mot num="823">
+<FormN>ربي معاكم</FormN>
+<FormA num="1">rabi m3akom</FormA>
+<FormA num="2">rabi m3akom</FormA>
+</mot>
+<mot num="824">
+<FormN>ربي معاك</FormN>
+<FormA num="1">rabi m3ak</FormA>
+</mot>
+<mot num="825">
+<FormN>ربي يعاونكم</FormN>
+<FormA num="1">rabi 3awinkom</FormA>
+<FormA num="2">rabi 3awenkom</FormA>
+</mot>
+<mot num="826">
+<FormN>ربي يعاونك</FormN>
+<FormA num="1">rabi y3awinik</FormA>
+<FormA num="2">rabi y3awenek</FormA>
+</mot>
+<mot num="827">
+<FormN>ربي يكون في العون</FormN>
+<FormA num="1">rabi ykon fe el3oun</FormA>
+<FormA num="2">rabi ykon fi il3oun</FormA>
+</mot>
+<mot num="828">
+<FormN>ربي يوفقك</FormN>
+<FormA num="1">rabi ywafkik</FormA>
+<FormA num="2">rabi ywaf9i9</FormA>
+</mot>
+<mot num="829">
+<FormN>ربي يوفقه</FormN>
+<FormA num="1">rabi ywafkoh</FormA>
+<FormA num="2">rabi ywaf9oh</FormA>
+</mot>
+<mot num="830">
+<FormN>رب معاك</FormN>
+<FormA num="1">rabi m3ak</FormA>
+<FormA num="2">rabi mi3ak</FormA>
+</mot>
+<mot num="831">
+<FormN>رب ينور طريقكم</FormN>
+<FormA num="1">rabi ynawer trikom</FormA>
+<FormA num="2">rabi ynawir trikom</FormA>
+</mot>
+<mot num="832">
+<FormN>روعة طيارة</FormN>
+<FormA num="1">raw3a tayra</FormA>
+<FormA num="2">raw3a tayera</FormA>
+</mot>
+<mot num="833">
+<FormN>سلطانة التلفازة</FormN>
+<FormA num="1">soltanat eltalvaza</FormA>
+<FormA num="2">soltanat iltalvaza</FormA>
+</mot>
+<mot num="834">
+<FormN>سهرية تفتق</FormN>
+<FormA num="1">sahreya tfatak</FormA>
+<FormA num="2">sahriya tfatak</FormA>
+</mot>
+<mot num="835">
+<FormN>سهرية طيارة</FormN>
+<FormA num="1">sahreya tayara</FormA>
+<FormA num="2">sahriya tayara</FormA>
+</mot>
+<mot num="836">
+<FormN>سياسية بمتياز</FormN>
+<FormA num="1">seyaseya bemteyez</FormA>
+<FormA num="2">seyasiya bemteyez</FormA>
+</mot>
+<mot num="837">
+<FormN>سياسي بمتياز</FormN>
+<FormA num="1">seyase bemteyez</FormA>
+<FormA num="2">seyasi bemteyez</FormA>
+</mot>
+<mot num="838">
+<FormN>شبعة ضحك</FormN>
+<FormA num="1">chab3a thohik</FormA>
+<FormA num="2">chab3a thohek</FormA>
+</mot>
+<mot num="839">
+<FormN>شخصية رايعه</FormN>
+<FormA num="1">cha5seya ray3a</FormA>
+<FormA num="2">cha5siya ray3a</FormA>
+</mot>
+<mot num="840">
+<FormN>شي يمتع ويضيف للمشاهد</FormN>
+<FormA num="1">chay ymate3 we ythef lilmochehed</FormA>
+<FormA num="2">chay ymati3 we ythif lilmochehid</FormA>
+</mot>
+<mot num="841">
+<FormN>صوت رايع جدا</FormN>
+<FormA num="1">sawet raye3 jedan</FormA>
+<FormA num="2">sawit rayi3 jidan</FormA>
+</mot>
+<mot num="842">
+<FormN>طاير بيكم</FormN>
+<FormA num="1">tayer bekom</FormA>
+<FormA num="2">tayir bikom</FormA>
+</mot>
+<mot num="843">
+<FormN>طيارة ياسر</FormN>
+<FormA num="1">tayera yaser</FormA>
+<FormA num="2">tayera yasir</FormA>
+</mot>
+<mot num="844">
+<FormN>عجبتني الحلقة برشة</FormN>
+<FormA num="1">3jbetni elhalka barcha</FormA>
+<FormA num="2">3jbitni ilhalka barcha</FormA>
+<FormA num="3">عجبتني حلقة برشا</FormA>
+</mot>
+<mot num="845">
+<FormN>عشرة على عشرة</FormN>
+<FormA num="1">3chera 3la 3achera</FormA>
+<FormA num="2">3chera ala 3achera</FormA>
+</mot>
+<mot num="846">
+<FormN>قمة الثقافة الشجاعة</FormN>
+<FormA num="1">kimet thakafa chaja3a</FormA>
+<FormA num="2">9imet tha9afa chaja3a</FormA>
+</mot>
+<mot num="847">
+<FormN>كالعادة في تالق</FormN>
+<FormA num="1">kil3ada fe talek</FormA>
+<FormA num="2">kel3ada fi talik</FormA>
+</mot>
+<mot num="848">
+<FormN>كلام نزيه و مقنع و محترم</FormN>
+<FormA num="1">klem nazeh we mokne3 we mohtarem</FormA>
+<FormA num="2">klem nazih wi mokne3 wi mohtarim</FormA>
+</mot>
+<mot num="849">
+<FormN>كل تشجيعاتي</FormN>
+<FormA num="1">kol tachje3ati</FormA>
+</mot>
+<mot num="850">
+<FormN>لا يمل من الاستماع اليه</FormN>
+<FormA num="1">la yomal men elsteme3 eleyh</FormA>
+<FormA num="2">la yomel min ilstime3 ileyh</FormA>
+</mot>
+<mot num="851">
+<FormN>له كل التقدير والاحترام</FormN>
+<FormA num="1">laho kol eltakdir we elehteram</FormA>
+<FormA num="2">laho kol iltakdir wi ilehteram</FormA>
+</mot>
+<mot num="852">
+<FormN>ما شا الله عليها</FormN>
+<FormA num="1">macha alah 3liha</FormA>
+<FormA num="2">macha alah aliha</FormA>
+</mot>
+<mot num="853">
+<FormN>ما شا الله عليهم</FormN>
+<FormA num="1">macha alah 3lihom</FormA>
+<FormA num="2">macha alah alihom</FormA>
+</mot>
+<mot num="854">
+<FormN>ما شا الله عليه</FormN>
+<FormA num="1">macha alah 3lih</FormA>
+<FormA num="2">macha alah alih</FormA>
+</mot>
+<mot num="855">
+<FormN>مبدع و متالق دايما</FormN>
+<FormA num="1">mobde3 we motalek dayman</FormA>
+<FormA num="2">mobdi3 wi motalik dayman</FormA>
+</mot>
+<mot num="856">
+<FormN>متالقة على الدوام</FormN>
+<FormA num="1">motalka 3la dawam</FormA>
+<FormA num="2">motalka ala dawam</FormA>
+</mot>
+<mot num="857">
+<FormN>متالق على الدوام</FormN>
+<FormA num="1">motalik 3la dawam</FormA>
+<FormA num="2">motalik ala dawam</FormA>
+</mot>
+<mot num="858">
+<FormN>محلاكم واصلوا</FormN>
+<FormA num="1">mahlakom waselo</FormA>
+<FormA num="2">mahlakom wasilo</FormA>
+<FormA num="3">محلاكم واصلو</FormA>
+</mot>
+<mot num="859">
+<FormN>محلاك واصل</FormN>
+<FormA num="1">mahlek wasel</FormA>
+<FormA num="2">mahlak wasil</FormA>
+</mot>
+<mot num="860">
+<FormN>محلا زينكم</FormN>
+<FormA num="1">mahla zinkom</FormA>
+<FormA num="2">mahla zenkom</FormA>
+</mot>
+<mot num="861">
+<FormN>محلا زينك</FormN>
+<FormA num="1">mahla zinik</FormA>
+<FormA num="2">mahla zenek</FormA>
+</mot>
+<mot num="862">
+<FormN>محلا زينها</FormN>
+<FormA num="1">mahla zinha</FormA>
+<FormA num="2">mahla zenha</FormA>
+</mot>
+<mot num="863">
+<FormN>محلا زينهم</FormN>
+<FormA num="1">mahla zinhom</FormA>
+<FormA num="2">mahla zenhom</FormA>
+</mot>
+<mot num="864">
+<FormN>محلا زينه</FormN>
+<FormA num="1">mahla zinoh</FormA>
+<FormA num="2">mahla zenoh</FormA>
+</mot>
+<mot num="865">
+<FormN>مشا الله تقتلوا عسل</FormN>
+<FormA num="1">macha alah toktlo 3sal</FormA>
+<FormA num="2">macha alah toktelo 3sal</FormA>
+<FormA num="3">مشا الله تقتلو عسل</FormA>
+</mot>
+<mot num="866">
+<FormN>مشا الله تقتل عسل</FormN>
+<FormA num="1">macha alah toktil 3sal</FormA>
+<FormA num="2">macha alah toktel 3sal</FormA>
+</mot>
+<mot num="867">
+<FormN>مشا الله عليكم</FormN>
+<FormA num="1">macha alah 3likom</FormA>
+<FormA num="2">macha alah alikom</FormA>
+</mot>
+<mot num="868">
+<FormN>مشا الله عليك</FormN>
+<FormA num="1">macha alah 3lik</FormA>
+<FormA num="2">macha alah alik</FormA>
+</mot>
+<mot num="869">
+<FormN>مشا الله يقتلوا عسل</FormN>
+<FormA num="1">macha alah yoktlo 3sal</FormA>
+<FormA num="2">macha alah yoktelo 3sal</FormA>
+<FormA num="3">مشا الله يقتلو عسل</FormA>
+</mot>
+<mot num="870">
+<FormN>مشا الله يقتل عسل</FormN>
+<FormA num="1">macha alah yoktil 3sal</FormA>
+<FormA num="2">macha alah yoktel 3sal</FormA>
+</mot>
+<mot num="871">
+<FormN>ممثلة رايعة</FormN>
+<FormA num="1">momathela ray3a</FormA>
+<FormA num="2">momathila ray3a</FormA>
+</mot>
+<mot num="872">
+<FormN>ممثلة طيارة</FormN>
+<FormA num="1">momathela tayara</FormA>
+<FormA num="2">momathila tayara</FormA>
+</mot>
+<mot num="873">
+<FormN>ممثلة قوية</FormN>
+<FormA num="1">momathela 9weya</FormA>
+<FormA num="2">momathila 9weya</FormA>
+<FormA num="3">momathela kweya</FormA>
+<FormA num="4">momathila 9weya</FormA>
+</mot>
+<mot num="874">
+<FormN>ممثل رايع</FormN>
+<FormA num="1">momathel raya3</FormA>
+<FormA num="2">momathil rayi3</FormA>
+</mot>
+<mot num="875">
+<FormN>ممثل طاير</FormN>
+<FormA num="1">momathela tayer</FormA>
+<FormA num="2">momathila tayir</FormA>
+<FormA num="3">momathela tayir</FormA>
+<FormA num="4">momathila tayer</FormA>
+</mot>
+<mot num="876">
+<FormN>ممثل قوي</FormN>
+<FormA num="1">momathel 9wi</FormA>
+<FormA num="2">momathil 9wi</FormA>
+<FormA num="3">momathel kwi</FormA>
+<FormA num="4">momathil 9wi</FormA>
+</mot>
+<mot num="877">
+<FormN>منشطة تحفونة</FormN>
+<FormA num="1">monacheta tahfona</FormA>
+<FormA num="2">monachita tahfona</FormA>
+</mot>
+<mot num="878">
+<FormN>منشطة تستحق التشجيع</FormN>
+<FormA num="1">monacheta tastahek tachje3</FormA>
+<FormA num="2">monachita tastahek tachje3</FormA>
+</mot>
+<mot num="879">
+<FormN>منشطة متربية و مثقفة</FormN>
+<FormA num="1">monacheta motrobeya we motha9efa</FormA>
+<FormA num="2">monachita motrobeya we motha9efa</FormA>
+</mot>
+<mot num="880">
+<FormN>منشطة ناجحة</FormN>
+<FormA num="1">monacheta najeha</FormA>
+<FormA num="2">monachita najeha</FormA>
+</mot>
+<mot num="881">
+<FormN>منشط تحفون</FormN>
+<FormA num="1">monachet tahfone</FormA>
+<FormA num="2">monachit tahfone</FormA>
+</mot>
+<mot num="882">
+<FormN>منشط متربي و مثقف</FormN>
+<FormA num="1">monachet motrobe we motha9ef</FormA>
+<FormA num="2">monachit motrobe we motha9ef</FormA>
+</mot>
+<mot num="883">
+<FormN>منشط ناجح</FormN>
+<FormA num="1">monachet najeh</FormA>
+<FormA num="2">monachit najeh</FormA>
+</mot>
+<mot num="884">
+<FormN>منشط يستحق التشجيع</FormN>
+<FormA num="1">monachet yastahek tachje3</FormA>
+<FormA num="2">monachit yastahek tachje3</FormA>
+</mot>
+<mot num="885">
+<FormN>منور الحلقة</FormN>
+<FormA num="1">monawer halka</FormA>
+<FormA num="2">monawir halka</FormA>
+<FormA num="3">monawer hal9a</FormA>
+<FormA num="4">monawir hal9a</FormA>
+</mot>
+<mot num="886">
+<FormN>منورة الحلقة</FormN>
+<FormA num="1">monawera halka</FormA>
+<FormA num="2">monawira halka</FormA>
+<FormA num="3">monawera hal9a</FormA>
+<FormA num="4">monawira hal9a</FormA>
+</mot>
+<mot num="887">
+<FormN>منورين الحلقة</FormN>
+<FormA num="1">monawerin halka</FormA>
+<FormA num="2">monawirin halka</FormA>
+<FormA num="3">monawerin hal9a</FormA>
+<FormA num="4">monawirin hal9a</FormA>
+</mot>
+<mot num="888">
+<FormN>مواضيع باهين</FormN>
+<FormA num="1">mawathe3 behin</FormA>
+<FormA num="2">mawathi3 behin</FormA>
+<FormA num="3">mawethi3 behin</FormA>
+<FormA num="4">mawethe3 behin</FormA>
+</mot>
+<mot num="889">
+<FormN>مواضيع هايلين</FormN>
+<FormA num="1">mawathe3 haylin</FormA>
+<FormA num="2">mawathi3 haylin</FormA>
+<FormA num="3">mawethi3 haylin</FormA>
+<FormA num="4">mawethe3 haylin</FormA>
+</mot>
+<mot num="890">
+<FormN>موش بطالة</FormN>
+<FormA num="1">mouch batala</FormA>
+<FormA num="2">mouch batela</FormA>
+<FormA num="3">moch batala</FormA>
+<FormA num="4">moch batela</FormA>
+</mot>
+<mot num="891">
+<FormN>موش نورمال</FormN>
+<FormA num="1">mouch normal</FormA>
+<FormA num="2">mouch normale</FormA>
+<FormA num="3">moch normal</FormA>
+<FormA num="4">moch normale</FormA>
+</mot>
+<mot num="892">
+<FormN>موضوع باهي</FormN>
+<FormA num="1">mawatho3 behi</FormA>
+<FormA num="2">mawtho3 behi</FormA>
+</mot>
+<mot num="893">
+<FormN>موضوع غاية في اهمية</FormN>
+<FormA num="1">mawatho3 ghaya fe ahameya</FormA>
+<FormA num="2">mawtho3 ghaya fe ahameya</FormA>
+</mot>
+<mot num="894">
+<FormN>موضوع هايل</FormN>
+<FormA num="1">mawatho3 hayel</FormA>
+<FormA num="2">mawtho3 hayel</FormA>
+<FormA num="3">mawatho3 hayil</FormA>
+<FormA num="4">mawtho3 hayil</FormA>
+</mot>
+<mot num="895">
+<FormN>نحبك برشة</FormN>
+<FormA num="1">nehebik barcha</FormA>
+<FormA num="2">nhebik barcha</FormA>
+<FormA num="3">نحبك برشا</FormA>
+</mot>
+<mot num="896">
+<FormN>نحبكم برشة</FormN>
+<FormA num="1">nehebikom barcha</FormA>
+<FormA num="2">nhebikom barcha</FormA>
+<FormA num="3">نحبكم برشا</FormA>
+</mot>
+<mot num="897">
+<FormN>نموتوا عليك</FormN>
+<FormA num="1">nemoto 3lik</FormA>
+<FormA num="2">nemoto alik</FormA>
+<FormA num="3">نموتو عليك</FormA>
+</mot>
+<mot num="898">
+<FormN>نموتوا عليه</FormN>
+<FormA num="1">nemoto 3lih</FormA>
+<FormA num="2">nemoto alih</FormA>
+<FormA num="3">نموتو عليه</FormA>
+</mot>
+<mot num="899">
+<FormN>نموت عليك</FormN>
+<FormA num="1">nemot 3lik</FormA>
+<FormA num="2">nemot alik</FormA>
+</mot>
+<mot num="900">
+<FormN>نموت عليها</FormN>
+<FormA num="1">nemoto 3liha</FormA>
+<FormA num="2">nemoto aliha</FormA>
+</mot>
+<mot num="901">
+<FormN>نموت عليهم</FormN>
+<FormA num="1">nemoto 3lihom</FormA>
+<FormA num="2">nemoto alihom</FormA>
+</mot>
+<mot num="902">
+<FormN>نموت عليه</FormN>
+<FormA num="1">nemoto 3lih</FormA>
+<FormA num="2">nemoto alih</FormA>
+</mot>
+<mot num="903">
+<FormN>هايلة ياسر</FormN>
+<FormA num="1">hayla yaser</FormA>
+<FormA num="2">hayla yasir</FormA>
+</mot>
+<mot num="904">
+<FormN>هايلين ياسر</FormN>
+<FormA num="1">haylin yaser</FormA>
+<FormA num="2">haylin yasir</FormA>
+</mot>
+<mot num="905">
+<FormN>هايل ياسر</FormN>
+<FormA num="1">hayel yaser</FormA>
+<FormA num="2">hayil yasir</FormA>
+</mot>
+<mot num="906">
+<FormN>واقعي و عقلاني</FormN>
+<FormA num="1">waki3i we 3aklani</FormA>
+<FormA num="2">wake3i we 3aklani</FormA>
+<FormA num="3">waki3y we 3aklany</FormA>
+<FormA num="4">wake3y we 3aklany</FormA>
+</mot>
+<mot num="907">
+<FormN>والله يعطيكم صحة</FormN>
+<FormA num="1">walah ya3tikom saha</FormA>
+<FormA num="2">walah ya3ti9om saha</FormA>
+</mot>
+<mot num="908">
+<FormN>والله يعطيك صحة</FormN>
+<FormA num="1">walah ya3tik saha</FormA>
+<FormA num="2">walah ya3ti9 saha</FormA>
+</mot>
+<mot num="909">
+<FormN>و الله قتلني بالضحك</FormN>
+<FormA num="1">walah katalni bethohik</FormA>
+<FormA num="2">walah katalni bithohek</FormA>
+</mot>
+<mot num="910">
+<FormN>و الله قتلوني بالضحك</FormN>
+<FormA num="1">walah katloni bethohik</FormA>
+<FormA num="2">walah katloni bithohek</FormA>
+</mot>
+<mot num="911">
+<FormN>ياسر حلوة</FormN>
+<FormA num="1">yaser hlowa</FormA>
+<FormA num="2">yasir hlowa</FormA>
+</mot>
+<mot num="912">
+<FormN>ياسر حلوين</FormN>
+<FormA num="1">yaser hlowin</FormA>
+<FormA num="2">yasir hlowin</FormA>
+</mot>
+<mot num="913">
+<FormN>ياسر حلو</FormN>
+<FormA num="1">yaser hlow</FormA>
+<FormA num="2">yasir hlow</FormA>
+</mot>
+<mot num="914">
+<FormN>ياسر ظامرة</FormN>
+<FormA num="1">yaser thamera</FormA>
+<FormA num="2">yasir thamera</FormA>
+</mot>
+<mot num="915">
+<FormN>ياسر ظامرين</FormN>
+<FormA num="1">yaser thamerin</FormA>
+<FormA num="2">yasir thamerin</FormA>
+</mot>
+<mot num="916">
+<FormN>ياسر ظامر</FormN>
+<FormA num="1">yaser thamer</FormA>
+<FormA num="2">yasir thamir</FormA>
+</mot>
+<mot num="917">
+<FormN>ياسر قوية</FormN>
+<FormA num="1">yaser kweya</FormA>
+<FormA num="2">yasir kweya</FormA>
+<FormA num="3">yaser 9weya</FormA>
+<FormA num="4">yasir 9weya</FormA>
+</mot>
+<mot num="918">
+<FormN>ياسر قويين</FormN>
+<FormA num="1">yaser kweyin</FormA>
+<FormA num="2">yasir kweyin</FormA>
+<FormA num="3">yaser 9weyin</FormA>
+<FormA num="4">yasir 9weyin</FormA>
+</mot>
+<mot num="919">
+<FormN>ياسر قوي</FormN>
+<FormA num="1">yaser kwi</FormA>
+<FormA num="2">yasir kwi</FormA>
+<FormA num="3">yaser 9wi</FormA>
+<FormA num="4">yasir 9wi</FormA>
+<FormA num="5">yaser kwy</FormA>
+<FormA num="6">yasir kwy</FormA>
+<FormA num="7">yaser 9wy</FormA>
+<FormA num="8">yasir 9wy</FormA>
+</mot>
+<mot num="920">
+<FormN>ياسر متثقفة</FormN>
+<FormA num="1">yaser motethakefa</FormA>
+<FormA num="2">yasir motethakefa</FormA>
+<FormA num="3">yaser motetha9efa</FormA>
+<FormA num="4">yasir motetha9efa</FormA>
+</mot>
+<mot num="921">
+<FormN>ياسر متثقف</FormN>
+<FormA num="1">yaser motethakef</FormA>
+<FormA num="2">yasir motethakef</FormA>
+<FormA num="3">yaser motetha9ef</FormA>
+<FormA num="4">yasir motetha9ef</FormA>
+</mot>
+<mot num="922">
+<FormN>ياسر محلاكم</FormN>
+<FormA num="1">yaser mahlakom</FormA>
+<FormA num="2">yasir mahlakom</FormA>
+<FormA num="3">yaser mahlekom</FormA>
+<FormA num="4">yasir mahlekom</FormA>
+</mot>
+<mot num="923">
+<FormN>ياسر محلاك</FormN>
+<FormA num="1">yaser mahlak</FormA>
+<FormA num="2">yasir mahlak</FormA>
+<FormA num="3">yaser mahlek</FormA>
+<FormA num="4">yasir mahlek</FormA>
+</mot>
+<mot num="924">
+<FormN>ياسر محلاها</FormN>
+<FormA num="1">yaser mahlaha</FormA>
+<FormA num="2">yasir mahlaha</FormA>
+<FormA num="3">yaser mahleha</FormA>
+<FormA num="4">yasir mahleha</FormA>
+</mot>
+<mot num="925">
+<FormN>ياسر محلاهم</FormN>
+<FormA num="1">yaser mahlahom</FormA>
+<FormA num="2">yasir mahlahom</FormA>
+<FormA num="3">yaser mahlehom</FormA>
+<FormA num="4">yasir mahlehom</FormA>
+</mot>
+<mot num="926">
+<FormN>ياسر محلاه</FormN>
+<FormA num="1">yaser mahlah</FormA>
+<FormA num="2">yasir mahlah</FormA>
+<FormA num="3">yaser mahleh</FormA>
+<FormA num="4">yasir mahleh</FormA>
+</mot>
+<mot num="927">
+<FormN>يا معذبهم</FormN>
+<FormA num="1">ya m3athabhom</FormA>
+<FormA num="2">ya m3athabhom</FormA>
+<FormA num="3">ya m3athebhom</FormA>
+<FormA num="4">ya m3athebhom</FormA>
+</mot>
+<mot num="928">
+<FormN>يا معلم</FormN>
+<FormA num="1">ya m3alam</FormA>
+<FormA num="2">ya m3alem</FormA>
+<FormA num="3">ya m3alim</FormA>
+</mot>
+<mot num="929">
+<FormN>يرحم والديك</FormN>
+<FormA num="1">yarham waldik</FormA>
+<FormA num="2">yarhem waldik</FormA>
+<FormA num="3">yarham waldek</FormA>
+<FormA num="4">yarhem waldek</FormA>
+</mot>
+<mot num="930">
+<FormN>يستحقوا احترام و حب</FormN>
+<FormA num="1">yesthako ihteram we hobe</FormA>
+<FormA num="2">yesthako ehteram we hobe</FormA>
+<FormA num="3">yasthako ihteram we hobe</FormA>
+<FormA num="4">yasthako ehteram we hobe</FormA>
+</mot>
+<mot num="931">
+<FormN>يستحق احترام و حب</FormN>
+<FormA num="1">yesthak ihteram we hobe</FormA>
+<FormA num="2">yesthak ehteram we hobe</FormA>
+<FormA num="3">yasthak ihteram we hobe</FormA>
+<FormA num="4">yasthak ehteram we hobe</FormA>
+</mot>
+<mot num="932">
+<FormN>يعجبني برشة</FormN>
+<FormA num="1">ye3jebni barcha</FormA>
+<FormA num="2">ye3jebni barsha</FormA>
+<FormA num="3">ya3jebni barcha</FormA>
+<FormA num="4">ya3jebni barsha</FormA>
+<FormA num="5">يعجبني برشا</FormA>
+</mot>
+<mot num="933">
+<FormN>يعجبوني برشة</FormN>
+<FormA num="1">ye3jeboni barcha</FormA>
+<FormA num="2">ye3jeboni barsha</FormA>
+<FormA num="3">ya3jeboni barcha</FormA>
+<FormA num="4">ya3jeboni barsha</FormA>
+<FormA num="5">يعجبوني برشا</FormA>
+<FormA num="6">ye3jebony barcha</FormA>
+<FormA num="7">ye3jebony barsha</FormA>
+<FormA num="8">ya3jebony barcha</FormA>
+<FormA num="9">ya3jebony barsha</FormA>
+</mot>
+<mot num="934">
+<FormN>يعطيكم الصحة</FormN>
+<FormA num="1">ye3tik elsaha</FormA>
+<FormA num="2">ye3tik ilsaha</FormA>
+<FormA num="3">ya3tik elsaha</FormA>
+<FormA num="4">ya3tik ilsaha</FormA>
+</mot>
+<mot num="935">
+<FormN>يعطيكم الف صحة</FormN>
+<FormA num="1">ye3tikom alef saha</FormA>
+<FormA num="2">ye3tikom alif saha</FormA>
+<FormA num="3">ya3tikom alef saha</FormA>
+<FormA num="4">ya3tikom alif saha</FormA>
+</mot>
+<mot num="936">
+<FormN>يعطيكم صحة</FormN>
+<FormA num="1">ye3tikom saha</FormA>
+<FormA num="2">ya3tikom saha</FormA>
+</mot>
+<mot num="937">
+<FormN>يعطيك اصحة</FormN>
+<FormA num="1">ye3tik esaha</FormA>
+<FormA num="2">ye3tik isaha</FormA>
+<FormA num="3">ya3tik esaha</FormA>
+<FormA num="4">ya3tik isaha</FormA>
+</mot>
+<mot num="938">
+<FormN>يعطيك الف صحة</FormN>
+<FormA num="1">ye3tik alef saha</FormA>
+<FormA num="2">ye3tik alif saha</FormA>
+<FormA num="3">ya3tik alef saha</FormA>
+<FormA num="4">ya3tik alif saha</FormA>
+</mot>
+<mot num="939">
+<FormN>يعطيك صحة</FormN>
+<FormA num="1">ye3tik saha</FormA>
+<FormA num="2">ya3tik saha</FormA>
+</mot>
+<mot num="940">
+<FormN>يعطيها الصحة</FormN>
+<FormA num="1">ya3teha elsaha</FormA>
+<FormA num="2">ya3teha ilsaha</FormA>
+<FormA num="3">ya3tiha elsaha</FormA>
+<FormA num="4">ya3tiha ilsaha</FormA>
+</mot>
+<mot num="941">
+<FormN>يعطيهم الصحة</FormN>
+<FormA num="1">ya3tehom elsaha</FormA>
+<FormA num="2">ya3tehom ilsaha</FormA>
+<FormA num="3">ya3tihom elsaha</FormA>
+<FormA num="4">ya3tihom ilsaha</FormA>
+</mot>
+<mot num="942">
+<FormN>يعطيه الصحة</FormN>
+<FormA num="1">ya3teh elsaha</FormA>
+<FormA num="2">ya3teh ilsaha</FormA>
+<FormA num="3">ya3tih elsaha</FormA>
+<FormA num="4">ya3tih ilsaha</FormA>
+<FormA num="5">ya3tyh elsaha</FormA>
+<FormA num="6">ya3tyh ilsaha</FormA>
+</mot>
+<mot num="943">
+<FormN>يقتلوا بضحك</FormN>
+<FormA num="1">yoktlo bethohek</FormA>
+<FormA num="2">yoktlo bithohik</FormA>
+<FormA num="3">yo9tlo bethohek</FormA>
+<FormA num="4">yo9tlo bithohik</FormA>
+<FormA num="5">يقتلو بضحك</FormA>
+<FormA num="6">yoktlo bithohyk</FormA>
+<FormA num="7">yo9tlo bithohyk</FormA>
+</mot>
+<mot num="944">
+<FormN>يقتل بضحك</FormN>
+<FormA num="1">yoktol bethohek</FormA>
+<FormA num="2">yoktol bithohik</FormA>
+<FormA num="3">yo9tol bethohek</FormA>
+<FormA num="4">yo9tol bithohik</FormA>
+<FormA num="5">yoktol bithohyk</FormA>
+<FormA num="6">yo9tol bithohyk</FormA>
+</mot>
+<mot num="945">wahdik</mot>
+<mot num="946">
+<FormN>7al9a an normal</FormN>
+<FormA num="1">hal9a an normal</FormA>
+</mot>
+<mot num="947">
+<FormN>احسن واحد</FormN>
+<FormA num="1">ahsen wahid</FormA>
+</mot>
+<mot num="948">ثابر الى الامام</mot>
+<mot num="949">
+<FormN>عجبوني</FormN>
+<FormA num="1">3ejbouni</FormA>
+</mot>
+<mot num="950">
+<FormN>عجبني</FormN>
+<FormA num="1">3ejebni</FormA>
+</mot>
+<mot num="951">
+<FormN>najhin barcha</FormN>
+<FormA num="1">ناجحين برشة</FormA>
+</mot>
+<mot num="952">
+<FormN>منشط ناجح</FormN>
+<FormA num="1">monachet nejeh</FormA>
+</mot>
+<mot num="953">
+<FormN>ربي يعينك</FormN>
+<FormA num="1">rabi y3enek</FormA>
+<FormA num="2">rabi y3inik</FormA>
+</mot>
+<mot num="954">
+<FormN>mala ka3ba</FormN>
+<FormA num="1">ملا كعبة</FormA>
+</mot>
+<mot num="955">
+<FormN>سمحة</FormN>
+<FormA num="1">semeha</FormA>
+<FormA num="2">simeha</FormA>
+</mot>
+<mot num="956">
+<FormN>رب ينوركم</FormN>
+<FormA num="1">rabi ynawerkom</FormA>
+</mot>
+<mot num="957">
+<FormN>متوسطة</FormN>
+<FormA num="1">motwaseta</FormA>
+</mot>
+<mot num="958">مزيد من تالق</mot>
+<mot num="959">احسن موضوع</mot>
+<mot num="960">مشكورين على البرنامج</mot>
+<mot num="961">
+<FormN>ينور في الناس</FormN>
+<FormA num="1">ynwar fi enas</FormA>
+<FormA num="2">ynawer fi enas</FormA>
+</mot>
+<mot num="962">
+<FormN>mala sel3a</FormN>
+<FormA num="1">ملا سلعة</FormA>
+</mot>
+<mot num="963">
+<FormN>ma9tla dhohik</FormN>
+<FormA num="1">مقتلا ضحك</FormA>
+</mot>
+<mot num="964">اقوى كوميدي</mot>
+<mot num="965">
+<FormN>thahkouni</FormN>
+<FormA num="1">ضحكوني</FormA>
+</mot>
+<mot num="966">
+<FormN>ضحكني</FormN>
+<FormA num="1">thahekni</FormA>
+</mot>
+<mot num="967">
+<FormN>احسن واحد</FormN>
+<FormA num="1">ahsen wahid</FormA>
+</mot>
+<mot num="968">
+<FormN>fekra behya</FormN>
+<FormA num="1">فكرة باهية</FormA>
+</mot>
+<mot num="969">
+<FormN>الموضوع باهي</FormN> 
+<FormA num="1">elmawthou3 behi</FormA>
+</mot>
+<mot num="970">
+<FormN>mech batala</FormN>
+<FormA num="1">مش بطالة</FormA>
+</mot>
+<mot num="971">
+<FormN>m3almiya</FormN>
+<FormA num="1">معلمية</FormA>
+</mot>
+<mot num="972">تحياتي</mot>
+<mot num="973">برنامج جميل جدا</mot>
+<mot num="974">منشط محترف</mot>
+<mot num="975">مرحبا</mot>
+<mot num="976">اهلا وسهلا</mot>
+<mot num="977">ربي معنا</mot>
+<mot num="978">
+<FormN>احلى</FormN>
+<FormA num="1">ahla</FormA>
+</mot>
+<mot num="979">
+<FormN>mouch normal</FormN>
+<FormA num="1">موش نورمال</FormA>
+</mot>
+<mot num="980">توانسة عالم اخر</mot>
+<mot num="981">
+<FormN>موش عادي</FormN>
+<FormA num="1">mouch 3adi</FormA>
+</mot>
+<mot num="982">
+<FormN>نحب</FormN>
+<FormA num="1">neheb</FormA>
+</mot>
+<mot num="983">
+<FormN>nichba3 bil dhohik</FormN>
+<FormA num="1">نشبع بضحك</FormA>
+</mot>
+<mot num="984">
+<FormN>wallah bedmou3</FormN>
+<FormA num="1">والله بالدموع</FormA>
+</mot>
+<mot num="985">
+<FormN>nemot 3la</FormN>
+<FormA num="1">نموت علا</FormA>
+</mot>
+<mot num="986">
+<FormN>cheb3a thohik</FormN>
+<FormA num="1">شبعة ضحك</FormA>
+</mot>
+<mot num="987">حصة تبعث الامل فالشباب</mot>
+<mot num="988">
+<FormN>wahadhom bsaraha</FormN>
+<FormA num="1">وحدهم بصراحة</FormA>
+</mot>
+<mot num="989">امراة المواقف و المبادي</mot>
+<mot num="990">شخصية قوية</mot>
+<mot num="991">الكوميدي رقم واحد في تونس</mot>
+<mot num="992">من ابرز اعلامين</mot>
+<mot num="993">ربي يكون في العون والمساعدة</mot>
+<mot num="994">
+<FormN>برنامج باهي ياسر</FormN>
+<FormA num="1">barnemej behi yeser</FormA>
+</mot>
+<mot num="995">
+<FormN>بالتوفيق</FormN>
+<FormA num="1">betawfik</FormA>
+<FormA num="2">betawfi9</FormA>
+</mot>
+<mot num="996">الله يبارك فيكم</mot>
+<mot num="997">شايخ عليك ضحك</mot>
+<mot num="998">طاير بكم الكل</mot>
+<mot num="999">
+<FormN>ربي ايعاونك</FormN>
+<FormA num="1">rabi e3awinik</FormA>
+<FormA num="2">rabi i3awenek</FormA>
+</mot>
+<mot num="1000">
+<FormN>جميلة</FormN>
+<FormA num="1">jamila</FormA>
+<FormA num="2">jamela</FormA>
+</mot>
+<mot num="1001">موضوع غايه في اهميه</mot>
+<mot num="1002">موضوع طيارة</mot>
+</MotLexique>
